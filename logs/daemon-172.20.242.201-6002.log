@@ -1,0 +1,53 @@
+[2026-03-09 14:19:46.290] [Daemon 172.20.242.201:6002] Started
+[2026-03-09 14:19:46.293] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared3
+[2026-03-09 14:19:46.294] [Daemon] Files: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:19:46.294] [Daemon] Log file: logs/daemon-172.20.242.201-6002.log
+[2026-03-09 14:19:46.298] [Daemon] TCP listening on port 6002
+[2026-03-09 14:19:51.312] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:26:00.800] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:05.804] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:10.838] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:15.842] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:20.849] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:25.863] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:30.866] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:35.872] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:40.876] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:42.025] [Daemon] Shut down.
+[2026-03-09 14:26:43.372] [Daemon 172.20.242.201:6002] Started
+[2026-03-09 14:26:43.374] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared3
+[2026-03-09 14:26:43.374] [Daemon] Files: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:26:43.375] [Daemon] Log file: logs/daemon-172.20.242.201-6002.log
+[2026-03-09 14:26:43.376] [Daemon] TCP listening on port 6002
+[2026-03-09 14:26:48.404] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:31:30.096] [SERVE] GET_SIZE client=/172.20.242.201:38776 file=CapCut_7595812245452439569_installer.exe size=2871648
+[2026-03-09 14:31:30.211] [SERVE] GET_FRAGMENT client=/172.20.242.201:38782 file=CapCut_7595812245452439569_installer.exe offset=0 len=262144 compressed=true sent_bytes=51438 time_ms=42 speed_KB/s=1196
+[2026-03-09 14:31:30.257] [SERVE] GET_FRAGMENT client=/172.20.242.201:38784 file=CapCut_7595812245452439569_installer.exe offset=524288 len=262144 compressed=false sent_bytes=262144 time_ms=33 speed_KB/s=7757
+[2026-03-09 14:31:30.303] [SERVE] GET_FRAGMENT client=/172.20.242.201:38786 file=CapCut_7595812245452439569_installer.exe offset=1048576 len=262144 compressed=false sent_bytes=262144 time_ms=41 speed_KB/s=6243
+[2026-03-09 14:31:30.352] [SERVE] GET_FRAGMENT client=/172.20.242.201:38794 file=CapCut_7595812245452439569_installer.exe offset=1835008 len=262144 compressed=true sent_bytes=262124 time_ms=42 speed_KB/s=6094
+[2026-03-09 14:31:30.380] [SERVE] GET_FRAGMENT client=/172.20.242.201:38810 file=CapCut_7595812245452439569_installer.exe offset=2097152 len=262144 compressed=false sent_bytes=262144 time_ms=23 speed_KB/s=11130
+[2026-03-09 14:31:30.390] [SERVE] GET_FRAGMENT client=/172.20.242.201:38816 file=CapCut_7595812245452439569_installer.exe offset=2621440 len=250208 compressed=true sent_bytes=246234 time_ms=7 speed_KB/s=34351
+[2026-03-11 18:28:07.168] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-11 18:28:08.003] [Daemon] Shut down.
+[2026-03-11 18:40:34.120] [Daemon 172.20.242.201:6002] Started
+[2026-03-11 18:40:34.121] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared3
+[2026-03-11 18:40:34.122] [Daemon] Files: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-11 18:40:34.122] [Daemon] Log file: logs/daemon-172.20.242.201-6002.log
+[2026-03-11 18:40:34.123] [Daemon] TCP listening on port 6002
+[2026-03-11 18:40:39.131] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-11 18:42:21.304] [SERVE] GET_SIZE client=/172.20.242.201:58984 file=CapCut_7595812245452439569_installer.exe size=2871648
+[2026-03-11 18:42:21.368] [SERVE] GET_FRAGMENT client=/172.20.242.201:58990 file=CapCut_7595812245452439569_installer.exe offset=0 len=262144 compressed=true sent_bytes=51438 time_ms=45 speed_KB/s=1116
+[2026-03-11 18:42:21.412] [SERVE] GET_FRAGMENT client=/172.20.242.201:59000 file=CapCut_7595812245452439569_installer.exe offset=786432 len=262144 compressed=true sent_bytes=261537 time_ms=14 speed_KB/s=18243
+[2026-03-11 18:42:21.435] [SERVE] GET_FRAGMENT client=/172.20.242.201:59004 file=CapCut_7595812245452439569_installer.exe offset=1310720 len=262144 compressed=false sent_bytes=262144 time_ms=16 speed_KB/s=16000
+[2026-03-11 18:42:21.457] [SERVE] GET_FRAGMENT client=/172.20.242.201:59008 file=CapCut_7595812245452439569_installer.exe offset=1835008 len=262144 compressed=true sent_bytes=262124 time_ms=7 speed_KB/s=36568
+[2026-03-11 18:42:21.538] [SERVE] GET_FRAGMENT client=/172.20.242.201:59010 file=CapCut_7595812245452439569_installer.exe offset=2359296 len=262144 compressed=false sent_bytes=262144 time_ms=42 speed_KB/s=6095

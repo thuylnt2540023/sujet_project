@@ -1,0 +1,64 @@
+[2026-03-09 14:31:30.074] [Download] === START === file=CapCut_7595812245452439569_installer.exe fragment_size=262144 compression=true
+[2026-03-09 14:31:30.075] [Download] Sources:
+[2026-03-09 14:31:30.076] [Download]   172.20.242.201:6002 [load=0]
+[2026-03-09 14:31:30.077] [Download]   172.20.242.201:6000 [load=0]
+[2026-03-09 14:31:30.095] [Download] File size: 2871648 bytes (2804 KB)
+[2026-03-09 14:31:30.137] [Download] Fragments: 11 x 256KB, sources: 2
+[2026-03-09 14:31:30.217] [FRAG] idx=0 offset=0 len=262144 source=172.20.242.201:6002 time_ms=70 speed_KB/s=3657 progress=9%
+[2026-03-09 14:31:30.218] [FRAG] idx=1 offset=262144 len=262144 source=172.20.242.201:6000 time_ms=72 speed_KB/s=3555 progress=18%
+[2026-03-09 14:31:30.258] [FRAG] idx=2 offset=524288 len=262144 source=172.20.242.201:6002 time_ms=39 speed_KB/s=6564 progress=27%
+[2026-03-09 14:31:30.278] [FRAG] idx=3 offset=786432 len=262144 source=172.20.242.201:6000 time_ms=57 speed_KB/s=4491 progress=36%
+[2026-03-09 14:31:30.304] [FRAG] idx=5 offset=1310720 len=262144 source=172.20.242.201:6000 time_ms=24 speed_KB/s=10666 progress=45%
+[2026-03-09 14:31:30.306] [FRAG] idx=4 offset=1048576 len=262144 source=172.20.242.201:6002 time_ms=45 speed_KB/s=5688 progress=54%
+[2026-03-09 14:31:30.353] [FRAG] idx=7 offset=1835008 len=262144 source=172.20.242.201:6002 time_ms=46 speed_KB/s=5565 progress=63%
+[2026-03-09 14:31:30.360] [FRAG] idx=6 offset=1572864 len=262144 source=172.20.242.201:6000 time_ms=55 speed_KB/s=4654 progress=73%
+[2026-03-09 14:31:30.381] [FRAG] idx=8 offset=2097152 len=262144 source=172.20.242.201:6002 time_ms=26 speed_KB/s=9846 progress=82%
+[2026-03-09 14:31:30.392] [FRAG] idx=10 offset=2621440 len=250208 source=172.20.242.201:6002 time_ms=10 speed_KB/s=24434 progress=90%
+[2026-03-09 14:31:30.396] [FRAG] idx=9 offset=2359296 len=262144 source=172.20.242.201:6000 time_ms=34 speed_KB/s=7529 progress=100%
+[2026-03-09 14:31:30.397] [SUMMARY] ============================================
+[2026-03-09 14:31:30.397] [SUMMARY] file=CapCut_7595812245452439569_installer.exe
+[2026-03-09 14:31:30.398] [SUMMARY] file_size=2871648 bytes
+[2026-03-09 14:31:30.399] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-09 14:31:30.399] [SUMMARY] total_fragments=11
+[2026-03-09 14:31:30.399] [SUMMARY] sources_used=2
+[2026-03-09 14:31:30.400] [SUMMARY] compression=true
+[2026-03-09 14:31:30.400] [SUMMARY] total_time_ms=259
+[2026-03-09 14:31:30.400] [SUMMARY] avg_speed_KB/s=10827
+[2026-03-09 14:31:30.401] [SUMMARY] failed_fragments=0
+[2026-03-09 14:31:30.401] [SUMMARY] --- Per-source stats ---
+[2026-03-09 14:31:30.403] [SUMMARY] source=172.20.242.201:6002 fragments=6 bytes=1560928 time_ms=236 speed_KB/s=6459
+[2026-03-09 14:31:30.403] [SUMMARY] source=172.20.242.201:6000 fragments=5 bytes=1310720 time_ms=242 speed_KB/s=5289
+[2026-03-09 14:31:30.404] [SUMMARY] ============================================
+[2026-03-09 14:31:30.404] [Download] Output: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./output/CapCut_7595812245452439569_installer.exe
+[2026-03-11 18:42:21.289] [Download] === START === file=CapCut_7595812245452439569_installer.exe fragment_size=262144 compression=true
+[2026-03-11 18:42:21.290] [Download] Sources:
+[2026-03-11 18:42:21.292] [Download]   172.20.242.201:6002 [load=0]
+[2026-03-11 18:42:21.292] [Download]   172.20.242.201:6000 [load=0]
+[2026-03-11 18:42:21.303] [Download] File size: 2871648 bytes (2804 KB)
+[2026-03-11 18:42:21.310] [Download] Fragments: 11 x 256KB, sources: 2
+[2026-03-11 18:42:21.395] [FRAG] idx=1 offset=262144 len=262144 source=172.20.242.201:6000 time_ms=73 speed_KB/s=3506 progress=18%
+[2026-03-11 18:42:21.395] [FRAG] idx=0 offset=0 len=262144 source=172.20.242.201:6002 time_ms=57 speed_KB/s=4491 progress=9%
+[2026-03-11 18:42:21.414] [FRAG] idx=2 offset=524288 len=262144 source=172.20.242.201:6000 time_ms=17 speed_KB/s=15058 progress=27%
+[2026-03-11 18:42:21.415] [FRAG] idx=3 offset=786432 len=262144 source=172.20.242.201:6002 time_ms=18 speed_KB/s=14222 progress=36%
+[2026-03-11 18:42:21.437] [FRAG] idx=4 offset=1048576 len=262144 source=172.20.242.201:6000 time_ms=20 speed_KB/s=12800 progress=45%
+[2026-03-11 18:42:21.447] [FRAG] idx=5 offset=1310720 len=262144 source=172.20.242.201:6002 time_ms=20 speed_KB/s=12800 progress=54%
+[2026-03-11 18:42:21.454] [FRAG] idx=6 offset=1572864 len=262144 source=172.20.242.201:6000 time_ms=15 speed_KB/s=17066 progress=63%
+[2026-03-11 18:42:21.486] [FRAG] idx=7 offset=1835008 len=262144 source=172.20.242.201:6002 time_ms=10 speed_KB/s=25600 progress=73%
+[2026-03-11 18:42:21.496] [FRAG] idx=8 offset=2097152 len=262144 source=172.20.242.201:6000 time_ms=37 speed_KB/s=6918 progress=82%
+[2026-03-11 18:42:21.540] [FRAG] idx=9 offset=2359296 len=262144 source=172.20.242.201:6002 time_ms=52 speed_KB/s=4923 progress=91%
+[2026-03-11 18:42:21.542] [FRAG] idx=10 offset=2621440 len=250208 source=172.20.242.201:6000 time_ms=42 speed_KB/s=5817 progress=100%
+[2026-03-11 18:42:21.542] [SUMMARY] ============================================
+[2026-03-11 18:42:21.543] [SUMMARY] file=CapCut_7595812245452439569_installer.exe
+[2026-03-11 18:42:21.544] [SUMMARY] file_size=2871648 bytes
+[2026-03-11 18:42:21.545] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-11 18:42:21.545] [SUMMARY] total_fragments=11
+[2026-03-11 18:42:21.545] [SUMMARY] sources_used=2
+[2026-03-11 18:42:21.546] [SUMMARY] compression=true
+[2026-03-11 18:42:21.546] [SUMMARY] total_time_ms=231
+[2026-03-11 18:42:21.546] [SUMMARY] avg_speed_KB/s=12140
+[2026-03-11 18:42:21.546] [SUMMARY] failed_fragments=0
+[2026-03-11 18:42:21.547] [SUMMARY] --- Per-source stats ---
+[2026-03-11 18:42:21.549] [SUMMARY] source=172.20.242.201:6002 fragments=5 bytes=1310720 time_ms=157 speed_KB/s=8152
+[2026-03-11 18:42:21.549] [SUMMARY] source=172.20.242.201:6000 fragments=6 bytes=1560928 time_ms=204 speed_KB/s=7472
+[2026-03-11 18:42:21.550] [SUMMARY] ============================================
+[2026-03-11 18:42:21.550] [Download] Output: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./output/CapCut_7595812245452439569_installer.exe

@@ -1,0 +1,11 @@
+Đã làm
++ Code chạy như yêu cầu require, kèm cả 3 enhancement
+mô tả chi tiết về tính năng + cách chạy trong readme.md
+tuy nhiên load balancing mới chỉ ghi số load trong directory, còn download đang lúc nào cũng down từ all (cần thảo luận thêm)
+
+Việc chưa làm
++ Soi lại với require xem chỗ nào mâu thuẫn, nếu có và quyết định giữ lại (chứ ko sửa) thì cần thêm vào file báo cáo
+	Ví dụ, cú pháp chạy bây giờ phức tạp hơn so với require
+	Tên host của client trong lệnh download chỉ để ghi log (hơi thừa)
++ Test lại khách quan hơn (hiện test trên 1 máy với nhiều cổng): file lớn hơn (mới test file 2M), nhiều daemon hơn (mới có 3 daemon)
++ Có ghi log nhưng chưa tổng kết performance, vẽ sơ đồ và đánh giá (vì chưa có môi trường test tốt)

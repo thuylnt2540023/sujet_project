@@ -1,0 +1,24 @@
+[2026-03-09 14:26:30.601] [Directory] RMI server started on 172.20.242.201:1099
+[2026-03-09 14:26:30.603] [Directory] Log file: logs/directory-172.20.242.201-1099.log
+[2026-03-09 14:26:30.603] [Directory] Waiting for clients...
+[2026-03-09 14:26:35.001] [Directory] New client: 172.20.242.201:6000 [load=0]
+[2026-03-09 14:26:35.005] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:26:39.456] [Directory] New client: 172.20.242.201:6001 [load=0]
+[2026-03-09 14:26:39.456] [Directory] 172.20.242.201:6001 registered 0 file(s): []
+[2026-03-09 14:26:40.028] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:26:43.355] [Directory] New client: 172.20.242.201:6002 [load=0]
+[2026-03-09 14:26:43.356] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:26:48.403] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:31:30.049] [Directory] Query for 'CapCut_7595812245452439569_installer.exe' -> 2 source(s): [172.20.242.201:6002 [load=0], 172.20.242.201:6000 [load=0]]
+[2026-03-11 18:37:55.116] [Directory] RMI server started on 172.20.242.201:1099
+[2026-03-11 18:37:55.119] [Directory] Log file: logs/directory-172.20.242.201-1099.log
+[2026-03-11 18:37:55.119] [Directory] Waiting for clients...
+[2026-03-11 18:39:26.657] [Directory] New client: 172.20.242.201:6000 [load=0]
+[2026-03-11 18:39:26.660] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-11 18:39:31.683] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-11 18:40:08.535] [Directory] New client: 172.20.242.201:6001 [load=0]
+[2026-03-11 18:40:08.535] [Directory] 172.20.242.201:6001 registered 0 file(s): []
+[2026-03-11 18:40:34.105] [Directory] New client: 172.20.242.201:6002 [load=0]
+[2026-03-11 18:40:34.106] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-11 18:40:39.131] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-11 18:42:21.265] [Directory] Query for 'CapCut_7595812245452439569_installer.exe' -> 2 source(s): [172.20.242.201:6002 [load=0], 172.20.242.201:6000 [load=0]]

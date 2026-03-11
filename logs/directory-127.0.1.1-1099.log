@@ -1,0 +1,14 @@
+[2026-03-09 14:00:51.377] [Directory] RMI server started on 127.0.1.1:1099
+[2026-03-09 14:00:51.380] [Directory] Log file: logs/directory-127.0.1.1-1099.log
+[2026-03-09 14:00:51.380] [Directory] Waiting for clients...
+[2026-03-09 14:14:46.728] [Directory] RMI server started on 127.0.1.1:1099
+[2026-03-09 14:14:46.731] [Directory] Log file: logs/directory-127.0.1.1-1099.log
+[2026-03-09 14:14:46.731] [Directory] Waiting for clients...
+[2026-03-09 14:15:42.630] [Directory] New client: 172.20.242.201:6000 [load=0]
+[2026-03-09 14:15:42.633] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:15:47.668] [Directory] 172.20.242.201:6000 registered 1 file(s): [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:17:00.255] [Directory] New client: 172.20.242.201:6001 [load=0]
+[2026-03-09 14:17:00.255] [Directory] 172.20.242.201:6001 registered 0 file(s): []
+[2026-03-09 14:19:46.272] [Directory] New client: 172.20.242.201:6002 [load=0]
+[2026-03-09 14:19:46.272] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]
+[2026-03-09 14:19:51.311] [Directory] 172.20.242.201:6002 registered 2 file(s): [CapCut_7595812245452439569_installer.exe, SubtitleWorkshop_6.0b_131121_installer.exe]

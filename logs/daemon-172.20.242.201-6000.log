@@ -1,0 +1,35 @@
+[2026-03-09 14:15:42.651] [Daemon 172.20.242.201:6000] Started
+[2026-03-09 14:15:42.653] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared1
+[2026-03-09 14:15:42.653] [Daemon] Files: [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:15:42.653] [Daemon] Log file: logs/daemon-172.20.242.201-6000.log
+[2026-03-09 14:15:42.654] [Daemon] TCP listening on port 6000
+[2026-03-09 14:15:47.669] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:26:01.957] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:06.961] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:09.368] [Daemon] Shut down.
+[2026-03-09 14:26:35.022] [Daemon 172.20.242.201:6000] Started
+[2026-03-09 14:26:35.023] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared1
+[2026-03-09 14:26:35.023] [Daemon] Files: [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:26:35.024] [Daemon] Log file: logs/daemon-172.20.242.201-6000.log
+[2026-03-09 14:26:35.024] [Daemon] TCP listening on port 6000
+[2026-03-09 14:26:40.029] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe]
+[2026-03-09 14:31:30.218] [SERVE] GET_FRAGMENT client=/172.20.242.201:51386 file=CapCut_7595812245452439569_installer.exe offset=262144 len=262144 compressed=true sent_bytes=218927 time_ms=42 speed_KB/s=5090
+[2026-03-09 14:31:30.276] [SERVE] GET_FRAGMENT client=/172.20.242.201:51392 file=CapCut_7595812245452439569_installer.exe offset=786432 len=262144 compressed=true sent_bytes=261537 time_ms=51 speed_KB/s=5007
+[2026-03-09 14:31:30.302] [SERVE] GET_FRAGMENT client=/172.20.242.201:51402 file=CapCut_7595812245452439569_installer.exe offset=1310720 len=262144 compressed=false sent_bytes=262144 time_ms=21 speed_KB/s=12190
+[2026-03-09 14:31:30.359] [SERVE] GET_FRAGMENT client=/172.20.242.201:51410 file=CapCut_7595812245452439569_installer.exe offset=1572864 len=262144 compressed=false sent_bytes=262144 time_ms=7 speed_KB/s=36571
+[2026-03-09 14:31:30.395] [SERVE] GET_FRAGMENT client=/172.20.242.201:51412 file=CapCut_7595812245452439569_installer.exe offset=2359296 len=262144 compressed=false sent_bytes=262144 time_ms=32 speed_KB/s=8000
+[2026-03-11 18:28:06.862] [Daemon] Shut down.
+[2026-03-11 18:39:26.676] [Daemon 172.20.242.201:6000] Started
+[2026-03-11 18:39:26.678] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared1
+[2026-03-11 18:39:26.679] [Daemon] Files: [CapCut_7595812245452439569_installer.exe]
+[2026-03-11 18:39:26.679] [Daemon] Log file: logs/daemon-172.20.242.201-6000.log
+[2026-03-11 18:39:26.680] [Daemon] TCP listening on port 6000
+[2026-03-11 18:39:31.684] [Daemon] File list updated: [CapCut_7595812245452439569_installer.exe]
+[2026-03-11 18:42:21.390] [SERVE] GET_FRAGMENT client=/172.20.242.201:57760 file=CapCut_7595812245452439569_installer.exe offset=262144 len=262144 compressed=true sent_bytes=218927 time_ms=61 speed_KB/s=3504
+[2026-03-11 18:42:21.412] [SERVE] GET_FRAGMENT client=/172.20.242.201:57764 file=CapCut_7595812245452439569_installer.exe offset=524288 len=262144 compressed=false sent_bytes=262144 time_ms=14 speed_KB/s=18285
+[2026-03-11 18:42:21.434] [SERVE] GET_FRAGMENT client=/172.20.242.201:57770 file=CapCut_7595812245452439569_installer.exe offset=1048576 len=262144 compressed=false sent_bytes=262144 time_ms=18 speed_KB/s=14222
+[2026-03-11 18:42:21.452] [SERVE] GET_FRAGMENT client=/172.20.242.201:57774 file=CapCut_7595812245452439569_installer.exe offset=1572864 len=262144 compressed=false sent_bytes=262144 time_ms=12 speed_KB/s=21333
+[2026-03-11 18:42:21.491] [SERVE] GET_FRAGMENT client=/172.20.242.201:57782 file=CapCut_7595812245452439569_installer.exe offset=2097152 len=262144 compressed=false sent_bytes=262144 time_ms=13 speed_KB/s=19692
+[2026-03-11 18:42:21.537] [SERVE] GET_FRAGMENT client=/172.20.242.201:57788 file=CapCut_7595812245452439569_installer.exe offset=2621440 len=250208 compressed=true sent_bytes=246234 time_ms=39 speed_KB/s=6165

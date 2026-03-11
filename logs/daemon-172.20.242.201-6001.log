@@ -1,0 +1,26 @@
+[2026-03-09 14:17:00.271] [Daemon 172.20.242.201:6001] Started
+[2026-03-09 14:17:00.273] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared2
+[2026-03-09 14:17:00.273] [Daemon] Files: []
+[2026-03-09 14:17:00.274] [Daemon] Log file: logs/daemon-172.20.242.201-6001.log
+[2026-03-09 14:17:00.274] [Daemon] TCP listening on port 6001
+[2026-03-09 14:26:04.437] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:09.449] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:14.455] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:19.458] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:24.461] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:29.470] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:34.473] [Daemon] Heartbeat error: Connection refused to host: 172.20.242.201; nested exception is: 
+	java.net.ConnectException: Connection refused
+[2026-03-09 14:26:37.734] [Daemon] Shut down.
+[2026-03-09 14:26:39.473] [Daemon 172.20.242.201:6001] Started
+[2026-03-09 14:26:39.475] [Daemon] Shared folder: /mnt/e/Khoa hoc/USTH/System Architectures/sujet_project/./shared2
+[2026-03-09 14:26:39.475] [Daemon] Files: []
+[2026-03-09 14:26:39.476] [Daemon] Log file: logs/daemon-172.20.242.201-6001.log
+[2026-03-09 14:26:39.476] [Daemon] TCP listening on port 6001
+[2026-03-11 18:28:08.138] [Daemon] Shut down.
