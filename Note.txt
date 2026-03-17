@@ -17,3 +17,5 @@ bash compile.sh
 ./run_daemon.sh 172.20.242.201 1099 ./shared2 172.20.242.201 6001
 ./run_daemon.sh 172.20.242.201 1099 ./shared3 172.20.242.201 6002
 ./run_download.sh CapCut_7595812245452439569_installer.exe 172.20.242.201 1099 ./output 172.20.242.201 true 256
+
+https://drive.google.com/drive/folders/12_0jxkPQQ4iBMzbZMDh6-UqZZbAO5-4M?usp=sharing
