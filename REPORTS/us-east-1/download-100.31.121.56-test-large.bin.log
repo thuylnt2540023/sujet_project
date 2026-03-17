@@ -1,0 +1,251 @@
+[2026-03-17 05:36:19.576] [Download] === START === file=test-large.bin fragment_size=524288 compression=false
+[2026-03-17 05:36:19.577] [Download] All sources from Directory:
+[2026-03-17 05:36:19.582] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:36:19.582] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:36:19.583] [Download] Using 2 source(s):
+[2026-03-17 05:36:19.583] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:36:19.583] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:36:19.647] [Download] File size: 52428800 bytes (51200 KB)
+[2026-03-17 05:36:19.652] [Download] Fragments: 100 x 512KB, sources: 2
+[2026-03-17 05:36:20.854] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=1178 speed_KB/s=434 progress=1%
+[2026-03-17 05:36:21.984] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1128 speed_KB/s=453 progress=2%
+[2026-03-17 05:36:23.171] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1187 speed_KB/s=431 progress=3%
+[2026-03-17 05:36:24.330] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1157 speed_KB/s=442 progress=4%
+[2026-03-17 05:36:25.491] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1160 speed_KB/s=441 progress=5%
+[2026-03-17 05:36:26.759] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1267 speed_KB/s=404 progress=6%
+[2026-03-17 05:36:27.220] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=7561 speed_KB/s=67 progress=7%
+[2026-03-17 05:36:27.978] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1219 speed_KB/s=420 progress=8%
+[2026-03-17 05:36:29.205] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1226 speed_KB/s=417 progress=9%
+[2026-03-17 05:36:30.311] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1105 speed_KB/s=463 progress=10%
+[2026-03-17 05:36:31.492] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1180 speed_KB/s=433 progress=11%
+[2026-03-17 05:36:32.658] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1165 speed_KB/s=439 progress=12%
+[2026-03-17 05:36:33.826] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=13%
+[2026-03-17 05:36:34.887] [FRAG] idx=8 offset=4194304 len=524288 source=32.195.67.201:6001 time_ms=7666 speed_KB/s=66 progress=14%
+[2026-03-17 05:36:34.960] [FRAG] idx=14 offset=7340032 len=524288 source=13.39.21.10:6000 time_ms=1133 speed_KB/s=451 progress=15%
+[2026-03-17 05:36:36.178] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1218 speed_KB/s=420 progress=16%
+[2026-03-17 05:36:37.379] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1200 speed_KB/s=426 progress=17%
+[2026-03-17 05:36:38.559] [FRAG] idx=18 offset=9437184 len=524288 source=13.39.21.10:6000 time_ms=1178 speed_KB/s=434 progress=18%
+[2026-03-17 05:36:39.728] [FRAG] idx=19 offset=9961472 len=524288 source=13.39.21.10:6000 time_ms=1168 speed_KB/s=438 progress=19%
+[2026-03-17 05:36:40.918] [FRAG] idx=20 offset=10485760 len=524288 source=13.39.21.10:6000 time_ms=1189 speed_KB/s=430 progress=20%
+[2026-03-17 05:36:42.098] [FRAG] idx=21 offset=11010048 len=524288 source=13.39.21.10:6000 time_ms=1179 speed_KB/s=434 progress=21%
+[2026-03-17 05:36:42.566] [FRAG] idx=15 offset=7864320 len=524288 source=32.195.67.201:6001 time_ms=7678 speed_KB/s=66 progress=22%
+[2026-03-17 05:36:43.276] [FRAG] idx=22 offset=11534336 len=524288 source=13.39.21.10:6000 time_ms=1177 speed_KB/s=435 progress=23%
+[2026-03-17 05:36:44.465] [FRAG] idx=24 offset=12582912 len=524288 source=13.39.21.10:6000 time_ms=1188 speed_KB/s=430 progress=24%
+[2026-03-17 05:36:45.644] [FRAG] idx=25 offset=13107200 len=524288 source=13.39.21.10:6000 time_ms=1178 speed_KB/s=434 progress=25%
+[2026-03-17 05:36:46.816] [FRAG] idx=26 offset=13631488 len=524288 source=13.39.21.10:6000 time_ms=1171 speed_KB/s=437 progress=26%
+[2026-03-17 05:36:48.021] [FRAG] idx=27 offset=14155776 len=524288 source=13.39.21.10:6000 time_ms=1204 speed_KB/s=425 progress=27%
+[2026-03-17 05:36:49.198] [FRAG] idx=28 offset=14680064 len=524288 source=13.39.21.10:6000 time_ms=1176 speed_KB/s=435 progress=28%
+[2026-03-17 05:36:50.179] [FRAG] idx=23 offset=12058624 len=524288 source=32.195.67.201:6001 time_ms=7612 speed_KB/s=67 progress=29%
+[2026-03-17 05:36:50.335] [FRAG] idx=29 offset=15204352 len=524288 source=13.39.21.10:6000 time_ms=1136 speed_KB/s=450 progress=30%
+[2026-03-17 05:36:51.549] [FRAG] idx=31 offset=16252928 len=524288 source=13.39.21.10:6000 time_ms=1213 speed_KB/s=422 progress=31%
+[2026-03-17 05:36:52.780] [FRAG] idx=32 offset=16777216 len=524288 source=13.39.21.10:6000 time_ms=1231 speed_KB/s=415 progress=32%
+[2026-03-17 05:36:54.006] [FRAG] idx=33 offset=17301504 len=524288 source=13.39.21.10:6000 time_ms=1224 speed_KB/s=418 progress=33%
+[2026-03-17 05:36:55.230] [FRAG] idx=34 offset=17825792 len=524288 source=13.39.21.10:6000 time_ms=1223 speed_KB/s=418 progress=34%
+[2026-03-17 05:36:56.453] [FRAG] idx=35 offset=18350080 len=524288 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=418 progress=35%
+[2026-03-17 05:36:57.673] [FRAG] idx=36 offset=18874368 len=524288 source=13.39.21.10:6000 time_ms=1219 speed_KB/s=420 progress=36%
+[2026-03-17 05:36:58.048] [FRAG] idx=30 offset=15728640 len=524288 source=32.195.67.201:6001 time_ms=7868 speed_KB/s=65 progress=37%
+[2026-03-17 05:36:58.830] [FRAG] idx=37 offset=19398656 len=524288 source=13.39.21.10:6000 time_ms=1156 speed_KB/s=442 progress=38%
+[2026-03-17 05:36:59.995] [FRAG] idx=39 offset=20447232 len=524288 source=13.39.21.10:6000 time_ms=1165 speed_KB/s=439 progress=39%
+[2026-03-17 05:37:01.265] [FRAG] idx=40 offset=20971520 len=524288 source=13.39.21.10:6000 time_ms=1268 speed_KB/s=403 progress=40%
+[2026-03-17 05:37:02.943] [FRAG] idx=41 offset=21495808 len=524288 source=13.39.21.10:6000 time_ms=1677 speed_KB/s=305 progress=41%
+[2026-03-17 05:37:04.114] [FRAG] idx=42 offset=22020096 len=524288 source=13.39.21.10:6000 time_ms=1170 speed_KB/s=437 progress=42%
+[2026-03-17 05:37:05.303] [FRAG] idx=43 offset=22544384 len=524288 source=13.39.21.10:6000 time_ms=1188 speed_KB/s=430 progress=43%
+[2026-03-17 05:37:05.650] [FRAG] idx=38 offset=19922944 len=524288 source=32.195.67.201:6001 time_ms=7601 speed_KB/s=67 progress=44%
+[2026-03-17 05:37:06.441] [FRAG] idx=44 offset=23068672 len=524288 source=13.39.21.10:6000 time_ms=1137 speed_KB/s=450 progress=45%
+[2026-03-17 05:37:07.642] [FRAG] idx=46 offset=24117248 len=524288 source=13.39.21.10:6000 time_ms=1200 speed_KB/s=426 progress=46%
+[2026-03-17 05:37:08.858] [FRAG] idx=47 offset=24641536 len=524288 source=13.39.21.10:6000 time_ms=1215 speed_KB/s=421 progress=47%
+[2026-03-17 05:37:10.050] [FRAG] idx=48 offset=25165824 len=524288 source=13.39.21.10:6000 time_ms=1192 speed_KB/s=429 progress=48%
+[2026-03-17 05:37:11.245] [FRAG] idx=49 offset=25690112 len=524288 source=13.39.21.10:6000 time_ms=1194 speed_KB/s=428 progress=49%
+[2026-03-17 05:37:12.440] [FRAG] idx=50 offset=26214400 len=524288 source=13.39.21.10:6000 time_ms=1193 speed_KB/s=429 progress=50%
+[2026-03-17 05:37:13.226] [FRAG] idx=45 offset=23592960 len=524288 source=32.195.67.201:6001 time_ms=7575 speed_KB/s=67 progress=51%
+[2026-03-17 05:37:13.623] [FRAG] idx=51 offset=26738688 len=524288 source=13.39.21.10:6000 time_ms=1182 speed_KB/s=433 progress=52%
+[2026-03-17 05:37:14.889] [FRAG] idx=53 offset=27787264 len=524288 source=13.39.21.10:6000 time_ms=1266 speed_KB/s=404 progress=53%
+[2026-03-17 05:37:16.021] [FRAG] idx=54 offset=28311552 len=524288 source=13.39.21.10:6000 time_ms=1130 speed_KB/s=453 progress=54%
+[2026-03-17 05:37:17.156] [FRAG] idx=55 offset=28835840 len=524288 source=13.39.21.10:6000 time_ms=1134 speed_KB/s=451 progress=55%
+[2026-03-17 05:37:18.273] [FRAG] idx=56 offset=29360128 len=524288 source=13.39.21.10:6000 time_ms=1116 speed_KB/s=458 progress=56%
+[2026-03-17 05:37:19.357] [FRAG] idx=57 offset=29884416 len=524288 source=13.39.21.10:6000 time_ms=1083 speed_KB/s=472 progress=57%
+[2026-03-17 05:37:20.514] [FRAG] idx=58 offset=30408704 len=524288 source=13.39.21.10:6000 time_ms=1156 speed_KB/s=442 progress=58%
+[2026-03-17 05:37:20.918] [FRAG] idx=52 offset=27262976 len=524288 source=32.195.67.201:6001 time_ms=7691 speed_KB/s=66 progress=59%
+[2026-03-17 05:37:21.670] [FRAG] idx=59 offset=30932992 len=524288 source=13.39.21.10:6000 time_ms=1155 speed_KB/s=443 progress=60%
+[2026-03-17 05:37:22.876] [FRAG] idx=61 offset=31981568 len=524288 source=13.39.21.10:6000 time_ms=1205 speed_KB/s=424 progress=61%
+[2026-03-17 05:37:23.990] [FRAG] idx=62 offset=32505856 len=524288 source=13.39.21.10:6000 time_ms=1113 speed_KB/s=460 progress=62%
+[2026-03-17 05:37:25.155] [FRAG] idx=63 offset=33030144 len=524288 source=13.39.21.10:6000 time_ms=1164 speed_KB/s=439 progress=63%
+[2026-03-17 05:37:26.352] [FRAG] idx=64 offset=33554432 len=524288 source=13.39.21.10:6000 time_ms=1196 speed_KB/s=428 progress=64%
+[2026-03-17 05:37:27.521] [FRAG] idx=65 offset=34078720 len=524288 source=13.39.21.10:6000 time_ms=1168 speed_KB/s=438 progress=65%
+[2026-03-17 05:37:28.542] [FRAG] idx=60 offset=31457280 len=524288 source=32.195.67.201:6001 time_ms=7623 speed_KB/s=67 progress=66%
+[2026-03-17 05:37:28.639] [FRAG] idx=66 offset=34603008 len=524288 source=13.39.21.10:6000 time_ms=1118 speed_KB/s=457 progress=67%
+[2026-03-17 05:37:29.852] [FRAG] idx=68 offset=35651584 len=524288 source=13.39.21.10:6000 time_ms=1211 speed_KB/s=422 progress=68%
+[2026-03-17 05:37:31.050] [FRAG] idx=69 offset=36175872 len=524288 source=13.39.21.10:6000 time_ms=1197 speed_KB/s=427 progress=69%
+[2026-03-17 05:37:32.217] [FRAG] idx=70 offset=36700160 len=524288 source=13.39.21.10:6000 time_ms=1166 speed_KB/s=439 progress=70%
+[2026-03-17 05:37:33.388] [FRAG] idx=71 offset=37224448 len=524288 source=13.39.21.10:6000 time_ms=1169 speed_KB/s=437 progress=71%
+[2026-03-17 05:37:34.650] [FRAG] idx=72 offset=37748736 len=524288 source=13.39.21.10:6000 time_ms=1261 speed_KB/s=406 progress=72%
+[2026-03-17 05:37:35.820] [FRAG] idx=73 offset=38273024 len=524288 source=13.39.21.10:6000 time_ms=1169 speed_KB/s=437 progress=73%
+[2026-03-17 05:37:36.280] [FRAG] idx=67 offset=35127296 len=524288 source=32.195.67.201:6001 time_ms=7738 speed_KB/s=66 progress=74%
+[2026-03-17 05:37:37.027] [FRAG] idx=74 offset=38797312 len=524288 source=13.39.21.10:6000 time_ms=1206 speed_KB/s=424 progress=75%
+[2026-03-17 05:37:38.195] [FRAG] idx=76 offset=39845888 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=76%
+[2026-03-17 05:37:39.355] [FRAG] idx=77 offset=40370176 len=524288 source=13.39.21.10:6000 time_ms=1159 speed_KB/s=441 progress=77%
+[2026-03-17 05:37:40.537] [FRAG] idx=78 offset=40894464 len=524288 source=13.39.21.10:6000 time_ms=1181 speed_KB/s=433 progress=78%
+[2026-03-17 05:37:41.753] [FRAG] idx=79 offset=41418752 len=524288 source=13.39.21.10:6000 time_ms=1215 speed_KB/s=421 progress=79%
+[2026-03-17 05:37:42.901] [FRAG] idx=80 offset=41943040 len=524288 source=13.39.21.10:6000 time_ms=1147 speed_KB/s=446 progress=80%
+[2026-03-17 05:37:44.039] [FRAG] idx=81 offset=42467328 len=524288 source=13.39.21.10:6000 time_ms=1138 speed_KB/s=449 progress=81%
+[2026-03-17 05:37:45.170] [FRAG] idx=82 offset=42991616 len=524288 source=13.39.21.10:6000 time_ms=1130 speed_KB/s=453 progress=82%
+[2026-03-17 05:37:45.253] [FRAG] idx=75 offset=39321600 len=524288 source=32.195.67.201:6001 time_ms=8972 speed_KB/s=57 progress=83%
+[2026-03-17 05:37:46.271] [FRAG] idx=83 offset=43515904 len=524288 source=13.39.21.10:6000 time_ms=1100 speed_KB/s=465 progress=84%
+[2026-03-17 05:37:47.462] [FRAG] idx=85 offset=44564480 len=524288 source=13.39.21.10:6000 time_ms=1190 speed_KB/s=430 progress=85%
+[2026-03-17 05:37:48.634] [FRAG] idx=86 offset=45088768 len=524288 source=13.39.21.10:6000 time_ms=1171 speed_KB/s=437 progress=86%
+[2026-03-17 05:37:49.823] [FRAG] idx=87 offset=45613056 len=524288 source=13.39.21.10:6000 time_ms=1188 speed_KB/s=430 progress=87%
+[2026-03-17 05:37:50.989] [FRAG] idx=88 offset=46137344 len=524288 source=13.39.21.10:6000 time_ms=1166 speed_KB/s=439 progress=88%
+[2026-03-17 05:37:52.083] [FRAG] idx=89 offset=46661632 len=524288 source=13.39.21.10:6000 time_ms=1092 speed_KB/s=468 progress=89%
+[2026-03-17 05:37:53.175] [FRAG] idx=90 offset=47185920 len=524288 source=13.39.21.10:6000 time_ms=1091 speed_KB/s=469 progress=90%
+[2026-03-17 05:37:54.361] [FRAG] idx=91 offset=47710208 len=524288 source=13.39.21.10:6000 time_ms=1185 speed_KB/s=432 progress=91%
+[2026-03-17 05:37:55.551] [FRAG] idx=92 offset=48234496 len=524288 source=13.39.21.10:6000 time_ms=1190 speed_KB/s=430 progress=92%
+[2026-03-17 05:37:56.722] [FRAG] idx=93 offset=48758784 len=524288 source=13.39.21.10:6000 time_ms=1169 speed_KB/s=437 progress=93%
+[2026-03-17 05:37:57.908] [FRAG] idx=94 offset=49283072 len=524288 source=13.39.21.10:6000 time_ms=1185 speed_KB/s=432 progress=94%
+[2026-03-17 05:37:59.062] [FRAG] idx=95 offset=49807360 len=524288 source=13.39.21.10:6000 time_ms=1154 speed_KB/s=443 progress=95%
+[2026-03-17 05:37:59.375] [FRAG] idx=84 offset=44040192 len=524288 source=32.195.67.201:6001 time_ms=14122 speed_KB/s=36 progress=96%
+[2026-03-17 05:38:00.315] [FRAG] idx=96 offset=50331648 len=524288 source=13.39.21.10:6000 time_ms=1251 speed_KB/s=409 progress=97%
+[2026-03-17 05:38:01.465] [FRAG] idx=98 offset=51380224 len=524288 source=13.39.21.10:6000 time_ms=1149 speed_KB/s=445 progress=98%
+[2026-03-17 05:38:02.668] [FRAG] idx=99 offset=51904512 len=524288 source=13.39.21.10:6000 time_ms=1202 speed_KB/s=425 progress=99%
+[2026-03-17 05:38:06.971] [FRAG] idx=97 offset=50855936 len=524288 source=32.195.67.201:6001 time_ms=7594 speed_KB/s=67 progress=100%
+[2026-03-17 05:38:06.971] [SUMMARY] ============================================
+[2026-03-17 05:38:06.972] [SUMMARY] file=test-large.bin
+[2026-03-17 05:38:06.974] [SUMMARY] file_size=52428800 bytes
+[2026-03-17 05:38:06.977] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:38:06.977] [SUMMARY] total_fragments=100
+[2026-03-17 05:38:06.978] [SUMMARY] sources_used=2
+[2026-03-17 05:38:06.979] [SUMMARY] compression=false
+[2026-03-17 05:38:06.979] [SUMMARY] total_time_ms=107317
+[2026-03-17 05:38:06.980] [SUMMARY] avg_speed_KB/s=477
+[2026-03-17 05:38:06.980] [SUMMARY] failed_fragments=0
+[2026-03-17 05:38:06.980] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:38:06.991] [SUMMARY] source=32.195.67.201:6001 fragments=13 bytes=6815744 time_ms=107301 speed_KB/s=62
+[2026-03-17 05:38:06.993] [SUMMARY] source=13.39.21.10:6000 fragments=87 bytes=45613056 time_ms=102906 speed_KB/s=432
+[2026-03-17 05:38:06.993] [SUMMARY] ============================================
+[2026-03-17 05:38:06.993] [Download] Output: /home/ubuntu/./output/test-large.bin
+[2026-03-17 05:42:15.405] [Download] === START === file=test-large.bin fragment_size=524288 compression=false
+[2026-03-17 05:42:15.407] [Download] All sources from Directory:
+[2026-03-17 05:42:15.411] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:42:15.411] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:42:15.411] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:42:15.412] [Download] Using 3 source(s):
+[2026-03-17 05:42:15.412] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:42:15.413] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:42:15.413] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:42:15.696] [Download] File size: 52428800 bytes (51200 KB)
+[2026-03-17 05:42:15.701] [Download] Fragments: 100 x 512KB, sources: 3
+[2026-03-17 05:42:16.949] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1228 speed_KB/s=416 progress=1%
+[2026-03-17 05:42:18.017] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1067 speed_KB/s=479 progress=2%
+[2026-03-17 05:42:19.186] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1168 speed_KB/s=438 progress=3%
+[2026-03-17 05:42:20.419] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1232 speed_KB/s=415 progress=4%
+[2026-03-17 05:42:21.666] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1245 speed_KB/s=411 progress=5%
+[2026-03-17 05:42:22.758] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1092 speed_KB/s=468 progress=6%
+[2026-03-17 05:42:23.877] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1117 speed_KB/s=458 progress=7%
+[2026-03-17 05:42:25.072] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1195 speed_KB/s=428 progress=8%
+[2026-03-17 05:42:26.264] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1192 speed_KB/s=429 progress=9%
+[2026-03-17 05:42:27.438] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1172 speed_KB/s=436 progress=10%
+[2026-03-17 05:42:28.063] [FRAG] idx=1 offset=524288 len=524288 source=13.220.244.217:6002 time_ms=12356 speed_KB/s=41 progress=11%
+[2026-03-17 05:42:28.514] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1075 speed_KB/s=476 progress=12%
+[2026-03-17 05:42:29.693] [FRAG] idx=14 offset=7340032 len=524288 source=13.39.21.10:6000 time_ms=1178 speed_KB/s=434 progress=13%
+[2026-03-17 05:42:30.701] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=14994 speed_KB/s=34 progress=14%
+[2026-03-17 05:42:30.914] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1221 speed_KB/s=419 progress=15%
+[2026-03-17 05:42:32.196] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1281 speed_KB/s=399 progress=16%
+[2026-03-17 05:42:33.442] [FRAG] idx=18 offset=9437184 len=524288 source=13.39.21.10:6000 time_ms=1246 speed_KB/s=410 progress=17%
+[2026-03-17 05:42:34.687] [FRAG] idx=19 offset=9961472 len=524288 source=13.39.21.10:6000 time_ms=1245 speed_KB/s=411 progress=18%
+[2026-03-17 05:42:35.890] [FRAG] idx=20 offset=10485760 len=524288 source=13.39.21.10:6000 time_ms=1202 speed_KB/s=425 progress=19%
+[2026-03-17 05:42:37.120] [FRAG] idx=21 offset=11010048 len=524288 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=416 progress=20%
+[2026-03-17 05:42:38.243] [FRAG] idx=22 offset=11534336 len=524288 source=13.39.21.10:6000 time_ms=1122 speed_KB/s=456 progress=21%
+[2026-03-17 05:42:39.378] [FRAG] idx=23 offset=12058624 len=524288 source=13.39.21.10:6000 time_ms=1135 speed_KB/s=451 progress=22%
+[2026-03-17 05:42:40.599] [FRAG] idx=24 offset=12582912 len=524288 source=13.39.21.10:6000 time_ms=1221 speed_KB/s=419 progress=23%
+[2026-03-17 05:42:41.504] [FRAG] idx=13 offset=6815744 len=524288 source=13.220.244.217:6002 time_ms=13440 speed_KB/s=38 progress=24%
+[2026-03-17 05:42:41.838] [FRAG] idx=25 offset=13107200 len=524288 source=13.39.21.10:6000 time_ms=1238 speed_KB/s=413 progress=25%
+[2026-03-17 05:42:43.098] [FRAG] idx=27 offset=14155776 len=524288 source=13.39.21.10:6000 time_ms=1259 speed_KB/s=406 progress=26%
+[2026-03-17 05:42:44.244] [FRAG] idx=28 offset=14680064 len=524288 source=13.39.21.10:6000 time_ms=1146 speed_KB/s=446 progress=27%
+[2026-03-17 05:42:45.382] [FRAG] idx=29 offset=15204352 len=524288 source=13.39.21.10:6000 time_ms=1137 speed_KB/s=450 progress=28%
+[2026-03-17 05:42:46.192] [FRAG] idx=16 offset=8388608 len=524288 source=32.195.67.201:6001 time_ms=15490 speed_KB/s=33 progress=29%
+[2026-03-17 05:42:46.604] [FRAG] idx=30 offset=15728640 len=524288 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=418 progress=30%
+[2026-03-17 05:42:47.867] [FRAG] idx=32 offset=16777216 len=524288 source=13.39.21.10:6000 time_ms=1262 speed_KB/s=405 progress=31%
+[2026-03-17 05:42:49.110] [FRAG] idx=33 offset=17301504 len=524288 source=13.39.21.10:6000 time_ms=1243 speed_KB/s=411 progress=32%
+[2026-03-17 05:42:50.240] [FRAG] idx=34 offset=17825792 len=524288 source=13.39.21.10:6000 time_ms=1129 speed_KB/s=453 progress=33%
+[2026-03-17 05:42:51.406] [FRAG] idx=35 offset=18350080 len=524288 source=13.39.21.10:6000 time_ms=1165 speed_KB/s=439 progress=34%
+[2026-03-17 05:42:52.645] [FRAG] idx=36 offset=18874368 len=524288 source=13.39.21.10:6000 time_ms=1238 speed_KB/s=413 progress=35%
+[2026-03-17 05:42:53.871] [FRAG] idx=37 offset=19398656 len=524288 source=13.39.21.10:6000 time_ms=1226 speed_KB/s=417 progress=36%
+[2026-03-17 05:42:55.100] [FRAG] idx=38 offset=19922944 len=524288 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=416 progress=37%
+[2026-03-17 05:42:55.111] [FRAG] idx=26 offset=13631488 len=524288 source=13.220.244.217:6002 time_ms=13605 speed_KB/s=37 progress=38%
+[2026-03-17 05:42:56.252] [FRAG] idx=39 offset=20447232 len=524288 source=13.39.21.10:6000 time_ms=1150 speed_KB/s=445 progress=39%
+[2026-03-17 05:42:57.401] [FRAG] idx=41 offset=21495808 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=40%
+[2026-03-17 05:42:58.647] [FRAG] idx=42 offset=22020096 len=524288 source=13.39.21.10:6000 time_ms=1246 speed_KB/s=410 progress=41%
+[2026-03-17 05:42:59.871] [FRAG] idx=43 offset=22544384 len=524288 source=13.39.21.10:6000 time_ms=1223 speed_KB/s=418 progress=42%
+[2026-03-17 05:43:01.093] [FRAG] idx=44 offset=23068672 len=524288 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=418 progress=43%
+[2026-03-17 05:43:01.294] [FRAG] idx=31 offset=16252928 len=524288 source=32.195.67.201:6001 time_ms=15101 speed_KB/s=33 progress=44%
+[2026-03-17 05:43:02.242] [FRAG] idx=45 offset=23592960 len=524288 source=13.39.21.10:6000 time_ms=1146 speed_KB/s=446 progress=45%
+[2026-03-17 05:43:03.463] [FRAG] idx=47 offset=24641536 len=524288 source=13.39.21.10:6000 time_ms=1220 speed_KB/s=419 progress=46%
+[2026-03-17 05:43:04.694] [FRAG] idx=48 offset=25165824 len=524288 source=13.39.21.10:6000 time_ms=1230 speed_KB/s=416 progress=47%
+[2026-03-17 05:43:05.930] [FRAG] idx=49 offset=25690112 len=524288 source=13.39.21.10:6000 time_ms=1235 speed_KB/s=414 progress=48%
+[2026-03-17 05:43:07.179] [FRAG] idx=50 offset=26214400 len=524288 source=13.39.21.10:6000 time_ms=1249 speed_KB/s=409 progress=49%
+[2026-03-17 05:43:08.408] [FRAG] idx=51 offset=26738688 len=524288 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=416 progress=50%
+[2026-03-17 05:43:08.472] [FRAG] idx=40 offset=20971520 len=524288 source=13.220.244.217:6002 time_ms=13360 speed_KB/s=38 progress=51%
+[2026-03-17 05:43:09.657] [FRAG] idx=52 offset=27262976 len=524288 source=13.39.21.10:6000 time_ms=1248 speed_KB/s=410 progress=52%
+[2026-03-17 05:43:10.890] [FRAG] idx=54 offset=28311552 len=524288 source=13.39.21.10:6000 time_ms=1233 speed_KB/s=415 progress=53%
+[2026-03-17 05:43:12.038] [FRAG] idx=55 offset=28835840 len=524288 source=13.39.21.10:6000 time_ms=1147 speed_KB/s=446 progress=54%
+[2026-03-17 05:43:13.173] [FRAG] idx=56 offset=29360128 len=524288 source=13.39.21.10:6000 time_ms=1134 speed_KB/s=451 progress=55%
+[2026-03-17 05:43:14.386] [FRAG] idx=57 offset=29884416 len=524288 source=13.39.21.10:6000 time_ms=1213 speed_KB/s=422 progress=56%
+[2026-03-17 05:43:15.627] [FRAG] idx=58 offset=30408704 len=524288 source=13.39.21.10:6000 time_ms=1240 speed_KB/s=412 progress=57%
+[2026-03-17 05:43:16.039] [FRAG] idx=46 offset=24117248 len=524288 source=32.195.67.201:6001 time_ms=14744 speed_KB/s=34 progress=58%
+[2026-03-17 05:43:16.845] [FRAG] idx=59 offset=30932992 len=524288 source=13.39.21.10:6000 time_ms=1217 speed_KB/s=420 progress=59%
+[2026-03-17 05:43:18.007] [FRAG] idx=61 offset=31981568 len=524288 source=13.39.21.10:6000 time_ms=1160 speed_KB/s=441 progress=60%
+[2026-03-17 05:43:19.170] [FRAG] idx=62 offset=32505856 len=524288 source=13.39.21.10:6000 time_ms=1163 speed_KB/s=440 progress=61%
+[2026-03-17 05:43:20.427] [FRAG] idx=63 offset=33030144 len=524288 source=13.39.21.10:6000 time_ms=1256 speed_KB/s=407 progress=62%
+[2026-03-17 05:43:21.656] [FRAG] idx=64 offset=33554432 len=524288 source=13.39.21.10:6000 time_ms=1228 speed_KB/s=416 progress=63%
+[2026-03-17 05:43:21.697] [FRAG] idx=53 offset=27787264 len=524288 source=13.220.244.217:6002 time_ms=13225 speed_KB/s=38 progress=64%
+[2026-03-17 05:43:22.909] [FRAG] idx=65 offset=34078720 len=524288 source=13.39.21.10:6000 time_ms=1252 speed_KB/s=408 progress=65%
+[2026-03-17 05:43:24.057] [FRAG] idx=67 offset=35127296 len=524288 source=13.39.21.10:6000 time_ms=1147 speed_KB/s=446 progress=66%
+[2026-03-17 05:43:25.236] [FRAG] idx=68 offset=35651584 len=524288 source=13.39.21.10:6000 time_ms=1179 speed_KB/s=434 progress=67%
+[2026-03-17 05:43:26.477] [FRAG] idx=69 offset=36175872 len=524288 source=13.39.21.10:6000 time_ms=1241 speed_KB/s=412 progress=68%
+[2026-03-17 05:43:27.699] [FRAG] idx=70 offset=36700160 len=524288 source=13.39.21.10:6000 time_ms=1221 speed_KB/s=419 progress=69%
+[2026-03-17 05:43:28.922] [FRAG] idx=71 offset=37224448 len=524288 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=418 progress=70%
+[2026-03-17 05:43:30.070] [FRAG] idx=72 offset=37748736 len=524288 source=13.39.21.10:6000 time_ms=1147 speed_KB/s=446 progress=71%
+[2026-03-17 05:43:31.022] [FRAG] idx=60 offset=31457280 len=524288 source=32.195.67.201:6001 time_ms=14982 speed_KB/s=34 progress=72%
+[2026-03-17 05:43:31.218] [FRAG] idx=73 offset=38273024 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=73%
+[2026-03-17 05:43:32.444] [FRAG] idx=75 offset=39321600 len=524288 source=13.39.21.10:6000 time_ms=1225 speed_KB/s=417 progress=74%
+[2026-03-17 05:43:33.702] [FRAG] idx=76 offset=39845888 len=524288 source=13.39.21.10:6000 time_ms=1257 speed_KB/s=407 progress=75%
+[2026-03-17 05:43:34.928] [FRAG] idx=77 offset=40370176 len=524288 source=13.39.21.10:6000 time_ms=1225 speed_KB/s=417 progress=76%
+[2026-03-17 05:43:34.984] [FRAG] idx=66 offset=34603008 len=524288 source=13.220.244.217:6002 time_ms=13285 speed_KB/s=38 progress=77%
+[2026-03-17 05:43:36.080] [FRAG] idx=78 offset=40894464 len=524288 source=13.39.21.10:6000 time_ms=1152 speed_KB/s=444 progress=78%
+[2026-03-17 05:43:37.236] [FRAG] idx=80 offset=41943040 len=524288 source=13.39.21.10:6000 time_ms=1156 speed_KB/s=442 progress=79%
+[2026-03-17 05:43:38.456] [FRAG] idx=81 offset=42467328 len=524288 source=13.39.21.10:6000 time_ms=1218 speed_KB/s=420 progress=80%
+[2026-03-17 05:43:39.687] [FRAG] idx=82 offset=42991616 len=524288 source=13.39.21.10:6000 time_ms=1230 speed_KB/s=416 progress=81%
+[2026-03-17 05:43:40.951] [FRAG] idx=83 offset=43515904 len=524288 source=13.39.21.10:6000 time_ms=1264 speed_KB/s=405 progress=82%
+[2026-03-17 05:43:42.191] [FRAG] idx=84 offset=44040192 len=524288 source=13.39.21.10:6000 time_ms=1239 speed_KB/s=413 progress=83%
+[2026-03-17 05:43:43.448] [FRAG] idx=85 offset=44564480 len=524288 source=13.39.21.10:6000 time_ms=1256 speed_KB/s=407 progress=84%
+[2026-03-17 05:43:44.674] [FRAG] idx=86 offset=45088768 len=524288 source=13.39.21.10:6000 time_ms=1225 speed_KB/s=417 progress=85%
+[2026-03-17 05:43:45.812] [FRAG] idx=87 offset=45613056 len=524288 source=13.39.21.10:6000 time_ms=1137 speed_KB/s=450 progress=86%
+[2026-03-17 05:43:46.121] [FRAG] idx=74 offset=38797312 len=524288 source=32.195.67.201:6001 time_ms=15098 speed_KB/s=33 progress=87%
+[2026-03-17 05:43:46.918] [FRAG] idx=88 offset=46137344 len=524288 source=13.39.21.10:6000 time_ms=1105 speed_KB/s=463 progress=88%
+[2026-03-17 05:43:48.120] [FRAG] idx=90 offset=47185920 len=524288 source=13.39.21.10:6000 time_ms=1202 speed_KB/s=425 progress=89%
+[2026-03-17 05:43:48.428] [FRAG] idx=79 offset=41418752 len=524288 source=13.220.244.217:6002 time_ms=13443 speed_KB/s=38 progress=90%
+[2026-03-17 05:43:49.367] [FRAG] idx=91 offset=47710208 len=524288 source=13.39.21.10:6000 time_ms=1247 speed_KB/s=410 progress=91%
+[2026-03-17 05:43:50.605] [FRAG] idx=93 offset=48758784 len=524288 source=13.39.21.10:6000 time_ms=1237 speed_KB/s=413 progress=92%
+[2026-03-17 05:43:51.754] [FRAG] idx=94 offset=49283072 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=93%
+[2026-03-17 05:43:52.901] [FRAG] idx=95 offset=49807360 len=524288 source=13.39.21.10:6000 time_ms=1146 speed_KB/s=446 progress=94%
+[2026-03-17 05:43:54.142] [FRAG] idx=96 offset=50331648 len=524288 source=13.39.21.10:6000 time_ms=1241 speed_KB/s=412 progress=95%
+[2026-03-17 05:43:55.367] [FRAG] idx=97 offset=50855936 len=524288 source=13.39.21.10:6000 time_ms=1225 speed_KB/s=417 progress=96%
+[2026-03-17 05:43:56.603] [FRAG] idx=98 offset=51380224 len=524288 source=13.39.21.10:6000 time_ms=1235 speed_KB/s=414 progress=97%
+[2026-03-17 05:43:57.825] [FRAG] idx=99 offset=51904512 len=524288 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=418 progress=98%
+[2026-03-17 05:44:01.042] [FRAG] idx=89 offset=46661632 len=524288 source=32.195.67.201:6001 time_ms=14920 speed_KB/s=34 progress=99%
+[2026-03-17 05:44:01.497] [FRAG] idx=92 offset=48234496 len=524288 source=13.220.244.217:6002 time_ms=13068 speed_KB/s=39 progress=100%
+[2026-03-17 05:44:01.501] [SUMMARY] ============================================
+[2026-03-17 05:44:01.502] [SUMMARY] file=test-large.bin
+[2026-03-17 05:44:01.510] [SUMMARY] file_size=52428800 bytes
+[2026-03-17 05:44:01.523] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:44:01.523] [SUMMARY] total_fragments=100
+[2026-03-17 05:44:01.524] [SUMMARY] sources_used=3
+[2026-03-17 05:44:01.524] [SUMMARY] compression=false
+[2026-03-17 05:44:01.524] [SUMMARY] total_time_ms=105798
+[2026-03-17 05:44:01.525] [SUMMARY] avg_speed_KB/s=483
+[2026-03-17 05:44:01.525] [SUMMARY] failed_fragments=0
+[2026-03-17 05:44:01.525] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:44:01.535] [SUMMARY] source=32.195.67.201:6001 fragments=7 bytes=3670016 time_ms=105329 speed_KB/s=34
+[2026-03-17 05:44:01.536] [SUMMARY] source=13.39.21.10:6000 fragments=85 bytes=44564480 time_ms=102043 speed_KB/s=426
+[2026-03-17 05:44:01.536] [SUMMARY] source=13.220.244.217:6002 fragments=8 bytes=4194304 time_ms=105782 speed_KB/s=38
+[2026-03-17 05:44:01.536] [SUMMARY] ============================================
+[2026-03-17 05:44:01.537] [Download] Output: /home/ubuntu/./output/test-large.bin

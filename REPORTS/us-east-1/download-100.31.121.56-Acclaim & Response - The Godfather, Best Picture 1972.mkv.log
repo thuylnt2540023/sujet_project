@@ -1,0 +1,955 @@
+[2026-03-17 05:13:57.340] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=false
+[2026-03-17 05:13:57.341] [Download] All sources from Directory:
+[2026-03-17 05:13:57.347] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:13:57.347] [Download] Using 1 source(s):
+[2026-03-17 05:13:57.348] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:13:57.599] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:13:57.608] [Download] Fragments: 19 x 512KB, sources: 1
+[2026-03-17 05:13:58.710] [FRAG] idx=0 offset=0 len=524288 source=13.39.21.10:6000 time_ms=1083 speed_KB/s=472 progress=5%
+[2026-03-17 05:13:59.862] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=1151 speed_KB/s=444 progress=10%
+[2026-03-17 05:14:01.013] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1150 speed_KB/s=445 progress=15%
+[2026-03-17 05:14:02.169] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1152 speed_KB/s=444 progress=21%
+[2026-03-17 05:14:03.317] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1147 speed_KB/s=446 progress=26%
+[2026-03-17 05:14:04.467] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=31%
+[2026-03-17 05:14:05.624] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1157 speed_KB/s=442 progress=36%
+[2026-03-17 05:14:06.781] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1155 speed_KB/s=443 progress=42%
+[2026-03-17 05:14:07.930] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=47%
+[2026-03-17 05:14:09.092] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1162 speed_KB/s=440 progress=52%
+[2026-03-17 05:14:10.249] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1156 speed_KB/s=442 progress=57%
+[2026-03-17 05:14:11.402] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1151 speed_KB/s=444 progress=63%
+[2026-03-17 05:14:12.552] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1150 speed_KB/s=445 progress=68%
+[2026-03-17 05:14:13.698] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1144 speed_KB/s=447 progress=73%
+[2026-03-17 05:14:14.750] [FRAG] idx=14 offset=7340032 len=524288 source=13.39.21.10:6000 time_ms=1051 speed_KB/s=487 progress=78%
+[2026-03-17 05:14:15.823] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1071 speed_KB/s=478 progress=84%
+[2026-03-17 05:14:16.991] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=89%
+[2026-03-17 05:14:18.155] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1164 speed_KB/s=439 progress=94%
+[2026-03-17 05:14:19.328] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1173 speed_KB/s=435 progress=100%
+[2026-03-17 05:14:19.329] [SUMMARY] ============================================
+[2026-03-17 05:14:19.329] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:14:19.331] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:14:19.334] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:14:19.334] [SUMMARY] total_fragments=19
+[2026-03-17 05:14:19.335] [SUMMARY] sources_used=1
+[2026-03-17 05:14:19.335] [SUMMARY] compression=false
+[2026-03-17 05:14:19.336] [SUMMARY] total_time_ms=21719
+[2026-03-17 05:14:19.336] [SUMMARY] avg_speed_KB/s=447
+[2026-03-17 05:14:19.337] [SUMMARY] failed_fragments=0
+[2026-03-17 05:14:19.337] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:14:19.343] [SUMMARY] source=13.39.21.10:6000 fragments=19 bytes=9959701 time_ms=21680 speed_KB/s=448
+[2026-03-17 05:14:19.344] [SUMMARY] ============================================
+[2026-03-17 05:14:19.344] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:15:59.904] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=262144 compression=true
+[2026-03-17 05:15:59.905] [Download] All sources from Directory:
+[2026-03-17 05:15:59.910] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:15:59.910] [Download] Using 1 source(s):
+[2026-03-17 05:15:59.911] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:16:00.165] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:16:00.170] [Download] Fragments: 38 x 256KB, sources: 1
+[2026-03-17 05:16:00.950] [FRAG] idx=0 offset=0 len=262144 source=13.39.21.10:6000 time_ms=763 speed_KB/s=335 progress=2%
+[2026-03-17 05:16:01.728] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=5%
+[2026-03-17 05:16:02.505] [FRAG] idx=2 offset=524288 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=7%
+[2026-03-17 05:16:03.283] [FRAG] idx=3 offset=786432 len=262144 source=13.39.21.10:6000 time_ms=778 speed_KB/s=329 progress=10%
+[2026-03-17 05:16:04.059] [FRAG] idx=4 offset=1048576 len=262144 source=13.39.21.10:6000 time_ms=775 speed_KB/s=330 progress=13%
+[2026-03-17 05:16:04.833] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=15%
+[2026-03-17 05:16:05.611] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=18%
+[2026-03-17 05:16:06.387] [FRAG] idx=7 offset=1835008 len=262144 source=13.39.21.10:6000 time_ms=774 speed_KB/s=330 progress=21%
+[2026-03-17 05:16:07.163] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=775 speed_KB/s=330 progress=23%
+[2026-03-17 05:16:08.166] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1003 speed_KB/s=255 progress=26%
+[2026-03-17 05:16:09.060] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=894 speed_KB/s=286 progress=28%
+[2026-03-17 05:16:09.836] [FRAG] idx=11 offset=2883584 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=31%
+[2026-03-17 05:16:10.611] [FRAG] idx=12 offset=3145728 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=34%
+[2026-03-17 05:16:11.390] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=779 speed_KB/s=328 progress=36%
+[2026-03-17 05:16:12.168] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=39%
+[2026-03-17 05:16:12.946] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=42%
+[2026-03-17 05:16:13.723] [FRAG] idx=16 offset=4194304 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=44%
+[2026-03-17 05:16:14.497] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=774 speed_KB/s=330 progress=47%
+[2026-03-17 05:16:15.193] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=695 speed_KB/s=368 progress=50%
+[2026-03-17 05:16:15.968] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=52%
+[2026-03-17 05:16:16.744] [FRAG] idx=20 offset=5242880 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=55%
+[2026-03-17 05:16:17.522] [FRAG] idx=21 offset=5505024 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=57%
+[2026-03-17 05:16:18.299] [FRAG] idx=22 offset=5767168 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=60%
+[2026-03-17 05:16:19.075] [FRAG] idx=23 offset=6029312 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=63%
+[2026-03-17 05:16:19.852] [FRAG] idx=24 offset=6291456 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=65%
+[2026-03-17 05:16:20.628] [FRAG] idx=25 offset=6553600 len=262144 source=13.39.21.10:6000 time_ms=775 speed_KB/s=330 progress=68%
+[2026-03-17 05:16:21.403] [FRAG] idx=26 offset=6815744 len=262144 source=13.39.21.10:6000 time_ms=774 speed_KB/s=330 progress=71%
+[2026-03-17 05:16:22.180] [FRAG] idx=27 offset=7077888 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=73%
+[2026-03-17 05:16:22.958] [FRAG] idx=28 offset=7340032 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=76%
+[2026-03-17 05:16:23.735] [FRAG] idx=29 offset=7602176 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=78%
+[2026-03-17 05:16:24.512] [FRAG] idx=30 offset=7864320 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=81%
+[2026-03-17 05:16:25.289] [FRAG] idx=31 offset=8126464 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=84%
+[2026-03-17 05:16:26.066] [FRAG] idx=32 offset=8388608 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=86%
+[2026-03-17 05:16:26.844] [FRAG] idx=33 offset=8650752 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=89%
+[2026-03-17 05:16:27.620] [FRAG] idx=34 offset=8912896 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=92%
+[2026-03-17 05:16:28.398] [FRAG] idx=35 offset=9175040 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=94%
+[2026-03-17 05:16:29.171] [FRAG] idx=36 offset=9437184 len=262144 source=13.39.21.10:6000 time_ms=772 speed_KB/s=331 progress=97%
+[2026-03-17 05:16:29.925] [FRAG] idx=37 offset=9699328 len=260373 source=13.39.21.10:6000 time_ms=753 speed_KB/s=337 progress=100%
+[2026-03-17 05:16:29.926] [SUMMARY] ============================================
+[2026-03-17 05:16:29.926] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:16:29.929] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:16:29.931] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 05:16:29.931] [SUMMARY] total_fragments=38
+[2026-03-17 05:16:29.932] [SUMMARY] sources_used=1
+[2026-03-17 05:16:29.932] [SUMMARY] compression=true
+[2026-03-17 05:16:29.933] [SUMMARY] total_time_ms=29755
+[2026-03-17 05:16:29.933] [SUMMARY] avg_speed_KB/s=326
+[2026-03-17 05:16:29.934] [SUMMARY] failed_fragments=0
+[2026-03-17 05:16:29.934] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:16:29.941] [SUMMARY] source=13.39.21.10:6000 fragments=38 bytes=9959701 time_ms=29712 speed_KB/s=327
+[2026-03-17 05:16:29.941] [SUMMARY] ============================================
+[2026-03-17 05:16:29.942] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:16:40.613] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=true
+[2026-03-17 05:16:40.614] [Download] All sources from Directory:
+[2026-03-17 05:16:40.618] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:16:40.619] [Download] Using 1 source(s):
+[2026-03-17 05:16:40.619] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:16:40.872] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:16:40.879] [Download] Fragments: 19 x 512KB, sources: 1
+[2026-03-17 05:16:41.976] [FRAG] idx=0 offset=0 len=524288 source=13.39.21.10:6000 time_ms=1079 speed_KB/s=474 progress=5%
+[2026-03-17 05:16:43.090] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=1113 speed_KB/s=460 progress=10%
+[2026-03-17 05:16:44.255] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1165 speed_KB/s=439 progress=15%
+[2026-03-17 05:16:45.430] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1174 speed_KB/s=436 progress=21%
+[2026-03-17 05:16:46.604] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1173 speed_KB/s=436 progress=26%
+[2026-03-17 05:16:47.753] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=31%
+[2026-03-17 05:16:48.905] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1151 speed_KB/s=444 progress=36%
+[2026-03-17 05:16:50.064] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1159 speed_KB/s=441 progress=42%
+[2026-03-17 05:16:51.228] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1162 speed_KB/s=440 progress=47%
+[2026-03-17 05:16:52.397] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1168 speed_KB/s=438 progress=52%
+[2026-03-17 05:16:53.560] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1162 speed_KB/s=440 progress=57%
+[2026-03-17 05:16:54.721] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1161 speed_KB/s=440 progress=63%
+[2026-03-17 05:16:55.897] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1174 speed_KB/s=436 progress=68%
+[2026-03-17 05:16:57.042] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1145 speed_KB/s=447 progress=73%
+[2026-03-17 05:16:58.210] [FRAG] idx=14 offset=7340032 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=78%
+[2026-03-17 05:16:59.359] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1148 speed_KB/s=445 progress=84%
+[2026-03-17 05:17:00.524] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1163 speed_KB/s=440 progress=89%
+[2026-03-17 05:17:01.675] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1150 speed_KB/s=445 progress=94%
+[2026-03-17 05:17:03.127] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1451 speed_KB/s=351 progress=100%
+[2026-03-17 05:17:03.127] [SUMMARY] ============================================
+[2026-03-17 05:17:03.128] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:17:03.130] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:17:03.133] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:17:03.134] [SUMMARY] total_fragments=19
+[2026-03-17 05:17:03.134] [SUMMARY] sources_used=1
+[2026-03-17 05:17:03.135] [SUMMARY] compression=true
+[2026-03-17 05:17:03.135] [SUMMARY] total_time_ms=22247
+[2026-03-17 05:17:03.136] [SUMMARY] avg_speed_KB/s=437
+[2026-03-17 05:17:03.136] [SUMMARY] failed_fragments=0
+[2026-03-17 05:17:03.137] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:17:03.143] [SUMMARY] source=13.39.21.10:6000 fragments=19 bytes=9959701 time_ms=22213 speed_KB/s=437
+[2026-03-17 05:17:03.143] [SUMMARY] ============================================
+[2026-03-17 05:17:03.144] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:17:48.304] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=1048576 compression=true
+[2026-03-17 05:17:48.306] [Download] All sources from Directory:
+[2026-03-17 05:17:48.310] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:17:48.310] [Download] Using 1 source(s):
+[2026-03-17 05:17:48.311] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:17:48.562] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:17:48.569] [Download] Fragments: 10 x 1024KB, sources: 1
+[2026-03-17 05:17:50.408] [FRAG] idx=0 offset=0 len=1048576 source=13.39.21.10:6000 time_ms=1816 speed_KB/s=563 progress=10%
+[2026-03-17 05:17:52.315] [FRAG] idx=1 offset=1048576 len=1048576 source=13.39.21.10:6000 time_ms=1904 speed_KB/s=537 progress=21%
+[2026-03-17 05:17:54.206] [FRAG] idx=2 offset=2097152 len=1048576 source=13.39.21.10:6000 time_ms=1890 speed_KB/s=541 progress=31%
+[2026-03-17 05:17:56.098] [FRAG] idx=3 offset=3145728 len=1048576 source=13.39.21.10:6000 time_ms=1890 speed_KB/s=541 progress=42%
+[2026-03-17 05:17:57.968] [FRAG] idx=4 offset=4194304 len=1048576 source=13.39.21.10:6000 time_ms=1869 speed_KB/s=547 progress=52%
+[2026-03-17 05:17:59.918] [FRAG] idx=5 offset=5242880 len=1048576 source=13.39.21.10:6000 time_ms=1949 speed_KB/s=525 progress=63%
+[2026-03-17 05:18:01.951] [FRAG] idx=6 offset=6291456 len=1048576 source=13.39.21.10:6000 time_ms=2014 speed_KB/s=508 progress=73%
+[2026-03-17 05:18:03.700] [FRAG] idx=7 offset=7340032 len=1048576 source=13.39.21.10:6000 time_ms=1747 speed_KB/s=586 progress=84%
+[2026-03-17 05:18:05.657] [FRAG] idx=8 offset=8388608 len=1048576 source=13.39.21.10:6000 time_ms=1956 speed_KB/s=523 progress=94%
+[2026-03-17 05:18:06.956] [FRAG] idx=9 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1297 speed_KB/s=393 progress=100%
+[2026-03-17 05:18:06.956] [SUMMARY] ============================================
+[2026-03-17 05:18:06.957] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:18:06.958] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:18:06.961] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 05:18:06.961] [SUMMARY] total_fragments=10
+[2026-03-17 05:18:06.962] [SUMMARY] sources_used=1
+[2026-03-17 05:18:06.962] [SUMMARY] compression=true
+[2026-03-17 05:18:06.963] [SUMMARY] total_time_ms=18386
+[2026-03-17 05:18:06.963] [SUMMARY] avg_speed_KB/s=529
+[2026-03-17 05:18:06.964] [SUMMARY] failed_fragments=0
+[2026-03-17 05:18:06.964] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:18:06.975] [SUMMARY] source=13.39.21.10:6000 fragments=10 bytes=9959701 time_ms=18332 speed_KB/s=530
+[2026-03-17 05:18:06.975] [SUMMARY] ============================================
+[2026-03-17 05:18:06.975] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:18:16.017] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=2097152 compression=true
+[2026-03-17 05:18:16.018] [Download] All sources from Directory:
+[2026-03-17 05:18:16.022] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:18:16.023] [Download] Using 1 source(s):
+[2026-03-17 05:18:16.023] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:18:16.277] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:18:16.282] [Download] Fragments: 5 x 2048KB, sources: 1
+[2026-03-17 05:18:19.433] [FRAG] idx=0 offset=0 len=2097152 source=13.39.21.10:6000 time_ms=3129 speed_KB/s=654 progress=21%
+[2026-03-17 05:18:22.892] [FRAG] idx=1 offset=2097152 len=2097152 source=13.39.21.10:6000 time_ms=3456 speed_KB/s=592 progress=42%
+[2026-03-17 05:18:26.234] [FRAG] idx=2 offset=4194304 len=2097152 source=13.39.21.10:6000 time_ms=3340 speed_KB/s=613 progress=63%
+[2026-03-17 05:18:29.704] [FRAG] idx=3 offset=6291456 len=2097152 source=13.39.21.10:6000 time_ms=3469 speed_KB/s=590 progress=84%
+[2026-03-17 05:18:32.393] [FRAG] idx=4 offset=8388608 len=1571093 source=13.39.21.10:6000 time_ms=2687 speed_KB/s=570 progress=100%
+[2026-03-17 05:18:32.394] [SUMMARY] ============================================
+[2026-03-17 05:18:32.394] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:18:32.396] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:18:32.398] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 05:18:32.399] [SUMMARY] total_fragments=5
+[2026-03-17 05:18:32.399] [SUMMARY] sources_used=1
+[2026-03-17 05:18:32.400] [SUMMARY] compression=true
+[2026-03-17 05:18:32.400] [SUMMARY] total_time_ms=16109
+[2026-03-17 05:18:32.401] [SUMMARY] avg_speed_KB/s=603
+[2026-03-17 05:18:32.401] [SUMMARY] failed_fragments=0
+[2026-03-17 05:18:32.401] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:18:32.412] [SUMMARY] source=13.39.21.10:6000 fragments=5 bytes=9959701 time_ms=16081 speed_KB/s=604
+[2026-03-17 05:18:32.413] [SUMMARY] ============================================
+[2026-03-17 05:18:32.413] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:18:42.078] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=10485760 compression=true
+[2026-03-17 05:18:42.079] [Download] All sources from Directory:
+[2026-03-17 05:18:42.083] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:18:42.084] [Download] Using 1 source(s):
+[2026-03-17 05:18:42.084] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:18:42.336] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:18:42.341] [Download] Fragments: 1 x 10240KB, sources: 1
+[2026-03-17 05:18:56.672] [FRAG] idx=0 offset=0 len=9959701 source=13.39.21.10:6000 time_ms=14294 speed_KB/s=680 progress=100%
+[2026-03-17 05:18:56.672] [SUMMARY] ============================================
+[2026-03-17 05:18:56.673] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:18:56.675] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:18:56.679] [SUMMARY] fragment_size=10485760 bytes (10240 KB)
+[2026-03-17 05:18:56.680] [SUMMARY] total_fragments=1
+[2026-03-17 05:18:56.680] [SUMMARY] sources_used=1
+[2026-03-17 05:18:56.681] [SUMMARY] compression=true
+[2026-03-17 05:18:56.682] [SUMMARY] total_time_ms=14328
+[2026-03-17 05:18:56.682] [SUMMARY] avg_speed_KB/s=678
+[2026-03-17 05:18:56.683] [SUMMARY] failed_fragments=0
+[2026-03-17 05:18:56.684] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:18:56.697] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=9959701 time_ms=14294 speed_KB/s=680
+[2026-03-17 05:18:56.697] [SUMMARY] ============================================
+[2026-03-17 05:18:56.698] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:19:21.339] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=131072 compression=true
+[2026-03-17 05:19:21.340] [Download] All sources from Directory:
+[2026-03-17 05:19:21.345] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:19:21.345] [Download] Using 1 source(s):
+[2026-03-17 05:19:21.346] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:19:21.597] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:19:21.602] [Download] Fragments: 76 x 128KB, sources: 1
+[2026-03-17 05:19:22.219] [FRAG] idx=0 offset=0 len=131072 source=13.39.21.10:6000 time_ms=596 speed_KB/s=214 progress=1%
+[2026-03-17 05:19:22.833] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=2%
+[2026-03-17 05:19:23.445] [FRAG] idx=2 offset=262144 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=3%
+[2026-03-17 05:19:24.062] [FRAG] idx=3 offset=393216 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=5%
+[2026-03-17 05:19:24.678] [FRAG] idx=4 offset=524288 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=6%
+[2026-03-17 05:19:25.287] [FRAG] idx=5 offset=655360 len=131072 source=13.39.21.10:6000 time_ms=609 speed_KB/s=210 progress=7%
+[2026-03-17 05:19:25.900] [FRAG] idx=6 offset=786432 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=9%
+[2026-03-17 05:19:26.512] [FRAG] idx=7 offset=917504 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=10%
+[2026-03-17 05:19:27.125] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=11%
+[2026-03-17 05:19:27.657] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=13%
+[2026-03-17 05:19:28.270] [FRAG] idx=10 offset=1310720 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=14%
+[2026-03-17 05:19:28.800] [FRAG] idx=11 offset=1441792 len=131072 source=13.39.21.10:6000 time_ms=530 speed_KB/s=241 progress=15%
+[2026-03-17 05:19:29.413] [FRAG] idx=12 offset=1572864 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=17%
+[2026-03-17 05:19:30.093] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=680 speed_KB/s=188 progress=18%
+[2026-03-17 05:19:30.792] [FRAG] idx=14 offset=1835008 len=131072 source=13.39.21.10:6000 time_ms=697 speed_KB/s=183 progress=19%
+[2026-03-17 05:19:31.406] [FRAG] idx=15 offset=1966080 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=21%
+[2026-03-17 05:19:32.021] [FRAG] idx=16 offset=2097152 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=22%
+[2026-03-17 05:19:32.634] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=23%
+[2026-03-17 05:19:33.248] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=25%
+[2026-03-17 05:19:33.867] [FRAG] idx=19 offset=2490368 len=131072 source=13.39.21.10:6000 time_ms=618 speed_KB/s=207 progress=26%
+[2026-03-17 05:19:34.495] [FRAG] idx=20 offset=2621440 len=131072 source=13.39.21.10:6000 time_ms=628 speed_KB/s=203 progress=27%
+[2026-03-17 05:19:35.129] [FRAG] idx=21 offset=2752512 len=131072 source=13.39.21.10:6000 time_ms=634 speed_KB/s=201 progress=28%
+[2026-03-17 05:19:35.846] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=716 speed_KB/s=178 progress=30%
+[2026-03-17 05:19:36.478] [FRAG] idx=23 offset=3014656 len=131072 source=13.39.21.10:6000 time_ms=632 speed_KB/s=202 progress=31%
+[2026-03-17 05:19:37.102] [FRAG] idx=24 offset=3145728 len=131072 source=13.39.21.10:6000 time_ms=622 speed_KB/s=205 progress=32%
+[2026-03-17 05:19:37.716] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=34%
+[2026-03-17 05:19:38.341] [FRAG] idx=26 offset=3407872 len=131072 source=13.39.21.10:6000 time_ms=625 speed_KB/s=204 progress=35%
+[2026-03-17 05:19:39.389] [FRAG] idx=27 offset=3538944 len=131072 source=13.39.21.10:6000 time_ms=1047 speed_KB/s=122 progress=36%
+[2026-03-17 05:19:40.006] [FRAG] idx=28 offset=3670016 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=38%
+[2026-03-17 05:19:40.617] [FRAG] idx=29 offset=3801088 len=131072 source=13.39.21.10:6000 time_ms=610 speed_KB/s=209 progress=39%
+[2026-03-17 05:19:41.232] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=40%
+[2026-03-17 05:19:41.844] [FRAG] idx=31 offset=4063232 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=42%
+[2026-03-17 05:19:42.455] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=43%
+[2026-03-17 05:19:43.070] [FRAG] idx=33 offset=4325376 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=44%
+[2026-03-17 05:19:43.602] [FRAG] idx=34 offset=4456448 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=46%
+[2026-03-17 05:19:44.214] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=47%
+[2026-03-17 05:19:44.743] [FRAG] idx=36 offset=4718592 len=131072 source=13.39.21.10:6000 time_ms=527 speed_KB/s=242 progress=48%
+[2026-03-17 05:19:45.363] [FRAG] idx=37 offset=4849664 len=131072 source=13.39.21.10:6000 time_ms=620 speed_KB/s=206 progress=50%
+[2026-03-17 05:19:45.975] [FRAG] idx=38 offset=4980736 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=51%
+[2026-03-17 05:19:46.588] [FRAG] idx=39 offset=5111808 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=52%
+[2026-03-17 05:19:47.200] [FRAG] idx=40 offset=5242880 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=53%
+[2026-03-17 05:19:47.814] [FRAG] idx=41 offset=5373952 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=55%
+[2026-03-17 05:19:48.436] [FRAG] idx=42 offset=5505024 len=131072 source=13.39.21.10:6000 time_ms=621 speed_KB/s=206 progress=56%
+[2026-03-17 05:19:49.224] [FRAG] idx=43 offset=5636096 len=131072 source=13.39.21.10:6000 time_ms=788 speed_KB/s=162 progress=57%
+[2026-03-17 05:19:49.837] [FRAG] idx=44 offset=5767168 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=59%
+[2026-03-17 05:19:50.452] [FRAG] idx=45 offset=5898240 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=60%
+[2026-03-17 05:19:51.190] [FRAG] idx=46 offset=6029312 len=131072 source=13.39.21.10:6000 time_ms=738 speed_KB/s=173 progress=61%
+[2026-03-17 05:19:51.803] [FRAG] idx=47 offset=6160384 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=63%
+[2026-03-17 05:19:52.418] [FRAG] idx=48 offset=6291456 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=64%
+[2026-03-17 05:19:53.031] [FRAG] idx=49 offset=6422528 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=65%
+[2026-03-17 05:19:53.563] [FRAG] idx=50 offset=6553600 len=131072 source=13.39.21.10:6000 time_ms=532 speed_KB/s=240 progress=67%
+[2026-03-17 05:19:54.176] [FRAG] idx=51 offset=6684672 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=68%
+[2026-03-17 05:19:54.709] [FRAG] idx=52 offset=6815744 len=131072 source=13.39.21.10:6000 time_ms=532 speed_KB/s=240 progress=69%
+[2026-03-17 05:19:55.322] [FRAG] idx=53 offset=6946816 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=71%
+[2026-03-17 05:19:55.937] [FRAG] idx=54 offset=7077888 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=72%
+[2026-03-17 05:19:56.552] [FRAG] idx=55 offset=7208960 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=73%
+[2026-03-17 05:19:57.165] [FRAG] idx=56 offset=7340032 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=75%
+[2026-03-17 05:19:57.778] [FRAG] idx=57 offset=7471104 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=76%
+[2026-03-17 05:19:58.394] [FRAG] idx=58 offset=7602176 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=77%
+[2026-03-17 05:19:59.007] [FRAG] idx=59 offset=7733248 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=78%
+[2026-03-17 05:19:59.555] [FRAG] idx=60 offset=7864320 len=131072 source=13.39.21.10:6000 time_ms=546 speed_KB/s=234 progress=80%
+[2026-03-17 05:20:00.812] [FRAG] idx=61 offset=7995392 len=131072 source=13.39.21.10:6000 time_ms=1257 speed_KB/s=101 progress=81%
+[2026-03-17 05:20:01.518] [FRAG] idx=62 offset=8126464 len=131072 source=13.39.21.10:6000 time_ms=706 speed_KB/s=181 progress=82%
+[2026-03-17 05:20:02.153] [FRAG] idx=63 offset=8257536 len=131072 source=13.39.21.10:6000 time_ms=633 speed_KB/s=202 progress=84%
+[2026-03-17 05:20:02.701] [FRAG] idx=64 offset=8388608 len=131072 source=13.39.21.10:6000 time_ms=546 speed_KB/s=234 progress=85%
+[2026-03-17 05:20:03.349] [FRAG] idx=65 offset=8519680 len=131072 source=13.39.21.10:6000 time_ms=648 speed_KB/s=197 progress=86%
+[2026-03-17 05:20:03.966] [FRAG] idx=66 offset=8650752 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=88%
+[2026-03-17 05:20:04.581] [FRAG] idx=67 offset=8781824 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=89%
+[2026-03-17 05:20:05.201] [FRAG] idx=68 offset=8912896 len=131072 source=13.39.21.10:6000 time_ms=619 speed_KB/s=206 progress=90%
+[2026-03-17 05:20:05.816] [FRAG] idx=69 offset=9043968 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=92%
+[2026-03-17 05:20:06.439] [FRAG] idx=70 offset=9175040 len=131072 source=13.39.21.10:6000 time_ms=622 speed_KB/s=205 progress=93%
+[2026-03-17 05:20:07.054] [FRAG] idx=71 offset=9306112 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=94%
+[2026-03-17 05:20:07.667] [FRAG] idx=72 offset=9437184 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=96%
+[2026-03-17 05:20:08.279] [FRAG] idx=73 offset=9568256 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=97%
+[2026-03-17 05:20:08.893] [FRAG] idx=74 offset=9699328 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=98%
+[2026-03-17 05:20:09.488] [FRAG] idx=75 offset=9830400 len=129301 source=13.39.21.10:6000 time_ms=594 speed_KB/s=212 progress=100%
+[2026-03-17 05:20:09.489] [SUMMARY] ============================================
+[2026-03-17 05:20:09.490] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:20:09.491] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:20:09.494] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 05:20:09.495] [SUMMARY] total_fragments=76
+[2026-03-17 05:20:09.496] [SUMMARY] sources_used=1
+[2026-03-17 05:20:09.496] [SUMMARY] compression=true
+[2026-03-17 05:20:09.497] [SUMMARY] total_time_ms=47884
+[2026-03-17 05:20:09.498] [SUMMARY] avg_speed_KB/s=203
+[2026-03-17 05:20:09.498] [SUMMARY] failed_fragments=0
+[2026-03-17 05:20:09.498] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:20:09.509] [SUMMARY] source=13.39.21.10:6000 fragments=76 bytes=9959701 time_ms=47814 speed_KB/s=203
+[2026-03-17 05:20:09.509] [SUMMARY] ============================================
+[2026-03-17 05:20:09.509] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:28:15.796] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=false
+[2026-03-17 05:28:15.797] [Download] All sources from Directory:
+[2026-03-17 05:28:15.801] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:28:15.801] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:28:15.802] [Download] Using 2 source(s):
+[2026-03-17 05:28:15.802] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:28:15.802] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:28:16.053] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:28:16.060] [Download] Fragments: 19 x 512KB, sources: 2
+[2026-03-17 05:28:17.181] [FRAG] idx=0 offset=0 len=524288 source=13.39.21.10:6000 time_ms=1103 speed_KB/s=464 progress=5%
+[2026-03-17 05:28:18.267] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1086 speed_KB/s=471 progress=10%
+[2026-03-17 05:28:19.362] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1093 speed_KB/s=468 progress=15%
+[2026-03-17 05:28:20.527] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1164 speed_KB/s=439 progress=21%
+[2026-03-17 05:28:21.708] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1181 speed_KB/s=433 progress=26%
+[2026-03-17 05:28:22.900] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1192 speed_KB/s=429 progress=31%
+[2026-03-17 05:28:24.088] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1187 speed_KB/s=431 progress=36%
+[2026-03-17 05:28:25.254] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1166 speed_KB/s=439 progress=42%
+[2026-03-17 05:28:26.439] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1185 speed_KB/s=432 progress=47%
+[2026-03-17 05:28:27.650] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1210 speed_KB/s=423 progress=52%
+[2026-03-17 05:28:28.846] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1196 speed_KB/s=428 progress=57%
+[2026-03-17 05:28:29.934] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1086 speed_KB/s=471 progress=63%
+[2026-03-17 05:28:30.942] [FRAG] idx=1 offset=524288 len=524288 source=32.195.67.201:6001 time_ms=14874 speed_KB/s=34 progress=68%
+[2026-03-17 05:28:31.036] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1101 speed_KB/s=465 progress=73%
+[2026-03-17 05:28:32.238] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1201 speed_KB/s=426 progress=78%
+[2026-03-17 05:28:33.406] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=84%
+[2026-03-17 05:28:34.592] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1186 speed_KB/s=431 progress=89%
+[2026-03-17 05:28:35.764] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1172 speed_KB/s=435 progress=94%
+[2026-03-17 05:28:44.638] [FRAG] idx=14 offset=7340032 len=524288 source=32.195.67.201:6001 time_ms=13694 speed_KB/s=37 progress=100%
+[2026-03-17 05:28:44.639] [SUMMARY] ============================================
+[2026-03-17 05:28:44.639] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:28:44.641] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:28:44.644] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:28:44.644] [SUMMARY] total_fragments=19
+[2026-03-17 05:28:44.644] [SUMMARY] sources_used=2
+[2026-03-17 05:28:44.645] [SUMMARY] compression=false
+[2026-03-17 05:28:44.645] [SUMMARY] total_time_ms=28576
+[2026-03-17 05:28:44.646] [SUMMARY] avg_speed_KB/s=340
+[2026-03-17 05:28:44.646] [SUMMARY] failed_fragments=0
+[2026-03-17 05:28:44.646] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:28:44.653] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=1048576 time_ms=28568 speed_KB/s=35
+[2026-03-17 05:28:44.654] [SUMMARY] source=13.39.21.10:6000 fragments=17 bytes=8911125 time_ms=19676 speed_KB/s=442
+[2026-03-17 05:28:44.654] [SUMMARY] ============================================
+[2026-03-17 05:28:44.654] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:29:19.450] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=131072 compression=true
+[2026-03-17 05:29:19.451] [Download] All sources from Directory:
+[2026-03-17 05:29:19.455] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:29:19.455] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:29:19.456] [Download] Using 2 source(s):
+[2026-03-17 05:29:19.456] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:29:19.456] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:29:19.714] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:29:19.720] [Download] Fragments: 76 x 128KB, sources: 2
+[2026-03-17 05:29:20.275] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=539 speed_KB/s=237 progress=1%
+[2026-03-17 05:29:20.894] [FRAG] idx=2 offset=262144 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=2%
+[2026-03-17 05:29:21.508] [FRAG] idx=3 offset=393216 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=3%
+[2026-03-17 05:29:21.879] [FRAG] idx=0 offset=0 len=131072 source=32.195.67.201:6001 time_ms=2155 speed_KB/s=59 progress=5%
+[2026-03-17 05:29:22.122] [FRAG] idx=4 offset=524288 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=6%
+[2026-03-17 05:29:22.739] [FRAG] idx=6 offset=786432 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=7%
+[2026-03-17 05:29:23.353] [FRAG] idx=7 offset=917504 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=9%
+[2026-03-17 05:29:23.970] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=10%
+[2026-03-17 05:29:24.587] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=11%
+[2026-03-17 05:29:25.203] [FRAG] idx=10 offset=1310720 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=13%
+[2026-03-17 05:29:25.580] [FRAG] idx=5 offset=655360 len=131072 source=32.195.67.201:6001 time_ms=3700 speed_KB/s=34 progress=14%
+[2026-03-17 05:29:25.819] [FRAG] idx=11 offset=1441792 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=15%
+[2026-03-17 05:29:26.432] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=17%
+[2026-03-17 05:29:27.047] [FRAG] idx=14 offset=1835008 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=18%
+[2026-03-17 05:29:27.662] [FRAG] idx=15 offset=1966080 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=19%
+[2026-03-17 05:29:28.276] [FRAG] idx=16 offset=2097152 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=21%
+[2026-03-17 05:29:28.893] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=22%
+[2026-03-17 05:29:29.007] [FRAG] idx=12 offset=1572864 len=131072 source=32.195.67.201:6001 time_ms=3427 speed_KB/s=37 progress=23%
+[2026-03-17 05:29:29.510] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=25%
+[2026-03-17 05:29:30.121] [FRAG] idx=20 offset=2621440 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=26%
+[2026-03-17 05:29:30.734] [FRAG] idx=21 offset=2752512 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=27%
+[2026-03-17 05:29:31.347] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=28%
+[2026-03-17 05:29:31.960] [FRAG] idx=23 offset=3014656 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=30%
+[2026-03-17 05:29:32.575] [FRAG] idx=24 offset=3145728 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=31%
+[2026-03-17 05:29:32.827] [FRAG] idx=19 offset=2490368 len=131072 source=32.195.67.201:6001 time_ms=3820 speed_KB/s=33 progress=32%
+[2026-03-17 05:29:33.200] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=624 speed_KB/s=205 progress=34%
+[2026-03-17 05:29:33.831] [FRAG] idx=27 offset=3538944 len=131072 source=13.39.21.10:6000 time_ms=631 speed_KB/s=202 progress=35%
+[2026-03-17 05:29:34.445] [FRAG] idx=28 offset=3670016 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=36%
+[2026-03-17 05:29:34.976] [FRAG] idx=29 offset=3801088 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=38%
+[2026-03-17 05:29:35.589] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=39%
+[2026-03-17 05:29:36.119] [FRAG] idx=31 offset=4063232 len=131072 source=13.39.21.10:6000 time_ms=529 speed_KB/s=241 progress=40%
+[2026-03-17 05:29:36.255] [FRAG] idx=26 offset=3407872 len=131072 source=32.195.67.201:6001 time_ms=3427 speed_KB/s=37 progress=42%
+[2026-03-17 05:29:36.734] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=43%
+[2026-03-17 05:29:37.347] [FRAG] idx=34 offset=4456448 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=44%
+[2026-03-17 05:29:37.878] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=530 speed_KB/s=241 progress=46%
+[2026-03-17 05:29:38.492] [FRAG] idx=36 offset=4718592 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=47%
+[2026-03-17 05:29:39.034] [FRAG] idx=37 offset=4849664 len=131072 source=13.39.21.10:6000 time_ms=542 speed_KB/s=236 progress=48%
+[2026-03-17 05:29:39.644] [FRAG] idx=33 offset=4325376 len=131072 source=32.195.67.201:6001 time_ms=3387 speed_KB/s=37 progress=50%
+[2026-03-17 05:29:39.665] [FRAG] idx=38 offset=4980736 len=131072 source=13.39.21.10:6000 time_ms=629 speed_KB/s=203 progress=51%
+[2026-03-17 05:29:40.280] [FRAG] idx=40 offset=5242880 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=52%
+[2026-03-17 05:29:40.896] [FRAG] idx=41 offset=5373952 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=53%
+[2026-03-17 05:29:41.509] [FRAG] idx=42 offset=5505024 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=55%
+[2026-03-17 05:29:42.126] [FRAG] idx=43 offset=5636096 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=56%
+[2026-03-17 05:29:42.740] [FRAG] idx=44 offset=5767168 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=57%
+[2026-03-17 05:29:43.352] [FRAG] idx=45 offset=5898240 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=59%
+[2026-03-17 05:29:43.396] [FRAG] idx=39 offset=5111808 len=131072 source=32.195.67.201:6001 time_ms=3751 speed_KB/s=34 progress=60%
+[2026-03-17 05:29:43.969] [FRAG] idx=46 offset=6029312 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=61%
+[2026-03-17 05:29:44.585] [FRAG] idx=48 offset=6291456 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=63%
+[2026-03-17 05:29:45.116] [FRAG] idx=49 offset=6422528 len=131072 source=13.39.21.10:6000 time_ms=530 speed_KB/s=241 progress=64%
+[2026-03-17 05:29:45.730] [FRAG] idx=50 offset=6553600 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=65%
+[2026-03-17 05:29:46.261] [FRAG] idx=51 offset=6684672 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=67%
+[2026-03-17 05:29:46.876] [FRAG] idx=52 offset=6815744 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=68%
+[2026-03-17 05:29:47.222] [FRAG] idx=47 offset=6160384 len=131072 source=32.195.67.201:6001 time_ms=3825 speed_KB/s=33 progress=69%
+[2026-03-17 05:29:47.488] [FRAG] idx=53 offset=6946816 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=71%
+[2026-03-17 05:29:48.019] [FRAG] idx=55 offset=7208960 len=131072 source=13.39.21.10:6000 time_ms=530 speed_KB/s=241 progress=72%
+[2026-03-17 05:29:48.633] [FRAG] idx=56 offset=7340032 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=73%
+[2026-03-17 05:29:49.164] [FRAG] idx=57 offset=7471104 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=75%
+[2026-03-17 05:29:49.778] [FRAG] idx=58 offset=7602176 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=76%
+[2026-03-17 05:29:50.309] [FRAG] idx=59 offset=7733248 len=131072 source=13.39.21.10:6000 time_ms=530 speed_KB/s=241 progress=77%
+[2026-03-17 05:29:50.927] [FRAG] idx=60 offset=7864320 len=131072 source=13.39.21.10:6000 time_ms=618 speed_KB/s=207 progress=78%
+[2026-03-17 05:29:50.935] [FRAG] idx=54 offset=7077888 len=131072 source=32.195.67.201:6001 time_ms=3713 speed_KB/s=34 progress=80%
+[2026-03-17 05:29:51.461] [FRAG] idx=61 offset=7995392 len=131072 source=13.39.21.10:6000 time_ms=534 speed_KB/s=239 progress=81%
+[2026-03-17 05:29:52.076] [FRAG] idx=63 offset=8257536 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=82%
+[2026-03-17 05:29:52.694] [FRAG] idx=64 offset=8388608 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=84%
+[2026-03-17 05:29:53.229] [FRAG] idx=65 offset=8519680 len=131072 source=13.39.21.10:6000 time_ms=535 speed_KB/s=239 progress=85%
+[2026-03-17 05:29:53.844] [FRAG] idx=66 offset=8650752 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=86%
+[2026-03-17 05:29:54.376] [FRAG] idx=67 offset=8781824 len=131072 source=13.39.21.10:6000 time_ms=532 speed_KB/s=240 progress=88%
+[2026-03-17 05:29:54.760] [FRAG] idx=62 offset=8126464 len=131072 source=32.195.67.201:6001 time_ms=3825 speed_KB/s=33 progress=89%
+[2026-03-17 05:29:54.990] [FRAG] idx=68 offset=8912896 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=90%
+[2026-03-17 05:29:55.606] [FRAG] idx=70 offset=9175040 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=92%
+[2026-03-17 05:29:56.220] [FRAG] idx=71 offset=9306112 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=93%
+[2026-03-17 05:29:56.832] [FRAG] idx=72 offset=9437184 len=131072 source=13.39.21.10:6000 time_ms=611 speed_KB/s=209 progress=94%
+[2026-03-17 05:29:57.442] [FRAG] idx=73 offset=9568256 len=131072 source=13.39.21.10:6000 time_ms=610 speed_KB/s=209 progress=96%
+[2026-03-17 05:29:58.060] [FRAG] idx=74 offset=9699328 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=97%
+[2026-03-17 05:29:58.578] [FRAG] idx=69 offset=9043968 len=131072 source=32.195.67.201:6001 time_ms=3816 speed_KB/s=33 progress=98%
+[2026-03-17 05:29:58.654] [FRAG] idx=75 offset=9830400 len=129301 source=13.39.21.10:6000 time_ms=593 speed_KB/s=212 progress=100%
+[2026-03-17 05:29:58.654] [SUMMARY] ============================================
+[2026-03-17 05:29:58.655] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:29:58.657] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:29:58.659] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 05:29:58.660] [SUMMARY] total_fragments=76
+[2026-03-17 05:29:58.660] [SUMMARY] sources_used=2
+[2026-03-17 05:29:58.661] [SUMMARY] compression=true
+[2026-03-17 05:29:58.661] [SUMMARY] total_time_ms=38933
+[2026-03-17 05:29:58.662] [SUMMARY] avg_speed_KB/s=249
+[2026-03-17 05:29:58.662] [SUMMARY] failed_fragments=0
+[2026-03-17 05:29:58.663] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:29:58.670] [SUMMARY] source=32.195.67.201:6001 fragments=11 bytes=1441792 time_ms=38846 speed_KB/s=36
+[2026-03-17 05:29:58.671] [SUMMARY] source=13.39.21.10:6000 fragments=65 bytes=8517909 time_ms=38876 speed_KB/s=213
+[2026-03-17 05:29:58.671] [SUMMARY] ============================================
+[2026-03-17 05:29:58.671] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:30:14.358] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=262144 compression=true
+[2026-03-17 05:30:14.359] [Download] All sources from Directory:
+[2026-03-17 05:30:14.363] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:30:14.364] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:30:14.364] [Download] Using 2 source(s):
+[2026-03-17 05:30:14.365] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:30:14.365] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:30:14.666] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:30:14.672] [Download] Fragments: 38 x 256KB, sources: 2
+[2026-03-17 05:30:15.501] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=808 speed_KB/s=316 progress=2%
+[2026-03-17 05:30:16.317] [FRAG] idx=2 offset=524288 len=262144 source=13.39.21.10:6000 time_ms=816 speed_KB/s=313 progress=5%
+[2026-03-17 05:30:17.118] [FRAG] idx=3 offset=786432 len=262144 source=13.39.21.10:6000 time_ms=800 speed_KB/s=320 progress=7%
+[2026-03-17 05:30:17.893] [FRAG] idx=4 offset=1048576 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=10%
+[2026-03-17 05:30:18.666] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=13%
+[2026-03-17 05:30:19.424] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=756 speed_KB/s=338 progress=15%
+[2026-03-17 05:30:20.257] [FRAG] idx=7 offset=1835008 len=262144 source=13.39.21.10:6000 time_ms=833 speed_KB/s=307 progress=18%
+[2026-03-17 05:30:20.335] [FRAG] idx=0 offset=0 len=262144 source=32.195.67.201:6001 time_ms=5656 speed_KB/s=45 progress=21%
+[2026-03-17 05:30:21.042] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=784 speed_KB/s=326 progress=23%
+[2026-03-17 05:30:21.833] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=789 speed_KB/s=324 progress=26%
+[2026-03-17 05:30:22.648] [FRAG] idx=11 offset=2883584 len=262144 source=13.39.21.10:6000 time_ms=814 speed_KB/s=314 progress=28%
+[2026-03-17 05:30:23.442] [FRAG] idx=12 offset=3145728 len=262144 source=13.39.21.10:6000 time_ms=793 speed_KB/s=322 progress=31%
+[2026-03-17 05:30:24.216] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=34%
+[2026-03-17 05:30:25.071] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=855 speed_KB/s=299 progress=36%
+[2026-03-17 05:30:25.845] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=773 speed_KB/s=331 progress=39%
+[2026-03-17 05:30:25.899] [FRAG] idx=9 offset=2359296 len=262144 source=32.195.67.201:6001 time_ms=5563 speed_KB/s=46 progress=42%
+[2026-03-17 05:30:26.556] [FRAG] idx=16 offset=4194304 len=262144 source=13.39.21.10:6000 time_ms=711 speed_KB/s=360 progress=44%
+[2026-03-17 05:30:27.351] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=794 speed_KB/s=322 progress=47%
+[2026-03-17 05:30:28.159] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=808 speed_KB/s=316 progress=50%
+[2026-03-17 05:30:28.951] [FRAG] idx=20 offset=5242880 len=262144 source=13.39.21.10:6000 time_ms=790 speed_KB/s=324 progress=52%
+[2026-03-17 05:30:29.782] [FRAG] idx=21 offset=5505024 len=262144 source=13.39.21.10:6000 time_ms=831 speed_KB/s=308 progress=55%
+[2026-03-17 05:30:29.875] [FRAG] idx=17 offset=4456448 len=262144 source=32.195.67.201:6001 time_ms=3976 speed_KB/s=64 progress=57%
+[2026-03-17 05:30:30.596] [FRAG] idx=22 offset=5767168 len=262144 source=13.39.21.10:6000 time_ms=813 speed_KB/s=314 progress=60%
+[2026-03-17 05:30:31.374] [FRAG] idx=24 offset=6291456 len=262144 source=13.39.21.10:6000 time_ms=778 speed_KB/s=329 progress=63%
+[2026-03-17 05:30:32.152] [FRAG] idx=25 offset=6553600 len=262144 source=13.39.21.10:6000 time_ms=776 speed_KB/s=329 progress=65%
+[2026-03-17 05:30:32.996] [FRAG] idx=26 offset=6815744 len=262144 source=13.39.21.10:6000 time_ms=843 speed_KB/s=303 progress=68%
+[2026-03-17 05:30:33.710] [FRAG] idx=23 offset=6029312 len=262144 source=32.195.67.201:6001 time_ms=3833 speed_KB/s=66 progress=71%
+[2026-03-17 05:30:33.797] [FRAG] idx=27 offset=7077888 len=262144 source=13.39.21.10:6000 time_ms=800 speed_KB/s=320 progress=73%
+[2026-03-17 05:30:34.582] [FRAG] idx=29 offset=7602176 len=262144 source=13.39.21.10:6000 time_ms=785 speed_KB/s=326 progress=76%
+[2026-03-17 05:30:35.287] [FRAG] idx=30 offset=7864320 len=262144 source=13.39.21.10:6000 time_ms=705 speed_KB/s=363 progress=78%
+[2026-03-17 05:30:36.078] [FRAG] idx=31 offset=8126464 len=262144 source=13.39.21.10:6000 time_ms=791 speed_KB/s=323 progress=81%
+[2026-03-17 05:30:36.784] [FRAG] idx=32 offset=8388608 len=262144 source=13.39.21.10:6000 time_ms=705 speed_KB/s=363 progress=84%
+[2026-03-17 05:30:37.569] [FRAG] idx=33 offset=8650752 len=262144 source=13.39.21.10:6000 time_ms=785 speed_KB/s=326 progress=86%
+[2026-03-17 05:30:38.351] [FRAG] idx=34 offset=8912896 len=262144 source=13.39.21.10:6000 time_ms=782 speed_KB/s=327 progress=89%
+[2026-03-17 05:30:39.134] [FRAG] idx=35 offset=9175040 len=262144 source=13.39.21.10:6000 time_ms=783 speed_KB/s=326 progress=92%
+[2026-03-17 05:30:39.913] [FRAG] idx=36 offset=9437184 len=262144 source=13.39.21.10:6000 time_ms=777 speed_KB/s=329 progress=94%
+[2026-03-17 05:30:40.676] [FRAG] idx=37 offset=9699328 len=260373 source=13.39.21.10:6000 time_ms=763 speed_KB/s=333 progress=97%
+[2026-03-17 05:30:40.879] [FRAG] idx=28 offset=7340032 len=262144 source=32.195.67.201:6001 time_ms=7168 speed_KB/s=35 progress=100%
+[2026-03-17 05:30:40.879] [SUMMARY] ============================================
+[2026-03-17 05:30:40.880] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:30:40.882] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:30:40.886] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 05:30:40.886] [SUMMARY] total_fragments=38
+[2026-03-17 05:30:40.887] [SUMMARY] sources_used=2
+[2026-03-17 05:30:40.887] [SUMMARY] compression=true
+[2026-03-17 05:30:40.888] [SUMMARY] total_time_ms=26205
+[2026-03-17 05:30:40.888] [SUMMARY] avg_speed_KB/s=371
+[2026-03-17 05:30:40.889] [SUMMARY] failed_fragments=0
+[2026-03-17 05:30:40.889] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:30:40.901] [SUMMARY] source=32.195.67.201:6001 fragments=5 bytes=1310720 time_ms=26196 speed_KB/s=48
+[2026-03-17 05:30:40.901] [SUMMARY] source=13.39.21.10:6000 fragments=33 bytes=8648981 time_ms=25960 speed_KB/s=325
+[2026-03-17 05:30:40.901] [SUMMARY] ============================================
+[2026-03-17 05:30:40.902] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:30:58.538] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=true
+[2026-03-17 05:30:58.539] [Download] All sources from Directory:
+[2026-03-17 05:30:58.543] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:30:58.543] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:30:58.544] [Download] Using 2 source(s):
+[2026-03-17 05:30:58.544] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:30:58.545] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:30:58.796] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:30:58.803] [Download] Fragments: 19 x 512KB, sources: 2
+[2026-03-17 05:30:59.938] [FRAG] idx=0 offset=0 len=524288 source=13.39.21.10:6000 time_ms=1110 speed_KB/s=461 progress=5%
+[2026-03-17 05:31:01.097] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1158 speed_KB/s=442 progress=10%
+[2026-03-17 05:31:02.312] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1214 speed_KB/s=421 progress=15%
+[2026-03-17 05:31:03.503] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1191 speed_KB/s=429 progress=21%
+[2026-03-17 05:31:04.649] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1145 speed_KB/s=447 progress=26%
+[2026-03-17 05:31:05.840] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1190 speed_KB/s=430 progress=31%
+[2026-03-17 05:31:07.056] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1216 speed_KB/s=421 progress=36%
+[2026-03-17 05:31:08.177] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1120 speed_KB/s=457 progress=42%
+[2026-03-17 05:31:09.309] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1131 speed_KB/s=452 progress=47%
+[2026-03-17 05:31:10.529] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1219 speed_KB/s=420 progress=52%
+[2026-03-17 05:31:11.722] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1193 speed_KB/s=429 progress=57%
+[2026-03-17 05:31:12.907] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1184 speed_KB/s=432 progress=63%
+[2026-03-17 05:31:12.916] [FRAG] idx=1 offset=524288 len=524288 source=32.195.67.201:6001 time_ms=14106 speed_KB/s=36 progress=68%
+[2026-03-17 05:31:14.124] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1216 speed_KB/s=421 progress=73%
+[2026-03-17 05:31:15.326] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1201 speed_KB/s=426 progress=78%
+[2026-03-17 05:31:16.531] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1205 speed_KB/s=424 progress=84%
+[2026-03-17 05:31:17.744] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1213 speed_KB/s=422 progress=89%
+[2026-03-17 05:31:18.950] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1204 speed_KB/s=423 progress=94%
+[2026-03-17 05:31:24.182] [FRAG] idx=14 offset=7340032 len=524288 source=32.195.67.201:6001 time_ms=11266 speed_KB/s=45 progress=100%
+[2026-03-17 05:31:24.183] [SUMMARY] ============================================
+[2026-03-17 05:31:24.183] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:31:24.185] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:31:24.188] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:31:24.188] [SUMMARY] total_fragments=19
+[2026-03-17 05:31:24.189] [SUMMARY] sources_used=2
+[2026-03-17 05:31:24.189] [SUMMARY] compression=true
+[2026-03-17 05:31:24.190] [SUMMARY] total_time_ms=25378
+[2026-03-17 05:31:24.190] [SUMMARY] avg_speed_KB/s=383
+[2026-03-17 05:31:24.190] [SUMMARY] failed_fragments=0
+[2026-03-17 05:31:24.191] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:31:24.199] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=1048576 time_ms=25372 speed_KB/s=40
+[2026-03-17 05:31:24.199] [SUMMARY] source=13.39.21.10:6000 fragments=17 bytes=8911125 time_ms=20110 speed_KB/s=432
+[2026-03-17 05:31:24.200] [SUMMARY] ============================================
+[2026-03-17 05:31:24.200] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:31:33.038] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=1048576 compression=true
+[2026-03-17 05:31:33.039] [Download] All sources from Directory:
+[2026-03-17 05:31:33.043] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:31:33.044] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:31:33.044] [Download] Using 2 source(s):
+[2026-03-17 05:31:33.045] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:31:33.045] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:31:33.306] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:31:33.311] [Download] Fragments: 10 x 1024KB, sources: 2
+[2026-03-17 05:31:35.132] [FRAG] idx=1 offset=1048576 len=1048576 source=13.39.21.10:6000 time_ms=1798 speed_KB/s=569 progress=10%
+[2026-03-17 05:31:37.111] [FRAG] idx=2 offset=2097152 len=1048576 source=13.39.21.10:6000 time_ms=1978 speed_KB/s=517 progress=21%
+[2026-03-17 05:31:39.086] [FRAG] idx=3 offset=3145728 len=1048576 source=13.39.21.10:6000 time_ms=1974 speed_KB/s=518 progress=31%
+[2026-03-17 05:31:41.132] [FRAG] idx=4 offset=4194304 len=1048576 source=13.39.21.10:6000 time_ms=2045 speed_KB/s=500 progress=42%
+[2026-03-17 05:31:43.163] [FRAG] idx=5 offset=5242880 len=1048576 source=13.39.21.10:6000 time_ms=2030 speed_KB/s=504 progress=52%
+[2026-03-17 05:31:45.200] [FRAG] idx=6 offset=6291456 len=1048576 source=13.39.21.10:6000 time_ms=2036 speed_KB/s=502 progress=63%
+[2026-03-17 05:31:47.243] [FRAG] idx=7 offset=7340032 len=1048576 source=13.39.21.10:6000 time_ms=2043 speed_KB/s=501 progress=73%
+[2026-03-17 05:31:49.261] [FRAG] idx=8 offset=8388608 len=1048576 source=13.39.21.10:6000 time_ms=2016 speed_KB/s=507 progress=84%
+[2026-03-17 05:31:50.611] [FRAG] idx=9 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1350 speed_KB/s=377 progress=89%
+[2026-03-17 05:32:01.869] [FRAG] idx=0 offset=0 len=1048576 source=32.195.67.201:6001 time_ms=28550 speed_KB/s=35 progress=100%
+[2026-03-17 05:32:01.870] [SUMMARY] ============================================
+[2026-03-17 05:32:01.870] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:32:01.882] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:32:01.885] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 05:32:01.885] [SUMMARY] total_fragments=10
+[2026-03-17 05:32:01.886] [SUMMARY] sources_used=2
+[2026-03-17 05:32:01.886] [SUMMARY] compression=true
+[2026-03-17 05:32:01.887] [SUMMARY] total_time_ms=28557
+[2026-03-17 05:32:01.887] [SUMMARY] avg_speed_KB/s=340
+[2026-03-17 05:32:01.887] [SUMMARY] failed_fragments=0
+[2026-03-17 05:32:01.888] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:32:01.906] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1048576 time_ms=28550 speed_KB/s=35
+[2026-03-17 05:32:01.907] [SUMMARY] source=13.39.21.10:6000 fragments=9 bytes=8911125 time_ms=17270 speed_KB/s=503
+[2026-03-17 05:32:01.907] [SUMMARY] ============================================
+[2026-03-17 05:32:01.907] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:32:11.529] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=2097152 compression=true
+[2026-03-17 05:32:11.530] [Download] All sources from Directory:
+[2026-03-17 05:32:11.534] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:32:11.534] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:32:11.535] [Download] Using 2 source(s):
+[2026-03-17 05:32:11.535] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:32:11.535] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:32:11.542] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:32:11.546] [Download] Fragments: 5 x 2048KB, sources: 2
+[2026-03-17 05:32:14.931] [FRAG] idx=1 offset=2097152 len=2097152 source=13.39.21.10:6000 time_ms=3366 speed_KB/s=608 progress=21%
+[2026-03-17 05:32:18.426] [FRAG] idx=2 offset=4194304 len=2097152 source=13.39.21.10:6000 time_ms=3492 speed_KB/s=586 progress=42%
+[2026-03-17 05:32:21.967] [FRAG] idx=3 offset=6291456 len=2097152 source=13.39.21.10:6000 time_ms=3540 speed_KB/s=578 progress=63%
+[2026-03-17 05:32:24.715] [FRAG] idx=4 offset=8388608 len=1571093 source=13.39.21.10:6000 time_ms=2747 speed_KB/s=558 progress=78%
+[2026-03-17 05:32:56.645] [FRAG] idx=0 offset=0 len=2097152 source=32.195.67.201:6001 time_ms=45092 speed_KB/s=45 progress=100%
+[2026-03-17 05:32:56.646] [SUMMARY] ============================================
+[2026-03-17 05:32:56.646] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:32:56.648] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:32:56.651] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 05:32:56.651] [SUMMARY] total_fragments=5
+[2026-03-17 05:32:56.651] [SUMMARY] sources_used=2
+[2026-03-17 05:32:56.652] [SUMMARY] compression=true
+[2026-03-17 05:32:56.652] [SUMMARY] total_time_ms=45098
+[2026-03-17 05:32:56.653] [SUMMARY] avg_speed_KB/s=215
+[2026-03-17 05:32:56.653] [SUMMARY] failed_fragments=0
+[2026-03-17 05:32:56.653] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:32:56.665] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=2097152 time_ms=45092 speed_KB/s=45
+[2026-03-17 05:32:56.666] [SUMMARY] source=13.39.21.10:6000 fragments=4 bytes=7862549 time_ms=13145 speed_KB/s=584
+[2026-03-17 05:32:56.668] [SUMMARY] ============================================
+[2026-03-17 05:32:56.668] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:44:15.884] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=false
+[2026-03-17 05:44:15.886] [Download] All sources from Directory:
+[2026-03-17 05:44:15.890] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:44:15.890] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:44:15.890] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 05:44:15.891] [Download] Using 3 source(s):
+[2026-03-17 05:44:15.891] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:44:15.892] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:44:15.892] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 05:44:16.179] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:44:16.184] [Download] Fragments: 19 x 512KB, sources: 3
+[2026-03-17 05:44:17.329] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=1128 speed_KB/s=453 progress=5%
+[2026-03-17 05:44:18.526] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1196 speed_KB/s=428 progress=10%
+[2026-03-17 05:44:19.764] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1237 speed_KB/s=413 progress=15%
+[2026-03-17 05:44:20.935] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1171 speed_KB/s=437 progress=21%
+[2026-03-17 05:44:22.118] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1181 speed_KB/s=433 progress=26%
+[2026-03-17 05:44:23.344] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1225 speed_KB/s=417 progress=31%
+[2026-03-17 05:44:24.538] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1194 speed_KB/s=428 progress=36%
+[2026-03-17 05:44:25.758] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1218 speed_KB/s=420 progress=42%
+[2026-03-17 05:44:26.925] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1166 speed_KB/s=439 progress=47%
+[2026-03-17 05:44:28.046] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1119 speed_KB/s=457 progress=52%
+[2026-03-17 05:44:29.247] [FRAG] idx=12 offset=6291456 len=524288 source=13.39.21.10:6000 time_ms=1200 speed_KB/s=426 progress=57%
+[2026-03-17 05:44:29.500] [FRAG] idx=2 offset=1048576 len=524288 source=13.220.244.217:6002 time_ms=13309 speed_KB/s=38 progress=63%
+[2026-03-17 05:44:30.488] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1240 speed_KB/s=412 progress=68%
+[2026-03-17 05:44:31.076] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=14887 speed_KB/s=34 progress=73%
+[2026-03-17 05:44:31.683] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1195 speed_KB/s=428 progress=78%
+[2026-03-17 05:44:32.864] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1181 speed_KB/s=433 progress=84%
+[2026-03-17 05:44:34.030] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1164 speed_KB/s=438 progress=89%
+[2026-03-17 05:44:41.754] [FRAG] idx=16 offset=8388608 len=524288 source=32.195.67.201:6001 time_ms=10677 speed_KB/s=47 progress=94%
+[2026-03-17 05:44:42.701] [FRAG] idx=14 offset=7340032 len=524288 source=13.220.244.217:6002 time_ms=13200 speed_KB/s=38 progress=100%
+[2026-03-17 05:44:42.701] [SUMMARY] ============================================
+[2026-03-17 05:44:42.702] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:44:42.704] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:44:42.706] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:44:42.707] [SUMMARY] total_fragments=19
+[2026-03-17 05:44:42.707] [SUMMARY] sources_used=3
+[2026-03-17 05:44:42.708] [SUMMARY] compression=false
+[2026-03-17 05:44:42.708] [SUMMARY] total_time_ms=26516
+[2026-03-17 05:44:42.709] [SUMMARY] avg_speed_KB/s=366
+[2026-03-17 05:44:42.709] [SUMMARY] failed_fragments=0
+[2026-03-17 05:44:42.710] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:44:42.722] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=1048576 time_ms=25564 speed_KB/s=40
+[2026-03-17 05:44:42.723] [SUMMARY] source=13.39.21.10:6000 fragments=15 bytes=7862549 time_ms=17815 speed_KB/s=431
+[2026-03-17 05:44:42.723] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=1048576 time_ms=26509 speed_KB/s=38
+[2026-03-17 05:44:42.723] [SUMMARY] ============================================
+[2026-03-17 05:44:42.724] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:45:31.927] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=131072 compression=true
+[2026-03-17 05:45:31.928] [Download] All sources from Directory:
+[2026-03-17 05:45:31.934] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:45:31.935] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:45:31.936] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:45:31.936] [Download] Using 3 source(s):
+[2026-03-17 05:45:31.937] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:45:31.937] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:45:31.937] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:45:31.995] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:45:32.002] [Download] Fragments: 76 x 128KB, sources: 3
+[2026-03-17 05:45:32.687] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=663 speed_KB/s=193 progress=1%
+[2026-03-17 05:45:33.316] [FRAG] idx=3 offset=393216 len=131072 source=13.39.21.10:6000 time_ms=628 speed_KB/s=203 progress=2%
+[2026-03-17 05:45:33.646] [FRAG] idx=0 offset=0 len=131072 source=32.195.67.201:6001 time_ms=1639 speed_KB/s=78 progress=3%
+[2026-03-17 05:45:33.743] [FRAG] idx=2 offset=262144 len=131072 source=13.220.244.217:6002 time_ms=1734 speed_KB/s=73 progress=5%
+[2026-03-17 05:45:33.948] [FRAG] idx=4 offset=524288 len=131072 source=13.39.21.10:6000 time_ms=632 speed_KB/s=202 progress=6%
+[2026-03-17 05:45:34.602] [FRAG] idx=7 offset=917504 len=131072 source=13.39.21.10:6000 time_ms=653 speed_KB/s=196 progress=7%
+[2026-03-17 05:45:35.225] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=621 speed_KB/s=206 progress=9%
+[2026-03-17 05:45:35.248] [FRAG] idx=6 offset=786432 len=131072 source=13.220.244.217:6002 time_ms=1505 speed_KB/s=85 progress=10%
+[2026-03-17 05:45:35.352] [FRAG] idx=5 offset=655360 len=131072 source=32.195.67.201:6001 time_ms=1706 speed_KB/s=75 progress=11%
+[2026-03-17 05:45:35.849] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=623 speed_KB/s=205 progress=13%
+[2026-03-17 05:45:36.490] [FRAG] idx=12 offset=1572864 len=131072 source=13.39.21.10:6000 time_ms=641 speed_KB/s=199 progress=14%
+[2026-03-17 05:45:36.971] [FRAG] idx=10 offset=1310720 len=131072 source=13.220.244.217:6002 time_ms=1722 speed_KB/s=74 progress=15%
+[2026-03-17 05:45:37.138] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=647 speed_KB/s=197 progress=17%
+[2026-03-17 05:45:37.203] [FRAG] idx=11 offset=1441792 len=131072 source=32.195.67.201:6001 time_ms=1851 speed_KB/s=69 progress=18%
+[2026-03-17 05:45:37.767] [FRAG] idx=15 offset=1966080 len=131072 source=13.39.21.10:6000 time_ms=629 speed_KB/s=203 progress=19%
+[2026-03-17 05:45:38.381] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=21%
+[2026-03-17 05:45:38.649] [FRAG] idx=14 offset=1835008 len=131072 source=13.220.244.217:6002 time_ms=1677 speed_KB/s=76 progress=22%
+[2026-03-17 05:45:38.996] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=23%
+[2026-03-17 05:45:39.121] [FRAG] idx=16 offset=2097152 len=131072 source=32.195.67.201:6001 time_ms=1917 speed_KB/s=66 progress=25%
+[2026-03-17 05:45:39.612] [FRAG] idx=20 offset=2621440 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=26%
+[2026-03-17 05:45:40.257] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=645 speed_KB/s=198 progress=27%
+[2026-03-17 05:45:40.351] [FRAG] idx=19 offset=2490368 len=131072 source=13.220.244.217:6002 time_ms=1701 speed_KB/s=75 progress=28%
+[2026-03-17 05:45:40.892] [FRAG] idx=23 offset=3014656 len=131072 source=13.39.21.10:6000 time_ms=635 speed_KB/s=201 progress=30%
+[2026-03-17 05:45:41.032] [FRAG] idx=21 offset=2752512 len=131072 source=32.195.67.201:6001 time_ms=1911 speed_KB/s=66 progress=31%
+[2026-03-17 05:45:41.535] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=643 speed_KB/s=199 progress=32%
+[2026-03-17 05:45:42.155] [FRAG] idx=27 offset=3538944 len=131072 source=13.39.21.10:6000 time_ms=619 speed_KB/s=206 progress=34%
+[2026-03-17 05:45:42.206] [FRAG] idx=24 offset=3145728 len=131072 source=13.220.244.217:6002 time_ms=1854 speed_KB/s=69 progress=35%
+[2026-03-17 05:45:42.781] [FRAG] idx=28 offset=3670016 len=131072 source=13.39.21.10:6000 time_ms=625 speed_KB/s=204 progress=36%
+[2026-03-17 05:45:43.400] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=619 speed_KB/s=206 progress=38%
+[2026-03-17 05:45:44.014] [FRAG] idx=31 offset=4063232 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=39%
+[2026-03-17 05:45:44.250] [FRAG] idx=26 offset=3407872 len=131072 source=32.195.67.201:6001 time_ms=3217 speed_KB/s=39 progress=40%
+[2026-03-17 05:45:44.629] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=42%
+[2026-03-17 05:45:45.245] [FRAG] idx=34 offset=4456448 len=131072 source=13.39.21.10:6000 time_ms=616 speed_KB/s=207 progress=43%
+[2026-03-17 05:45:45.646] [FRAG] idx=29 offset=3801088 len=131072 source=13.220.244.217:6002 time_ms=3440 speed_KB/s=37 progress=44%
+[2026-03-17 05:45:45.866] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=620 speed_KB/s=206 progress=46%
+[2026-03-17 05:45:46.481] [FRAG] idx=37 offset=4849664 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=47%
+[2026-03-17 05:45:47.099] [FRAG] idx=38 offset=4980736 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=48%
+[2026-03-17 05:45:47.718] [FRAG] idx=39 offset=5111808 len=131072 source=13.39.21.10:6000 time_ms=619 speed_KB/s=206 progress=50%
+[2026-03-17 05:45:48.204] [FRAG] idx=33 offset=4325376 len=131072 source=32.195.67.201:6001 time_ms=3954 speed_KB/s=32 progress=51%
+[2026-03-17 05:45:48.334] [FRAG] idx=40 offset=5242880 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=52%
+[2026-03-17 05:45:48.873] [FRAG] idx=42 offset=5505024 len=131072 source=13.39.21.10:6000 time_ms=538 speed_KB/s=237 progress=53%
+[2026-03-17 05:45:49.040] [FRAG] idx=36 offset=4718592 len=131072 source=13.220.244.217:6002 time_ms=3393 speed_KB/s=37 progress=55%
+[2026-03-17 05:45:49.490] [FRAG] idx=43 offset=5636096 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=56%
+[2026-03-17 05:45:50.025] [FRAG] idx=45 offset=5898240 len=131072 source=13.39.21.10:6000 time_ms=534 speed_KB/s=239 progress=57%
+[2026-03-17 05:45:50.639] [FRAG] idx=46 offset=6029312 len=131072 source=13.39.21.10:6000 time_ms=613 speed_KB/s=208 progress=59%
+[2026-03-17 05:45:51.170] [FRAG] idx=47 offset=6160384 len=131072 source=13.39.21.10:6000 time_ms=531 speed_KB/s=241 progress=60%
+[2026-03-17 05:45:51.799] [FRAG] idx=48 offset=6291456 len=131072 source=13.39.21.10:6000 time_ms=628 speed_KB/s=203 progress=61%
+[2026-03-17 05:45:52.005] [FRAG] idx=44 offset=5767168 len=131072 source=13.220.244.217:6002 time_ms=2964 speed_KB/s=43 progress=63%
+[2026-03-17 05:45:52.029] [FRAG] idx=41 offset=5373952 len=131072 source=32.195.67.201:6001 time_ms=3824 speed_KB/s=33 progress=64%
+[2026-03-17 05:45:52.411] [FRAG] idx=49 offset=6422528 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=65%
+[2026-03-17 05:45:52.949] [FRAG] idx=52 offset=6815744 len=131072 source=13.39.21.10:6000 time_ms=538 speed_KB/s=237 progress=67%
+[2026-03-17 05:45:53.569] [FRAG] idx=53 offset=6946816 len=131072 source=13.39.21.10:6000 time_ms=619 speed_KB/s=206 progress=68%
+[2026-03-17 05:45:54.102] [FRAG] idx=54 offset=7077888 len=131072 source=13.39.21.10:6000 time_ms=533 speed_KB/s=240 progress=69%
+[2026-03-17 05:45:54.724] [FRAG] idx=55 offset=7208960 len=131072 source=13.39.21.10:6000 time_ms=620 speed_KB/s=206 progress=71%
+[2026-03-17 05:45:55.182] [FRAG] idx=50 offset=6553600 len=131072 source=13.220.244.217:6002 time_ms=3177 speed_KB/s=40 progress=72%
+[2026-03-17 05:45:55.341] [FRAG] idx=56 offset=7340032 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=73%
+[2026-03-17 05:45:55.725] [FRAG] idx=51 offset=6684672 len=131072 source=32.195.67.201:6001 time_ms=3696 speed_KB/s=34 progress=75%
+[2026-03-17 05:45:55.957] [FRAG] idx=58 offset=7602176 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=76%
+[2026-03-17 05:45:56.578] [FRAG] idx=60 offset=7864320 len=131072 source=13.39.21.10:6000 time_ms=621 speed_KB/s=206 progress=77%
+[2026-03-17 05:45:57.193] [FRAG] idx=61 offset=7995392 len=131072 source=13.39.21.10:6000 time_ms=615 speed_KB/s=208 progress=78%
+[2026-03-17 05:45:57.811] [FRAG] idx=62 offset=8126464 len=131072 source=13.39.21.10:6000 time_ms=618 speed_KB/s=207 progress=80%
+[2026-03-17 05:45:58.426] [FRAG] idx=63 offset=8257536 len=131072 source=13.39.21.10:6000 time_ms=614 speed_KB/s=208 progress=81%
+[2026-03-17 05:45:58.465] [FRAG] idx=57 offset=7471104 len=131072 source=13.220.244.217:6002 time_ms=3283 speed_KB/s=38 progress=82%
+[2026-03-17 05:45:58.961] [FRAG] idx=64 offset=8388608 len=131072 source=13.39.21.10:6000 time_ms=533 speed_KB/s=240 progress=84%
+[2026-03-17 05:45:59.314] [FRAG] idx=59 offset=7733248 len=131072 source=32.195.67.201:6001 time_ms=3588 speed_KB/s=35 progress=85%
+[2026-03-17 05:45:59.573] [FRAG] idx=66 offset=8650752 len=131072 source=13.39.21.10:6000 time_ms=612 speed_KB/s=209 progress=86%
+[2026-03-17 05:46:00.124] [FRAG] idx=68 offset=8912896 len=131072 source=13.39.21.10:6000 time_ms=551 speed_KB/s=232 progress=88%
+[2026-03-17 05:46:01.079] [FRAG] idx=69 offset=9043968 len=131072 source=13.39.21.10:6000 time_ms=955 speed_KB/s=134 progress=89%
+[2026-03-17 05:46:01.697] [FRAG] idx=70 offset=9175040 len=131072 source=13.39.21.10:6000 time_ms=618 speed_KB/s=207 progress=90%
+[2026-03-17 05:46:01.777] [FRAG] idx=65 offset=8519680 len=131072 source=13.220.244.217:6002 time_ms=3311 speed_KB/s=38 progress=92%
+[2026-03-17 05:46:02.323] [FRAG] idx=71 offset=9306112 len=131072 source=13.39.21.10:6000 time_ms=624 speed_KB/s=205 progress=93%
+[2026-03-17 05:46:02.941] [FRAG] idx=73 offset=9568256 len=131072 source=13.39.21.10:6000 time_ms=617 speed_KB/s=207 progress=94%
+[2026-03-17 05:46:03.031] [FRAG] idx=67 offset=8781824 len=131072 source=32.195.67.201:6001 time_ms=3717 speed_KB/s=34 progress=96%
+[2026-03-17 05:46:03.562] [FRAG] idx=74 offset=9699328 len=131072 source=13.39.21.10:6000 time_ms=620 speed_KB/s=206 progress=97%
+[2026-03-17 05:46:05.172] [FRAG] idx=72 offset=9437184 len=131072 source=13.220.244.217:6002 time_ms=3395 speed_KB/s=37 progress=98%
+[2026-03-17 05:46:06.311] [FRAG] idx=75 offset=9830400 len=129301 source=32.195.67.201:6001 time_ms=3280 speed_KB/s=38 progress=100%
+[2026-03-17 05:46:06.312] [SUMMARY] ============================================
+[2026-03-17 05:46:06.312] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:46:06.314] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:46:06.317] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 05:46:06.317] [SUMMARY] total_fragments=76
+[2026-03-17 05:46:06.318] [SUMMARY] sources_used=3
+[2026-03-17 05:46:06.318] [SUMMARY] compression=true
+[2026-03-17 05:46:06.318] [SUMMARY] total_time_ms=34309
+[2026-03-17 05:46:06.319] [SUMMARY] avg_speed_KB/s=283
+[2026-03-17 05:46:06.319] [SUMMARY] failed_fragments=0
+[2026-03-17 05:46:06.319] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:46:06.332] [SUMMARY] source=32.195.67.201:6001 fragments=12 bytes=1571093 time_ms=34300 speed_KB/s=44
+[2026-03-17 05:46:06.333] [SUMMARY] source=13.39.21.10:6000 fragments=51 bytes=6684672 time_ms=31507 speed_KB/s=207
+[2026-03-17 05:46:06.333] [SUMMARY] source=13.220.244.217:6002 fragments=13 bytes=1703936 time_ms=33156 speed_KB/s=50
+[2026-03-17 05:46:06.334] [SUMMARY] ============================================
+[2026-03-17 05:46:06.334] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:46:16.578] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=262144 compression=true
+[2026-03-17 05:46:16.579] [Download] All sources from Directory:
+[2026-03-17 05:46:16.583] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:46:16.584] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:46:16.584] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 05:46:16.585] [Download] Using 3 source(s):
+[2026-03-17 05:46:16.585] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:46:16.585] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:46:16.586] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 05:46:16.626] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:46:16.631] [Download] Fragments: 38 x 256KB, sources: 3
+[2026-03-17 05:46:17.485] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=835 speed_KB/s=306 progress=2%
+[2026-03-17 05:46:18.285] [FRAG] idx=3 offset=786432 len=262144 source=13.39.21.10:6000 time_ms=799 speed_KB/s=320 progress=5%
+[2026-03-17 05:46:19.087] [FRAG] idx=4 offset=1048576 len=262144 source=13.39.21.10:6000 time_ms=802 speed_KB/s=319 progress=7%
+[2026-03-17 05:46:19.802] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=714 speed_KB/s=358 progress=10%
+[2026-03-17 05:46:20.591] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=789 speed_KB/s=324 progress=13%
+[2026-03-17 05:46:21.319] [FRAG] idx=7 offset=1835008 len=262144 source=13.39.21.10:6000 time_ms=727 speed_KB/s=352 progress=15%
+[2026-03-17 05:46:22.112] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=792 speed_KB/s=323 progress=18%
+[2026-03-17 05:46:22.899] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=787 speed_KB/s=325 progress=21%
+[2026-03-17 05:46:22.908] [FRAG] idx=0 offset=0 len=262144 source=32.195.67.201:6001 time_ms=6271 speed_KB/s=40 progress=23%
+[2026-03-17 05:46:22.960] [FRAG] idx=2 offset=524288 len=262144 source=13.220.244.217:6002 time_ms=6321 speed_KB/s=40 progress=26%
+[2026-03-17 05:46:23.653] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=752 speed_KB/s=340 progress=28%
+[2026-03-17 05:46:24.437] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=784 speed_KB/s=326 progress=31%
+[2026-03-17 05:46:25.166] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=728 speed_KB/s=351 progress=34%
+[2026-03-17 05:46:25.954] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=788 speed_KB/s=324 progress=36%
+[2026-03-17 05:46:26.775] [FRAG] idx=16 offset=4194304 len=262144 source=13.39.21.10:6000 time_ms=820 speed_KB/s=312 progress=39%
+[2026-03-17 05:46:27.609] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=833 speed_KB/s=307 progress=42%
+[2026-03-17 05:46:28.017] [FRAG] idx=12 offset=3145728 len=262144 source=13.220.244.217:6002 time_ms=5057 speed_KB/s=50 progress=44%
+[2026-03-17 05:46:28.414] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=805 speed_KB/s=318 progress=47%
+[2026-03-17 05:46:29.204] [FRAG] idx=20 offset=5242880 len=262144 source=13.39.21.10:6000 time_ms=788 speed_KB/s=324 progress=50%
+[2026-03-17 05:46:29.739] [FRAG] idx=11 offset=2883584 len=262144 source=32.195.67.201:6001 time_ms=6830 speed_KB/s=37 progress=52%
+[2026-03-17 05:46:30.001] [FRAG] idx=21 offset=5505024 len=262144 source=13.39.21.10:6000 time_ms=796 speed_KB/s=321 progress=55%
+[2026-03-17 05:46:30.808] [FRAG] idx=23 offset=6029312 len=262144 source=13.39.21.10:6000 time_ms=806 speed_KB/s=317 progress=57%
+[2026-03-17 05:46:31.514] [FRAG] idx=24 offset=6291456 len=262144 source=13.39.21.10:6000 time_ms=704 speed_KB/s=363 progress=60%
+[2026-03-17 05:46:32.327] [FRAG] idx=25 offset=6553600 len=262144 source=13.39.21.10:6000 time_ms=813 speed_KB/s=314 progress=63%
+[2026-03-17 05:46:33.131] [FRAG] idx=26 offset=6815744 len=262144 source=13.39.21.10:6000 time_ms=804 speed_KB/s=318 progress=65%
+[2026-03-17 05:46:33.712] [FRAG] idx=19 offset=4980736 len=262144 source=13.220.244.217:6002 time_ms=5694 speed_KB/s=44 progress=68%
+[2026-03-17 05:46:33.938] [FRAG] idx=27 offset=7077888 len=262144 source=13.39.21.10:6000 time_ms=807 speed_KB/s=317 progress=71%
+[2026-03-17 05:46:34.754] [FRAG] idx=29 offset=7602176 len=262144 source=13.39.21.10:6000 time_ms=816 speed_KB/s=313 progress=73%
+[2026-03-17 05:46:35.554] [FRAG] idx=30 offset=7864320 len=262144 source=13.39.21.10:6000 time_ms=799 speed_KB/s=320 progress=76%
+[2026-03-17 05:46:36.274] [FRAG] idx=31 offset=8126464 len=262144 source=13.39.21.10:6000 time_ms=720 speed_KB/s=355 progress=78%
+[2026-03-17 05:46:37.067] [FRAG] idx=32 offset=8388608 len=262144 source=13.39.21.10:6000 time_ms=793 speed_KB/s=322 progress=81%
+[2026-03-17 05:46:37.090] [FRAG] idx=22 offset=5767168 len=262144 source=32.195.67.201:6001 time_ms=7351 speed_KB/s=34 progress=84%
+[2026-03-17 05:46:37.874] [FRAG] idx=33 offset=8650752 len=262144 source=13.39.21.10:6000 time_ms=807 speed_KB/s=317 progress=86%
+[2026-03-17 05:46:38.670] [FRAG] idx=35 offset=9175040 len=262144 source=13.39.21.10:6000 time_ms=794 speed_KB/s=322 progress=89%
+[2026-03-17 05:46:39.475] [FRAG] idx=36 offset=9437184 len=262144 source=13.39.21.10:6000 time_ms=804 speed_KB/s=318 progress=92%
+[2026-03-17 05:46:40.027] [FRAG] idx=28 offset=7340032 len=262144 source=13.220.244.217:6002 time_ms=6314 speed_KB/s=40 progress=94%
+[2026-03-17 05:46:40.154] [FRAG] idx=37 offset=9699328 len=260373 source=13.39.21.10:6000 time_ms=678 speed_KB/s=375 progress=97%
+[2026-03-17 05:46:44.084] [FRAG] idx=34 offset=8912896 len=262144 source=32.195.67.201:6001 time_ms=6993 speed_KB/s=36 progress=100%
+[2026-03-17 05:46:44.085] [SUMMARY] ============================================
+[2026-03-17 05:46:44.085] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:46:44.087] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:46:44.090] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 05:46:44.090] [SUMMARY] total_fragments=38
+[2026-03-17 05:46:44.091] [SUMMARY] sources_used=3
+[2026-03-17 05:46:44.092] [SUMMARY] compression=true
+[2026-03-17 05:46:44.093] [SUMMARY] total_time_ms=27452
+[2026-03-17 05:46:44.093] [SUMMARY] avg_speed_KB/s=354
+[2026-03-17 05:46:44.094] [SUMMARY] failed_fragments=0
+[2026-03-17 05:46:44.094] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:46:44.100] [SUMMARY] source=32.195.67.201:6001 fragments=4 bytes=1048576 time_ms=27445 speed_KB/s=37
+[2026-03-17 05:46:44.101] [SUMMARY] source=13.39.21.10:6000 fragments=30 bytes=7862549 time_ms=23484 speed_KB/s=326
+[2026-03-17 05:46:44.101] [SUMMARY] source=13.220.244.217:6002 fragments=4 bytes=1048576 time_ms=23386 speed_KB/s=43
+[2026-03-17 05:46:44.101] [SUMMARY] ============================================
+[2026-03-17 05:46:44.102] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:47:39.023] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=true
+[2026-03-17 05:47:39.025] [Download] All sources from Directory:
+[2026-03-17 05:47:39.029] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:47:39.029] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:47:39.030] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:47:39.030] [Download] Using 3 source(s):
+[2026-03-17 05:47:39.031] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:47:39.031] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:47:39.031] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:47:39.345] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:47:39.350] [Download] Fragments: 19 x 512KB, sources: 3
+[2026-03-17 05:47:40.606] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=1235 speed_KB/s=414 progress=5%
+[2026-03-17 05:47:41.775] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1168 speed_KB/s=438 progress=10%
+[2026-03-17 05:47:42.986] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1211 speed_KB/s=422 progress=15%
+[2026-03-17 05:47:44.183] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1197 speed_KB/s=427 progress=21%
+[2026-03-17 05:47:45.445] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1261 speed_KB/s=406 progress=26%
+[2026-03-17 05:47:46.685] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1239 speed_KB/s=413 progress=31%
+[2026-03-17 05:47:47.751] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1065 speed_KB/s=480 progress=36%
+[2026-03-17 05:47:48.981] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=416 progress=42%
+[2026-03-17 05:47:50.272] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1291 speed_KB/s=396 progress=47%
+[2026-03-17 05:47:50.657] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=11301 speed_KB/s=45 progress=52%
+[2026-03-17 05:47:51.440] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1167 speed_KB/s=438 progress=57%
+[2026-03-17 05:47:51.578] [FRAG] idx=2 offset=1048576 len=524288 source=13.220.244.217:6002 time_ms=12221 speed_KB/s=41 progress=63%
+[2026-03-17 05:47:52.587] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1146 speed_KB/s=446 progress=68%
+[2026-03-17 05:47:53.784] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1197 speed_KB/s=427 progress=73%
+[2026-03-17 05:47:54.971] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1185 speed_KB/s=432 progress=78%
+[2026-03-17 05:47:56.207] [FRAG] idx=17 offset=8912896 len=524288 source=13.39.21.10:6000 time_ms=1235 speed_KB/s=414 progress=84%
+[2026-03-17 05:47:57.444] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1236 speed_KB/s=412 progress=89%
+[2026-03-17 05:48:03.960] [FRAG] idx=14 offset=7340032 len=524288 source=13.220.244.217:6002 time_ms=12381 speed_KB/s=41 progress=94%
+[2026-03-17 05:48:04.607] [FRAG] idx=12 offset=6291456 len=524288 source=32.195.67.201:6001 time_ms=13950 speed_KB/s=36 progress=100%
+[2026-03-17 05:48:04.608] [SUMMARY] ============================================
+[2026-03-17 05:48:04.609] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:48:04.611] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:48:04.613] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:48:04.614] [SUMMARY] total_fragments=19
+[2026-03-17 05:48:04.614] [SUMMARY] sources_used=3
+[2026-03-17 05:48:04.614] [SUMMARY] compression=true
+[2026-03-17 05:48:04.615] [SUMMARY] total_time_ms=25257
+[2026-03-17 05:48:04.615] [SUMMARY] avg_speed_KB/s=385
+[2026-03-17 05:48:04.616] [SUMMARY] failed_fragments=0
+[2026-03-17 05:48:04.616] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:48:04.627] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=1048576 time_ms=25251 speed_KB/s=40
+[2026-03-17 05:48:04.628] [SUMMARY] source=13.39.21.10:6000 fragments=15 bytes=7862549 time_ms=18062 speed_KB/s=425
+[2026-03-17 05:48:04.628] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=1048576 time_ms=24602 speed_KB/s=41
+[2026-03-17 05:48:04.630] [SUMMARY] ============================================
+[2026-03-17 05:48:04.630] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:48:19.804] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=1048576 compression=true
+[2026-03-17 05:48:19.805] [Download] All sources from Directory:
+[2026-03-17 05:48:19.810] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:48:19.810] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:48:19.811] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:48:19.811] [Download] Using 3 source(s):
+[2026-03-17 05:48:19.812] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:48:19.812] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:48:19.812] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:48:20.134] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:48:20.146] [Download] Fragments: 10 x 1024KB, sources: 3
+[2026-03-17 05:48:21.977] [FRAG] idx=2 offset=2097152 len=1048576 source=13.39.21.10:6000 time_ms=1807 speed_KB/s=566 progress=10%
+[2026-03-17 05:48:24.072] [FRAG] idx=3 offset=3145728 len=1048576 source=13.39.21.10:6000 time_ms=2094 speed_KB/s=489 progress=21%
+[2026-03-17 05:48:26.172] [FRAG] idx=4 offset=4194304 len=1048576 source=13.39.21.10:6000 time_ms=2098 speed_KB/s=488 progress=31%
+[2026-03-17 05:48:28.110] [FRAG] idx=5 offset=5242880 len=1048576 source=13.39.21.10:6000 time_ms=1937 speed_KB/s=528 progress=42%
+[2026-03-17 05:48:30.157] [FRAG] idx=6 offset=6291456 len=1048576 source=13.39.21.10:6000 time_ms=2045 speed_KB/s=500 progress=52%
+[2026-03-17 05:48:32.255] [FRAG] idx=7 offset=7340032 len=1048576 source=13.39.21.10:6000 time_ms=2097 speed_KB/s=488 progress=63%
+[2026-03-17 05:48:34.363] [FRAG] idx=8 offset=8388608 len=1048576 source=13.39.21.10:6000 time_ms=2108 speed_KB/s=485 progress=73%
+[2026-03-17 05:48:35.515] [FRAG] idx=9 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1151 speed_KB/s=443 progress=78%
+[2026-03-17 05:48:40.251] [FRAG] idx=1 offset=1048576 len=1048576 source=13.220.244.217:6002 time_ms=20097 speed_KB/s=50 progress=89%
+[2026-03-17 05:48:47.530] [FRAG] idx=0 offset=0 len=1048576 source=32.195.67.201:6001 time_ms=27378 speed_KB/s=37 progress=100%
+[2026-03-17 05:48:47.530] [SUMMARY] ============================================
+[2026-03-17 05:48:47.531] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:48:47.532] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:48:47.535] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 05:48:47.536] [SUMMARY] total_fragments=10
+[2026-03-17 05:48:47.536] [SUMMARY] sources_used=3
+[2026-03-17 05:48:47.536] [SUMMARY] compression=true
+[2026-03-17 05:48:47.537] [SUMMARY] total_time_ms=27383
+[2026-03-17 05:48:47.537] [SUMMARY] avg_speed_KB/s=355
+[2026-03-17 05:48:47.539] [SUMMARY] failed_fragments=0
+[2026-03-17 05:48:47.539] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:48:47.552] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1048576 time_ms=27378 speed_KB/s=37
+[2026-03-17 05:48:47.554] [SUMMARY] source=13.39.21.10:6000 fragments=8 bytes=7862549 time_ms=15337 speed_KB/s=500
+[2026-03-17 05:48:47.554] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=1048576 time_ms=20097 speed_KB/s=50
+[2026-03-17 05:48:47.555] [SUMMARY] ============================================
+[2026-03-17 05:48:47.555] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:49:01.774] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=2097152 compression=true
+[2026-03-17 05:49:01.776] [Download] All sources from Directory:
+[2026-03-17 05:49:01.798] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:49:01.798] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:49:01.799] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:49:01.799] [Download] Using 3 source(s):
+[2026-03-17 05:49:01.800] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:49:01.800] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:49:01.800] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:49:02.094] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:49:02.108] [Download] Fragments: 5 x 2048KB, sources: 3
+[2026-03-17 05:49:05.516] [FRAG] idx=2 offset=4194304 len=2097152 source=13.39.21.10:6000 time_ms=3389 speed_KB/s=604 progress=21%
+[2026-03-17 05:49:09.129] [FRAG] idx=3 offset=6291456 len=2097152 source=13.39.21.10:6000 time_ms=3610 speed_KB/s=567 progress=42%
+[2026-03-17 05:49:11.851] [FRAG] idx=4 offset=8388608 len=1571093 source=13.39.21.10:6000 time_ms=2721 speed_KB/s=563 progress=57%
+[2026-03-17 05:49:46.335] [FRAG] idx=1 offset=2097152 len=2097152 source=13.220.244.217:6002 time_ms=44218 speed_KB/s=46 progress=78%
+[2026-03-17 05:49:47.146] [FRAG] idx=0 offset=0 len=2097152 source=32.195.67.201:6001 time_ms=45031 speed_KB/s=45 progress=100%
+[2026-03-17 05:49:47.147] [SUMMARY] ============================================
+[2026-03-17 05:49:47.148] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:49:47.149] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:49:47.152] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 05:49:47.152] [SUMMARY] total_fragments=5
+[2026-03-17 05:49:47.153] [SUMMARY] sources_used=3
+[2026-03-17 05:49:47.153] [SUMMARY] compression=true
+[2026-03-17 05:49:47.154] [SUMMARY] total_time_ms=45037
+[2026-03-17 05:49:47.154] [SUMMARY] avg_speed_KB/s=215
+[2026-03-17 05:49:47.155] [SUMMARY] failed_fragments=0
+[2026-03-17 05:49:47.155] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:49:47.162] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=2097152 time_ms=45031 speed_KB/s=45
+[2026-03-17 05:49:47.162] [SUMMARY] source=13.39.21.10:6000 fragments=3 bytes=5765397 time_ms=9720 speed_KB/s=579
+[2026-03-17 05:49:47.163] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=2097152 time_ms=44218 speed_KB/s=46
+[2026-03-17 05:49:47.163] [SUMMARY] ============================================
+[2026-03-17 05:49:47.163] [Download] Output: /home/ubuntu/./output/Acclaim & Response - The Godfather, Best Picture 1972.mkv
