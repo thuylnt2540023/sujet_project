@@ -10,11 +10,13 @@ File is split into fragments (default 512 KB, configurable). Each source (Daemon
 
 ### 2. Load Balancing
 
-Directory tracks the number of active fragment transfers on each Daemon (`load` counter). When Download requests sources, Directory returns them **sorted by load ascending** — least busy Daemon is prioritized. Daemon calls `incrementLoad` when it starts serving a fragment and `decrementLoad` when done.
+Directory tracks the number of active fragment transfers on each Daemon (`load` counter). When Download requests sources, Directory returns them **sorted by load ascending** — least busy Daemon is prioritized. The download side checks this load value; if a source has a load greater than 10, it's dropped. However, after filtering, if the number of sources drops to 0, the filtering process is abandoned.
+Daemon calls `incrementLoad` when it starts serving a fragment and `decrementLoad` when done.
 
 ### 3. Heartbeat & Dead Client Detection
 
 Each Daemon sends a heartbeat to Directory every **5 seconds** via RMI. Directory runs a background cleaner thread every 10 seconds: if a Daemon has not sent a heartbeat for **15 seconds**, it is considered dead and removed from the registry. This handles both graceful shutdown (`Ctrl+C` triggers `unregister()`) and unexpected crashes (heartbeat timeout).
+If a network error causes an incorrect timeout, the Directory will notify the Daemon so that it can re-register.
 
 ### 4. Dynamic File List Update
 
@@ -64,21 +66,23 @@ Path traversal protection: Daemon validates that requested filenames resolve wit
 
 ```
                     Directory (RMI Server)
-                    ┌──────────────────────┐
-         ┌────────►│ - File registry       │◄────────┐
-         │   RMI   │ - Client registry     │  RMI    │
-         │         │ - Load tracking       │         │
-         │         │ - Heartbeat monitor   │         │
+                   ┌───────────────────────┐
+				   │ - File registry       │
+				   │ - Client registry     │
+         ┌────────►│ - Load tracking       │◄────────┐
+         │   RMI   │ - Heartbeat monitor   │  RMI    │
+         │         │ - Get Sources         │         │
+         │         │                       │         │
          │         └───────────────────────┘         │
-         │              ▲         │                  │
-         │          RMI │         │ RMI              │
-         │              │         ▼                  │
-    Daemon A          Daemon B                    Daemon C
-    (TCP:6000)        (TCP:6001)                 (TCP:6002)
-         ▲                ▲                          ▲
-         │    TCP Socket  │                          │
-         └────────────────┼──────────────────────────┘
-                          │
+         │              ▲        ▲                   │ 
+         │          RMI │        │                   │
+         │              │        │                   │
+    Daemon A          Daemon B   │                 Daemon C
+    (TCP:6000)        (TCP:6001) │                (TCP:6002)
+         ▲                ▲      │                    ▲
+         │    TCP Socket  │      │ RMI                │
+         └────────────────┼──────│────────────────────┘
+                          ▼      ▼ 
                       Download
                   (parallel fragments)
 ```
@@ -119,6 +123,7 @@ On the directory machine:
 
 Example:
 ```bash
+./run_directory.sh
 ./run_directory.sh 1099 172.20.242.201
 ```
 
@@ -146,7 +151,8 @@ Examples:
 ./run_daemon.sh localhost 1099 ./shared3 localhost 6002
 
 # Cross-machine — Directory at 172.20.242.201
-./run_daemon.sh 172.20.242.201 1099 ./shared 192.168.1.10 6000
+./run_daemon.sh 172.20.242.201 1099 ./shared1 192.168.1.10 6000
+./run_daemon.sh 172.20.242.201 1099 ./shared2 192.168.1.10 6001
 ```
 
 ### Step 3 — Download a File
