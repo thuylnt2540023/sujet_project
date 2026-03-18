@@ -1,0 +1,1672 @@
+[2026-03-17 05:10:29.104] [Download] === START === file=test-medium.bin fragment_size=524288 compression=false
+[2026-03-17 05:10:29.106] [Download] All sources from Directory:
+[2026-03-17 05:10:29.110] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:10:29.110] [Download] Using 1 source(s):
+[2026-03-17 05:10:29.111] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:10:29.808] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 05:10:29.819] [Download] Fragments: 10 x 512KB, sources: 1
+[2026-03-17 05:10:31.843] [FRAG] idx=0 offset=0 len=524288 source=13.39.21.10:6000 time_ms=2008 speed_KB/s=254 progress=10%
+[2026-03-17 05:10:33.850] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2006 speed_KB/s=255 progress=20%
+[2026-03-17 05:10:35.865] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=2014 speed_KB/s=254 progress=30%
+[2026-03-17 05:10:37.870] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=2004 speed_KB/s=255 progress=40%
+[2026-03-17 05:10:39.878] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=2008 speed_KB/s=254 progress=50%
+[2026-03-17 05:10:41.889] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=2009 speed_KB/s=254 progress=60%
+[2026-03-17 05:10:43.876] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1986 speed_KB/s=257 progress=70%
+[2026-03-17 05:10:45.807] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1931 speed_KB/s=265 progress=80%
+[2026-03-17 05:10:47.821] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=2012 speed_KB/s=254 progress=90%
+[2026-03-17 05:10:49.825] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2004 speed_KB/s=255 progress=100%
+[2026-03-17 05:10:49.826] [SUMMARY] ============================================
+[2026-03-17 05:10:49.826] [SUMMARY] file=test-medium.bin
+[2026-03-17 05:10:49.828] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 05:10:49.831] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:10:49.831] [SUMMARY] total_fragments=10
+[2026-03-17 05:10:49.832] [SUMMARY] sources_used=1
+[2026-03-17 05:10:49.832] [SUMMARY] compression=false
+[2026-03-17 05:10:49.833] [SUMMARY] total_time_ms=20006
+[2026-03-17 05:10:49.833] [SUMMARY] avg_speed_KB/s=255
+[2026-03-17 05:10:49.833] [SUMMARY] failed_fragments=0
+[2026-03-17 05:10:49.834] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:10:49.847] [SUMMARY] source=13.39.21.10:6000 fragments=10 bytes=5242880 time_ms=19982 speed_KB/s=256
+[2026-03-17 05:10:49.847] [SUMMARY] ============================================
+[2026-03-17 05:10:49.848] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 05:37:40.203] [Download] === START === file=test-medium.bin fragment_size=524288 compression=false
+[2026-03-17 05:37:40.207] [Download] All sources from Directory:
+[2026-03-17 05:37:40.211] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:37:40.211] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:37:40.212] [Download] Using 2 source(s):
+[2026-03-17 05:37:40.213] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:37:40.213] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:37:42.041] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 05:37:42.047] [Download] Fragments: 10 x 512KB, sources: 2
+[2026-03-17 05:37:44.076] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2009 speed_KB/s=254 progress=10%
+[2026-03-17 05:37:45.984] [FRAG] idx=2 offset=1048576 len=524288 source=13.39.21.10:6000 time_ms=1907 speed_KB/s=268 progress=20%
+[2026-03-17 05:37:47.760] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1775 speed_KB/s=288 progress=30%
+[2026-03-17 05:37:49.754] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1994 speed_KB/s=256 progress=40%
+[2026-03-17 05:37:51.758] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=2004 speed_KB/s=255 progress=50%
+[2026-03-17 05:37:53.767] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=2009 speed_KB/s=254 progress=60%
+[2026-03-17 05:37:55.685] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1918 speed_KB/s=266 progress=70%
+[2026-03-17 05:37:57.594] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1909 speed_KB/s=268 progress=80%
+[2026-03-17 05:37:57.937] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=15885 speed_KB/s=32 progress=90%
+[2026-03-17 05:37:59.358] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1762 speed_KB/s=290 progress=100%
+[2026-03-17 05:37:59.358] [SUMMARY] ============================================
+[2026-03-17 05:37:59.359] [SUMMARY] file=test-medium.bin
+[2026-03-17 05:37:59.361] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 05:37:59.364] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:37:59.364] [SUMMARY] total_fragments=10
+[2026-03-17 05:37:59.365] [SUMMARY] sources_used=2
+[2026-03-17 05:37:59.365] [SUMMARY] compression=false
+[2026-03-17 05:37:59.365] [SUMMARY] total_time_ms=17310
+[2026-03-17 05:37:59.366] [SUMMARY] avg_speed_KB/s=295
+[2026-03-17 05:37:59.366] [SUMMARY] failed_fragments=0
+[2026-03-17 05:37:59.367] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:37:59.374] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=524288 time_ms=15885 speed_KB/s=32
+[2026-03-17 05:37:59.375] [SUMMARY] source=13.39.21.10:6000 fragments=9 bytes=4718592 time_ms=17287 speed_KB/s=266
+[2026-03-17 05:37:59.375] [SUMMARY] ============================================
+[2026-03-17 05:37:59.376] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 05:41:29.022] [Download] === START === file=test-medium.bin fragment_size=524288 compression=false
+[2026-03-17 05:41:29.023] [Download] All sources from Directory:
+[2026-03-17 05:41:29.027] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:41:29.028] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:41:29.028] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:41:29.029] [Download] Using 3 source(s):
+[2026-03-17 05:41:29.029] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:41:29.029] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:41:29.030] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:41:29.507] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 05:41:29.512] [Download] Fragments: 10 x 512KB, sources: 3
+[2026-03-17 05:41:31.537] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2009 speed_KB/s=254 progress=10%
+[2026-03-17 05:41:33.546] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=2008 speed_KB/s=254 progress=20%
+[2026-03-17 05:41:35.547] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=2000 speed_KB/s=256 progress=30%
+[2026-03-17 05:41:36.573] [FRAG] idx=2 offset=1048576 len=524288 source=13.220.244.217:6002 time_ms=7055 speed_KB/s=72 progress=40%
+[2026-03-17 05:41:37.316] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1768 speed_KB/s=289 progress=50%
+[2026-03-17 05:41:37.803] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=8286 speed_KB/s=61 progress=60%
+[2026-03-17 05:41:39.085] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=1769 speed_KB/s=289 progress=70%
+[2026-03-17 05:41:41.086] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2000 speed_KB/s=256 progress=80%
+[2026-03-17 05:41:50.198] [FRAG] idx=6 offset=3145728 len=524288 source=13.220.244.217:6002 time_ms=13625 speed_KB/s=37 progress=90%
+[2026-03-17 05:41:52.607] [FRAG] idx=8 offset=4194304 len=524288 source=32.195.67.201:6001 time_ms=14803 speed_KB/s=34 progress=100%
+[2026-03-17 05:41:52.608] [SUMMARY] ============================================
+[2026-03-17 05:41:52.609] [SUMMARY] file=test-medium.bin
+[2026-03-17 05:41:52.610] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 05:41:52.613] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:41:52.613] [SUMMARY] total_fragments=10
+[2026-03-17 05:41:52.614] [SUMMARY] sources_used=3
+[2026-03-17 05:41:52.614] [SUMMARY] compression=false
+[2026-03-17 05:41:52.615] [SUMMARY] total_time_ms=23095
+[2026-03-17 05:41:52.615] [SUMMARY] avg_speed_KB/s=221
+[2026-03-17 05:41:52.615] [SUMMARY] failed_fragments=0
+[2026-03-17 05:41:52.616] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:41:52.622] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=1048576 time_ms=23089 speed_KB/s=44
+[2026-03-17 05:41:52.623] [SUMMARY] source=13.39.21.10:6000 fragments=6 bytes=3145728 time_ms=11554 speed_KB/s=265
+[2026-03-17 05:41:52.623] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=1048576 time_ms=20680 speed_KB/s=49
+[2026-03-17 05:41:52.623] [SUMMARY] ============================================
+[2026-03-17 05:41:52.623] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 13:50:01.261] [Download] === START === file=test-medium.bin fragment_size=131072 compression=true
+[2026-03-17 13:50:01.264] [Download] All sources from Directory:
+[2026-03-17 13:50:01.274] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 13:50:01.275] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 13:50:01.275] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 13:50:01.278] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 13:50:01.278] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 13:50:01.279] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 13:50:01.279] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 13:50:01.280] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 13:50:01.280] [Download] Using 8 source(s):
+[2026-03-17 13:50:01.281] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 13:50:01.281] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 13:50:01.281] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 13:50:01.282] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 13:50:01.282] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 13:50:01.282] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 13:50:01.283] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 13:50:01.283] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 13:50:01.772] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 13:50:01.794] [Download] Fragments: 40 x 128KB, sources: 8
+[2026-03-17 13:50:03.231] [FRAG] idx=4 offset=524288 len=131072 source=13.39.21.10:6000 time_ms=1359 speed_KB/s=94 progress=2%
+[2026-03-17 13:50:03.314] [FRAG] idx=5 offset=655360 len=131072 source=3.234.226.220:6003 time_ms=1460 speed_KB/s=87 progress=5%
+[2026-03-17 13:50:03.336] [FRAG] idx=7 offset=917504 len=131072 source=44.220.89.93:6002 time_ms=1477 speed_KB/s=86 progress=7%
+[2026-03-17 13:50:03.870] [FRAG] idx=6 offset=786432 len=131072 source=13.220.244.217:6002 time_ms=2016 speed_KB/s=63 progress=10%
+[2026-03-17 13:50:04.037] [FRAG] idx=0 offset=0 len=131072 source=32.195.67.201:6001 time_ms=2186 speed_KB/s=58 progress=12%
+[2026-03-17 13:50:04.546] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=15%
+[2026-03-17 13:50:04.555] [FRAG] idx=3 offset=393216 len=131072 source=44.192.106.49:6001 time_ms=2702 speed_KB/s=47 progress=17%
+[2026-03-17 13:50:04.768] [FRAG] idx=9 offset=1179648 len=131072 source=3.234.226.220:6003 time_ms=1453 speed_KB/s=88 progress=20%
+[2026-03-17 13:50:04.809] [FRAG] idx=10 offset=1310720 len=131072 source=44.220.89.93:6002 time_ms=1472 speed_KB/s=86 progress=22%
+[2026-03-17 13:50:05.781] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=1234 speed_KB/s=103 progress=25%
+[2026-03-17 13:50:05.840] [FRAG] idx=11 offset=1441792 len=131072 source=13.220.244.217:6002 time_ms=1970 speed_KB/s=64 progress=27%
+[2026-03-17 13:50:06.211] [FRAG] idx=15 offset=1966080 len=131072 source=3.234.226.220:6003 time_ms=1442 speed_KB/s=88 progress=30%
+[2026-03-17 13:50:06.225] [FRAG] idx=12 offset=1572864 len=131072 source=32.195.67.201:6001 time_ms=2188 speed_KB/s=58 progress=32%
+[2026-03-17 13:50:06.283] [FRAG] idx=16 offset=2097152 len=131072 source=44.220.89.93:6002 time_ms=1474 speed_KB/s=86 progress=35%
+[2026-03-17 13:50:07.094] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=1313 speed_KB/s=97 progress=37%
+[2026-03-17 13:50:07.245] [FRAG] idx=14 offset=1835008 len=131072 source=44.192.106.49:6001 time_ms=2689 speed_KB/s=47 progress=40%
+[2026-03-17 13:50:07.487] [FRAG] idx=1 offset=131072 len=131072 source=100.54.135.117:6005 time_ms=5635 speed_KB/s=22 progress=42%
+[2026-03-17 13:50:07.656] [FRAG] idx=19 offset=2490368 len=131072 source=3.234.226.220:6003 time_ms=1444 speed_KB/s=88 progress=45%
+[2026-03-17 13:50:07.746] [FRAG] idx=21 offset=2752512 len=131072 source=44.220.89.93:6002 time_ms=1463 speed_KB/s=87 progress=47%
+[2026-03-17 13:50:07.812] [FRAG] idx=18 offset=2359296 len=131072 source=13.220.244.217:6002 time_ms=1970 speed_KB/s=64 progress=50%
+[2026-03-17 13:50:08.131] [FRAG] idx=2 offset=262144 len=131072 source=54.236.243.227:6004 time_ms=6278 speed_KB/s=20 progress=52%
+[2026-03-17 13:50:08.388] [FRAG] idx=20 offset=2621440 len=131072 source=32.195.67.201:6001 time_ms=2163 speed_KB/s=59 progress=55%
+[2026-03-17 13:50:08.412] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=1317 speed_KB/s=97 progress=57%
+[2026-03-17 13:50:09.124] [FRAG] idx=25 offset=3276800 len=131072 source=3.234.226.220:6003 time_ms=1467 speed_KB/s=87 progress=60%
+[2026-03-17 13:50:09.221] [FRAG] idx=26 offset=3407872 len=131072 source=44.220.89.93:6002 time_ms=1474 speed_KB/s=86 progress=62%
+[2026-03-17 13:50:09.728] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=65%
+[2026-03-17 13:50:09.773] [FRAG] idx=27 offset=3538944 len=131072 source=13.220.244.217:6002 time_ms=1961 speed_KB/s=65 progress=67%
+[2026-03-17 13:50:09.939] [FRAG] idx=23 offset=3014656 len=131072 source=44.192.106.49:6001 time_ms=2693 speed_KB/s=47 progress=70%
+[2026-03-17 13:50:10.578] [FRAG] idx=29 offset=3801088 len=131072 source=32.195.67.201:6001 time_ms=2189 speed_KB/s=58 progress=72%
+[2026-03-17 13:50:10.581] [FRAG] idx=31 offset=4063232 len=131072 source=3.234.226.220:6003 time_ms=1457 speed_KB/s=87 progress=75%
+[2026-03-17 13:50:10.687] [FRAG] idx=32 offset=4194304 len=131072 source=44.220.89.93:6002 time_ms=1466 speed_KB/s=87 progress=77%
+[2026-03-17 13:50:10.970] [FRAG] idx=33 offset=4325376 len=131072 source=13.39.21.10:6000 time_ms=1242 speed_KB/s=103 progress=80%
+[2026-03-17 13:50:11.740] [FRAG] idx=34 offset=4456448 len=131072 source=13.220.244.217:6002 time_ms=1966 speed_KB/s=65 progress=82%
+[2026-03-17 13:50:12.049] [FRAG] idx=37 offset=4849664 len=131072 source=3.234.226.220:6003 time_ms=1466 speed_KB/s=87 progress=85%
+[2026-03-17 13:50:12.143] [FRAG] idx=38 offset=4980736 len=131072 source=44.220.89.93:6002 time_ms=1455 speed_KB/s=87 progress=87%
+[2026-03-17 13:50:12.288] [FRAG] idx=39 offset=5111808 len=131072 source=13.39.21.10:6000 time_ms=1317 speed_KB/s=97 progress=90%
+[2026-03-17 13:50:12.624] [FRAG] idx=35 offset=4587520 len=131072 source=44.192.106.49:6001 time_ms=2684 speed_KB/s=47 progress=92%
+[2026-03-17 13:50:12.748] [FRAG] idx=36 offset=4718592 len=131072 source=32.195.67.201:6001 time_ms=2169 speed_KB/s=59 progress=95%
+[2026-03-17 13:50:13.134] [FRAG] idx=24 offset=3145728 len=131072 source=100.54.135.117:6005 time_ms=5647 speed_KB/s=22 progress=97%
+[2026-03-17 13:50:14.310] [FRAG] idx=28 offset=3670016 len=131072 source=54.236.243.227:6004 time_ms=6179 speed_KB/s=20 progress=100%
+[2026-03-17 13:50:14.311] [SUMMARY] ============================================
+[2026-03-17 13:50:14.312] [SUMMARY] file=test-medium.bin
+[2026-03-17 13:50:14.313] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 13:50:14.316] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 13:50:14.316] [SUMMARY] total_fragments=40
+[2026-03-17 13:50:14.317] [SUMMARY] sources_used=8
+[2026-03-17 13:50:14.317] [SUMMARY] compression=true
+[2026-03-17 13:50:14.317] [SUMMARY] total_time_ms=12514
+[2026-03-17 13:50:14.318] [SUMMARY] avg_speed_KB/s=409
+[2026-03-17 13:50:14.318] [SUMMARY] failed_fragments=0
+[2026-03-17 13:50:14.318] [SUMMARY] --- Per-source stats ---
+[2026-03-17 13:50:14.326] [SUMMARY] source=32.195.67.201:6001 fragments=5 bytes=655360 time_ms=10895 speed_KB/s=58
+[2026-03-17 13:50:14.328] [SUMMARY] source=100.54.135.117:6005 fragments=2 bytes=262144 time_ms=11282 speed_KB/s=22
+[2026-03-17 13:50:14.328] [SUMMARY] source=54.236.243.227:6004 fragments=2 bytes=262144 time_ms=12457 speed_KB/s=20
+[2026-03-17 13:50:14.329] [SUMMARY] source=44.192.106.49:6001 fragments=4 bytes=524288 time_ms=10768 speed_KB/s=47
+[2026-03-17 13:50:14.329] [SUMMARY] source=13.39.21.10:6000 fragments=8 bytes=1048576 time_ms=10410 speed_KB/s=98
+[2026-03-17 13:50:14.330] [SUMMARY] source=3.234.226.220:6003 fragments=7 bytes=917504 time_ms=10189 speed_KB/s=87
+[2026-03-17 13:50:14.330] [SUMMARY] source=44.220.89.93:6002 fragments=7 bytes=917504 time_ms=10281 speed_KB/s=87
+[2026-03-17 13:50:14.330] [SUMMARY] source=13.220.244.217:6002 fragments=5 bytes=655360 time_ms=9883 speed_KB/s=64
+[2026-03-17 13:50:14.331] [SUMMARY] ============================================
+[2026-03-17 13:50:14.331] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 14:14:20.979] [Download] === START === file=test-medium.bin fragment_size=262144 compression=true
+[2026-03-17 14:14:20.981] [Download] All sources from Directory:
+[2026-03-17 14:14:20.985] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:14:20.986] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:14:20.986] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:14:20.987] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:14:20.987] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:14:20.987] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:14:20.988] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:14:20.988] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 14:14:20.989] [Download] Using 8 source(s):
+[2026-03-17 14:14:20.990] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:14:20.991] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:14:20.991] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:14:20.992] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:14:20.992] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:14:20.993] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:14:20.993] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:14:20.993] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 14:14:21.766] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 14:14:21.774] [Download] Fragments: 20 x 256KB, sources: 8
+[2026-03-17 14:14:23.340] [FRAG] idx=2 offset=524288 len=262144 source=13.39.21.10:6000 time_ms=1546 speed_KB/s=165 progress=5%
+[2026-03-17 14:14:24.880] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1540 speed_KB/s=166 progress=10%
+[2026-03-17 14:14:26.441] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1561 speed_KB/s=163 progress=15%
+[2026-03-17 14:14:26.463] [FRAG] idx=3 offset=786432 len=262144 source=3.234.226.220:6003 time_ms=4680 speed_KB/s=54 progress=20%
+[2026-03-17 14:14:26.607] [FRAG] idx=4 offset=1048576 len=262144 source=44.220.89.93:6002 time_ms=4824 speed_KB/s=53 progress=25%
+[2026-03-17 14:14:27.548] [FRAG] idx=6 offset=1572864 len=262144 source=13.220.244.217:6002 time_ms=5764 speed_KB/s=44 progress=30%
+[2026-03-17 14:14:27.990] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=35%
+[2026-03-17 14:14:28.534] [FRAG] idx=0 offset=0 len=262144 source=32.195.67.201:6001 time_ms=6754 speed_KB/s=37 progress=40%
+[2026-03-17 14:14:29.046] [FRAG] idx=11 offset=2883584 len=262144 source=3.234.226.220:6003 time_ms=2583 speed_KB/s=99 progress=45%
+[2026-03-17 14:14:29.220] [FRAG] idx=12 offset=3145728 len=262144 source=44.220.89.93:6002 time_ms=2613 speed_KB/s=97 progress=50%
+[2026-03-17 14:14:29.536] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=1545 speed_KB/s=165 progress=55%
+[2026-03-17 14:14:31.078] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=1542 speed_KB/s=166 progress=60%
+[2026-03-17 14:14:31.207] [FRAG] idx=13 offset=3407872 len=262144 source=13.220.244.217:6002 time_ms=3658 speed_KB/s=69 progress=65%
+[2026-03-17 14:14:31.252] [FRAG] idx=1 offset=262144 len=262144 source=44.192.106.49:6001 time_ms=9470 speed_KB/s=27 progress=70%
+[2026-03-17 14:14:31.637] [FRAG] idx=16 offset=4194304 len=262144 source=3.234.226.220:6003 time_ms=2591 speed_KB/s=98 progress=75%
+[2026-03-17 14:14:31.825] [FRAG] idx=17 offset=4456448 len=262144 source=44.220.89.93:6002 time_ms=2604 speed_KB/s=98 progress=80%
+[2026-03-17 14:14:32.615] [FRAG] idx=15 offset=3932160 len=262144 source=32.195.67.201:6001 time_ms=4080 speed_KB/s=62 progress=85%
+[2026-03-17 14:14:32.628] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=1549 speed_KB/s=165 progress=90%
+[2026-03-17 14:14:41.536] [FRAG] idx=5 offset=1310720 len=262144 source=100.54.135.117:6005 time_ms=19752 speed_KB/s=12 progress=95%
+[2026-03-17 14:14:46.631] [FRAG] idx=7 offset=1835008 len=262144 source=54.236.243.227:6004 time_ms=24848 speed_KB/s=10 progress=100%
+[2026-03-17 14:14:46.632] [SUMMARY] ============================================
+[2026-03-17 14:14:46.632] [SUMMARY] file=test-medium.bin
+[2026-03-17 14:14:46.634] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 14:14:46.636] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 14:14:46.637] [SUMMARY] total_fragments=20
+[2026-03-17 14:14:46.637] [SUMMARY] sources_used=8
+[2026-03-17 14:14:46.637] [SUMMARY] compression=true
+[2026-03-17 14:14:46.638] [SUMMARY] total_time_ms=24854
+[2026-03-17 14:14:46.638] [SUMMARY] avg_speed_KB/s=206
+[2026-03-17 14:14:46.639] [SUMMARY] failed_fragments=0
+[2026-03-17 14:14:46.639] [SUMMARY] --- Per-source stats ---
+[2026-03-17 14:14:46.645] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=524288 time_ms=10834 speed_KB/s=47
+[2026-03-17 14:14:46.645] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=262144 time_ms=19752 speed_KB/s=12
+[2026-03-17 14:14:46.646] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=262144 time_ms=24848 speed_KB/s=10
+[2026-03-17 14:14:46.646] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=262144 time_ms=9470 speed_KB/s=27
+[2026-03-17 14:14:46.646] [SUMMARY] source=13.39.21.10:6000 fragments=7 bytes=1835008 time_ms=10830 speed_KB/s=165
+[2026-03-17 14:14:46.646] [SUMMARY] source=3.234.226.220:6003 fragments=3 bytes=786432 time_ms=9854 speed_KB/s=77
+[2026-03-17 14:14:46.647] [SUMMARY] source=44.220.89.93:6002 fragments=3 bytes=786432 time_ms=10041 speed_KB/s=76
+[2026-03-17 14:14:46.647] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=524288 time_ms=9422 speed_KB/s=54
+[2026-03-17 14:14:46.647] [SUMMARY] ============================================
+[2026-03-17 14:14:46.647] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 14:25:20.835] [Download] === START === file=test-medium.bin fragment_size=524288 compression=true
+[2026-03-17 14:25:20.837] [Download] All sources from Directory:
+[2026-03-17 14:25:20.841] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:25:20.841] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:25:20.842] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:25:20.842] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:25:20.843] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:25:20.843] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:25:20.844] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:25:20.844] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 14:25:20.844] [Download] Using 8 source(s):
+[2026-03-17 14:25:20.845] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:25:20.845] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:25:20.845] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:25:20.846] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:25:20.846] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:25:20.846] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:25:20.847] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:25:20.847] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 14:25:21.325] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 14:25:21.331] [Download] Fragments: 10 x 512KB, sources: 8
+[2026-03-17 14:25:23.360] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=2006 speed_KB/s=255 progress=10%
+[2026-03-17 14:25:25.370] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=2010 speed_KB/s=254 progress=20%
+[2026-03-17 14:25:26.165] [FRAG] idx=2 offset=1048576 len=524288 source=3.234.226.220:6003 time_ms=4825 speed_KB/s=106 progress=30%
+[2026-03-17 14:25:26.229] [FRAG] idx=4 offset=2097152 len=524288 source=44.220.89.93:6002 time_ms=4890 speed_KB/s=104 progress=40%
+[2026-03-17 14:25:27.383] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2011 speed_KB/s=254 progress=50%
+[2026-03-17 14:25:29.244] [FRAG] idx=1 offset=524288 len=524288 source=32.195.67.201:6001 time_ms=7904 speed_KB/s=64 progress=60%
+[2026-03-17 14:25:30.121] [FRAG] idx=7 offset=3670016 len=524288 source=13.220.244.217:6002 time_ms=8780 speed_KB/s=58 progress=70%
+[2026-03-17 14:25:31.381] [FRAG] idx=0 offset=0 len=524288 source=44.192.106.49:6001 time_ms=10042 speed_KB/s=50 progress=80%
+[2026-03-17 14:26:01.473] [FRAG] idx=5 offset=2621440 len=524288 source=100.54.135.117:6005 time_ms=40132 speed_KB/s=12 progress=90%
+[2026-03-17 14:26:10.048] [FRAG] idx=6 offset=3145728 len=524288 source=54.236.243.227:6004 time_ms=48708 speed_KB/s=10 progress=100%
+[2026-03-17 14:26:10.049] [SUMMARY] ============================================
+[2026-03-17 14:26:10.049] [SUMMARY] file=test-medium.bin
+[2026-03-17 14:26:10.051] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 14:26:10.054] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 14:26:10.054] [SUMMARY] total_fragments=10
+[2026-03-17 14:26:10.054] [SUMMARY] sources_used=8
+[2026-03-17 14:26:10.055] [SUMMARY] compression=true
+[2026-03-17 14:26:10.055] [SUMMARY] total_time_ms=48716
+[2026-03-17 14:26:10.056] [SUMMARY] avg_speed_KB/s=105
+[2026-03-17 14:26:10.056] [SUMMARY] failed_fragments=0
+[2026-03-17 14:26:10.056] [SUMMARY] --- Per-source stats ---
+[2026-03-17 14:26:10.066] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=524288 time_ms=7904 speed_KB/s=64
+[2026-03-17 14:26:10.066] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=524288 time_ms=40132 speed_KB/s=12
+[2026-03-17 14:26:10.066] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=524288 time_ms=48708 speed_KB/s=10
+[2026-03-17 14:26:10.069] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=10042 speed_KB/s=50
+[2026-03-17 14:26:10.069] [SUMMARY] source=13.39.21.10:6000 fragments=3 bytes=1572864 time_ms=6027 speed_KB/s=254
+[2026-03-17 14:26:10.069] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=524288 time_ms=4825 speed_KB/s=106
+[2026-03-17 14:26:10.070] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=524288 time_ms=4890 speed_KB/s=104
+[2026-03-17 14:26:10.070] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=8780 speed_KB/s=58
+[2026-03-17 14:26:10.070] [SUMMARY] ============================================
+[2026-03-17 14:26:10.071] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 14:35:46.251] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=true
+[2026-03-17 14:35:46.256] [Download] All sources from Directory:
+[2026-03-17 14:35:46.259] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:35:46.260] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:35:46.260] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:35:46.260] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:35:46.261] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:35:46.261] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 14:35:46.261] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:35:46.262] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:35:46.262] [Download] Using 8 source(s):
+[2026-03-17 14:35:46.263] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 14:35:46.263] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 14:35:46.263] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 14:35:46.264] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 14:35:46.264] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 14:35:46.264] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 14:35:46.265] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 14:35:46.265] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 14:35:46.740] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 14:35:46.745] [Download] Fragments: 5 x 1024KB, sources: 8
+[2026-03-17 14:35:49.019] [FRAG] idx=2 offset=2097152 len=1048576 source=13.39.21.10:6000 time_ms=2255 speed_KB/s=454 progress=20%
+[2026-03-17 14:35:56.061] [FRAG] idx=3 offset=3145728 len=1048576 source=3.234.226.220:6003 time_ms=9310 speed_KB/s=109 progress=40%
+[2026-03-17 14:35:56.169] [FRAG] idx=4 offset=4194304 len=1048576 source=44.220.89.93:6002 time_ms=9417 speed_KB/s=108 progress=60%
+[2026-03-17 14:36:02.220] [FRAG] idx=0 offset=0 len=1048576 source=32.195.67.201:6001 time_ms=15469 speed_KB/s=66 progress=80%
+[2026-03-17 14:36:07.761] [FRAG] idx=1 offset=1048576 len=1048576 source=44.192.106.49:6001 time_ms=21009 speed_KB/s=48 progress=100%
+[2026-03-17 14:36:07.761] [SUMMARY] ============================================
+[2026-03-17 14:36:07.762] [SUMMARY] file=test-medium.bin
+[2026-03-17 14:36:07.763] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 14:36:07.766] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 14:36:07.766] [SUMMARY] total_fragments=5
+[2026-03-17 14:36:07.767] [SUMMARY] sources_used=8
+[2026-03-17 14:36:07.767] [SUMMARY] compression=true
+[2026-03-17 14:36:07.768] [SUMMARY] total_time_ms=21015
+[2026-03-17 14:36:07.768] [SUMMARY] avg_speed_KB/s=243
+[2026-03-17 14:36:07.768] [SUMMARY] failed_fragments=0
+[2026-03-17 14:36:07.769] [SUMMARY] --- Per-source stats ---
+[2026-03-17 14:36:07.779] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1048576 time_ms=15469 speed_KB/s=66
+[2026-03-17 14:36:07.779] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=21009 speed_KB/s=48
+[2026-03-17 14:36:07.779] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2255 speed_KB/s=454
+[2026-03-17 14:36:07.780] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=1048576 time_ms=9310 speed_KB/s=109
+[2026-03-17 14:36:07.780] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=1048576 time_ms=9417 speed_KB/s=108
+[2026-03-17 14:36:07.781] [SUMMARY] ============================================
+[2026-03-17 14:36:07.781] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 15:27:08.800] [Download] === START === file=test-medium.bin fragment_size=131072 compression=true
+[2026-03-17 15:27:08.801] [Download] All sources from Directory:
+[2026-03-17 15:27:08.805] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 15:27:08.806] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 15:27:08.806] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 15:27:08.806] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 15:27:08.807] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 15:27:08.807] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 15:27:08.807] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:27:08.808] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 15:27:08.808] [Download] Using 8 source(s):
+[2026-03-17 15:27:08.809] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 15:27:08.809] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 15:27:08.809] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 15:27:08.810] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 15:27:08.810] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 15:27:08.810] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 15:27:08.811] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:27:08.811] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 15:27:09.286] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 15:27:09.293] [Download] Fragments: 40 x 128KB, sources: 8
+[2026-03-17 15:27:10.636] [FRAG] idx=4 offset=524288 len=131072 source=13.39.21.10:6000 time_ms=1321 speed_KB/s=96 progress=2%
+[2026-03-17 15:27:10.760] [FRAG] idx=5 offset=655360 len=131072 source=3.234.226.220:6003 time_ms=1461 speed_KB/s=87 progress=5%
+[2026-03-17 15:27:10.772] [FRAG] idx=6 offset=786432 len=131072 source=44.220.89.93:6002 time_ms=1472 speed_KB/s=86 progress=7%
+[2026-03-17 15:27:11.272] [FRAG] idx=7 offset=917504 len=131072 source=13.220.244.217:6002 time_ms=1972 speed_KB/s=64 progress=10%
+[2026-03-17 15:27:11.464] [FRAG] idx=0 offset=0 len=131072 source=32.195.67.201:6001 time_ms=2166 speed_KB/s=59 progress=12%
+[2026-03-17 15:27:11.951] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=1315 speed_KB/s=97 progress=15%
+[2026-03-17 15:27:11.994] [FRAG] idx=3 offset=393216 len=131072 source=44.192.106.49:6001 time_ms=2695 speed_KB/s=47 progress=17%
+[2026-03-17 15:27:12.214] [FRAG] idx=9 offset=1179648 len=131072 source=3.234.226.220:6003 time_ms=1453 speed_KB/s=88 progress=20%
+[2026-03-17 15:27:12.236] [FRAG] idx=10 offset=1310720 len=131072 source=44.220.89.93:6002 time_ms=1464 speed_KB/s=87 progress=22%
+[2026-03-17 15:27:13.248] [FRAG] idx=11 offset=1441792 len=131072 source=13.220.244.217:6002 time_ms=1975 speed_KB/s=64 progress=25%
+[2026-03-17 15:27:13.266] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=27%
+[2026-03-17 15:27:13.641] [FRAG] idx=12 offset=1572864 len=131072 source=32.195.67.201:6001 time_ms=2176 speed_KB/s=58 progress=30%
+[2026-03-17 15:27:13.673] [FRAG] idx=15 offset=1966080 len=131072 source=3.234.226.220:6003 time_ms=1459 speed_KB/s=87 progress=32%
+[2026-03-17 15:27:13.709] [FRAG] idx=16 offset=2097152 len=131072 source=44.220.89.93:6002 time_ms=1472 speed_KB/s=86 progress=35%
+[2026-03-17 15:27:14.583] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=1315 speed_KB/s=97 progress=37%
+[2026-03-17 15:27:14.679] [FRAG] idx=14 offset=1835008 len=131072 source=44.192.106.49:6001 time_ms=2684 speed_KB/s=47 progress=40%
+[2026-03-17 15:27:14.934] [FRAG] idx=1 offset=131072 len=131072 source=100.54.135.117:6005 time_ms=5636 speed_KB/s=22 progress=42%
+[2026-03-17 15:27:15.134] [FRAG] idx=20 offset=2621440 len=131072 source=3.234.226.220:6003 time_ms=1460 speed_KB/s=87 progress=45%
+[2026-03-17 15:27:15.177] [FRAG] idx=21 offset=2752512 len=131072 source=44.220.89.93:6002 time_ms=1467 speed_KB/s=87 progress=47%
+[2026-03-17 15:27:15.213] [FRAG] idx=17 offset=2228224 len=131072 source=13.220.244.217:6002 time_ms=1965 speed_KB/s=65 progress=50%
+[2026-03-17 15:27:15.536] [FRAG] idx=2 offset=262144 len=131072 source=54.236.243.227:6004 time_ms=6238 speed_KB/s=20 progress=52%
+[2026-03-17 15:27:15.810] [FRAG] idx=19 offset=2490368 len=131072 source=32.195.67.201:6001 time_ms=2168 speed_KB/s=59 progress=55%
+[2026-03-17 15:27:15.902] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=1319 speed_KB/s=97 progress=57%
+[2026-03-17 15:27:16.589] [FRAG] idx=25 offset=3276800 len=131072 source=3.234.226.220:6003 time_ms=1455 speed_KB/s=87 progress=60%
+[2026-03-17 15:27:16.639] [FRAG] idx=26 offset=3407872 len=131072 source=44.220.89.93:6002 time_ms=1462 speed_KB/s=87 progress=62%
+[2026-03-17 15:27:17.182] [FRAG] idx=27 offset=3538944 len=131072 source=13.220.244.217:6002 time_ms=1968 speed_KB/s=65 progress=65%
+[2026-03-17 15:27:17.214] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=1311 speed_KB/s=97 progress=67%
+[2026-03-17 15:27:17.370] [FRAG] idx=23 offset=3014656 len=131072 source=44.192.106.49:6001 time_ms=2691 speed_KB/s=47 progress=70%
+[2026-03-17 15:27:17.990] [FRAG] idx=29 offset=3801088 len=131072 source=32.195.67.201:6001 time_ms=2180 speed_KB/s=58 progress=72%
+[2026-03-17 15:27:18.045] [FRAG] idx=31 offset=4063232 len=131072 source=3.234.226.220:6003 time_ms=1456 speed_KB/s=87 progress=75%
+[2026-03-17 15:27:18.101] [FRAG] idx=32 offset=4194304 len=131072 source=44.220.89.93:6002 time_ms=1462 speed_KB/s=87 progress=77%
+[2026-03-17 15:27:18.526] [FRAG] idx=34 offset=4456448 len=131072 source=13.39.21.10:6000 time_ms=1312 speed_KB/s=97 progress=80%
+[2026-03-17 15:27:19.176] [FRAG] idx=33 offset=4325376 len=131072 source=13.220.244.217:6002 time_ms=1993 speed_KB/s=64 progress=82%
+[2026-03-17 15:27:19.502] [FRAG] idx=37 offset=4849664 len=131072 source=3.234.226.220:6003 time_ms=1456 speed_KB/s=87 progress=85%
+[2026-03-17 15:27:19.564] [FRAG] idx=38 offset=4980736 len=131072 source=44.220.89.93:6002 time_ms=1463 speed_KB/s=87 progress=87%
+[2026-03-17 15:27:19.836] [FRAG] idx=39 offset=5111808 len=131072 source=13.39.21.10:6000 time_ms=1309 speed_KB/s=97 progress=90%
+[2026-03-17 15:27:20.050] [FRAG] idx=35 offset=4587520 len=131072 source=44.192.106.49:6001 time_ms=2679 speed_KB/s=47 progress=92%
+[2026-03-17 15:27:20.179] [FRAG] idx=36 offset=4718592 len=131072 source=32.195.67.201:6001 time_ms=2189 speed_KB/s=58 progress=95%
+[2026-03-17 15:27:20.546] [FRAG] idx=24 offset=3145728 len=131072 source=100.54.135.117:6005 time_ms=5611 speed_KB/s=22 progress=97%
+[2026-03-17 15:27:21.740] [FRAG] idx=28 offset=3670016 len=131072 source=54.236.243.227:6004 time_ms=6203 speed_KB/s=20 progress=100%
+[2026-03-17 15:27:21.741] [SUMMARY] ============================================
+[2026-03-17 15:27:21.741] [SUMMARY] file=test-medium.bin
+[2026-03-17 15:27:21.743] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 15:27:21.745] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 15:27:21.746] [SUMMARY] total_fragments=40
+[2026-03-17 15:27:21.746] [SUMMARY] sources_used=8
+[2026-03-17 15:27:21.746] [SUMMARY] compression=true
+[2026-03-17 15:27:21.747] [SUMMARY] total_time_ms=12445
+[2026-03-17 15:27:21.747] [SUMMARY] avg_speed_KB/s=411
+[2026-03-17 15:27:21.747] [SUMMARY] failed_fragments=0
+[2026-03-17 15:27:21.748] [SUMMARY] --- Per-source stats ---
+[2026-03-17 15:27:21.756] [SUMMARY] source=32.195.67.201:6001 fragments=5 bytes=655360 time_ms=10879 speed_KB/s=58
+[2026-03-17 15:27:21.757] [SUMMARY] source=100.54.135.117:6005 fragments=2 bytes=262144 time_ms=11247 speed_KB/s=22
+[2026-03-17 15:27:21.757] [SUMMARY] source=54.236.243.227:6004 fragments=2 bytes=262144 time_ms=12441 speed_KB/s=20
+[2026-03-17 15:27:21.757] [SUMMARY] source=44.192.106.49:6001 fragments=4 bytes=524288 time_ms=10749 speed_KB/s=47
+[2026-03-17 15:27:21.758] [SUMMARY] source=13.39.21.10:6000 fragments=8 bytes=1048576 time_ms=10516 speed_KB/s=97
+[2026-03-17 15:27:21.758] [SUMMARY] source=3.234.226.220:6003 fragments=7 bytes=917504 time_ms=10200 speed_KB/s=87
+[2026-03-17 15:27:21.759] [SUMMARY] source=44.220.89.93:6002 fragments=7 bytes=917504 time_ms=10262 speed_KB/s=87
+[2026-03-17 15:27:21.759] [SUMMARY] source=13.220.244.217:6002 fragments=5 bytes=655360 time_ms=9873 speed_KB/s=64
+[2026-03-17 15:27:21.760] [SUMMARY] ============================================
+[2026-03-17 15:27:21.760] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 15:40:23.628] [Download] === START === file=test-medium.bin fragment_size=262144 compression=true
+[2026-03-17 15:40:23.629] [Download] All sources from Directory:
+[2026-03-17 15:40:23.633] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 15:40:23.634] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 15:40:23.634] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 15:40:23.635] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:40:23.635] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 15:40:23.636] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 15:40:23.636] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 15:40:23.636] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 15:40:23.637] [Download] Using 8 source(s):
+[2026-03-17 15:40:23.638] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 15:40:23.638] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 15:40:23.638] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 15:40:23.639] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:40:23.639] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 15:40:23.639] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 15:40:23.640] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 15:40:23.640] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 15:40:24.330] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 15:40:24.337] [Download] Fragments: 20 x 256KB, sources: 8
+[2026-03-17 15:40:25.822] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=1464 speed_KB/s=174 progress=5%
+[2026-03-17 15:40:27.358] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1535 speed_KB/s=166 progress=10%
+[2026-03-17 15:40:28.808] [FRAG] idx=4 offset=1048576 len=262144 source=13.220.244.217:6002 time_ms=4460 speed_KB/s=57 progress=15%
+[2026-03-17 15:40:28.811] [FRAG] idx=2 offset=524288 len=262144 source=3.234.226.220:6003 time_ms=4465 speed_KB/s=57 progress=20%
+[2026-03-17 15:40:28.904] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1546 speed_KB/s=165 progress=25%
+[2026-03-17 15:40:28.921] [FRAG] idx=3 offset=786432 len=262144 source=44.220.89.93:6002 time_ms=4573 speed_KB/s=55 progress=30%
+[2026-03-17 15:40:29.148] [FRAG] idx=0 offset=0 len=262144 source=32.195.67.201:6001 time_ms=4803 speed_KB/s=53 progress=35%
+[2026-03-17 15:40:30.460] [FRAG] idx=12 offset=3145728 len=262144 source=13.39.21.10:6000 time_ms=1555 speed_KB/s=164 progress=40%
+[2026-03-17 15:40:31.528] [FRAG] idx=13 offset=3407872 len=262144 source=44.220.89.93:6002 time_ms=2607 speed_KB/s=98 progress=45%
+[2026-03-17 15:40:31.673] [FRAG] idx=11 offset=2883584 len=262144 source=3.234.226.220:6003 time_ms=2861 speed_KB/s=89 progress=50%
+[2026-03-17 15:40:32.003] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=1543 speed_KB/s=165 progress=55%
+[2026-03-17 15:40:32.480] [FRAG] idx=10 offset=2621440 len=262144 source=13.220.244.217:6002 time_ms=3672 speed_KB/s=69 progress=60%
+[2026-03-17 15:40:32.544] [FRAG] idx=7 offset=1835008 len=262144 source=44.192.106.49:6001 time_ms=8195 speed_KB/s=31 progress=65%
+[2026-03-17 15:40:33.234] [FRAG] idx=14 offset=3670016 len=262144 source=32.195.67.201:6001 time_ms=4084 speed_KB/s=62 progress=70%
+[2026-03-17 15:40:33.550] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=1546 speed_KB/s=165 progress=75%
+[2026-03-17 15:40:34.141] [FRAG] idx=16 offset=4194304 len=262144 source=44.220.89.93:6002 time_ms=2612 speed_KB/s=98 progress=80%
+[2026-03-17 15:40:34.259] [FRAG] idx=17 offset=4456448 len=262144 source=3.234.226.220:6003 time_ms=2585 speed_KB/s=99 progress=85%
+[2026-03-17 15:40:36.152] [FRAG] idx=19 offset=4980736 len=262144 source=13.220.244.217:6002 time_ms=3671 speed_KB/s=69 progress=90%
+[2026-03-17 15:40:41.709] [FRAG] idx=5 offset=1310720 len=262144 source=100.54.135.117:6005 time_ms=17360 speed_KB/s=14 progress=95%
+[2026-03-17 15:40:48.064] [FRAG] idx=6 offset=1572864 len=262144 source=54.236.243.227:6004 time_ms=23714 speed_KB/s=10 progress=100%
+[2026-03-17 15:40:48.065] [SUMMARY] ============================================
+[2026-03-17 15:40:48.066] [SUMMARY] file=test-medium.bin
+[2026-03-17 15:40:48.068] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 15:40:48.071] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 15:40:48.071] [SUMMARY] total_fragments=20
+[2026-03-17 15:40:48.072] [SUMMARY] sources_used=8
+[2026-03-17 15:40:48.073] [SUMMARY] compression=true
+[2026-03-17 15:40:48.075] [SUMMARY] total_time_ms=23724
+[2026-03-17 15:40:48.075] [SUMMARY] avg_speed_KB/s=215
+[2026-03-17 15:40:48.076] [SUMMARY] failed_fragments=0
+[2026-03-17 15:40:48.076] [SUMMARY] --- Per-source stats ---
+[2026-03-17 15:40:48.088] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=524288 time_ms=8887 speed_KB/s=57
+[2026-03-17 15:40:48.089] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=262144 time_ms=17360 speed_KB/s=14
+[2026-03-17 15:40:48.089] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=262144 time_ms=23714 speed_KB/s=10
+[2026-03-17 15:40:48.089] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=262144 time_ms=8195 speed_KB/s=31
+[2026-03-17 15:40:48.089] [SUMMARY] source=13.39.21.10:6000 fragments=6 bytes=1572864 time_ms=9189 speed_KB/s=167
+[2026-03-17 15:40:48.092] [SUMMARY] source=3.234.226.220:6003 fragments=3 bytes=786432 time_ms=9911 speed_KB/s=77
+[2026-03-17 15:40:48.092] [SUMMARY] source=44.220.89.93:6002 fragments=3 bytes=786432 time_ms=9792 speed_KB/s=78
+[2026-03-17 15:40:48.092] [SUMMARY] source=13.220.244.217:6002 fragments=3 bytes=786432 time_ms=11803 speed_KB/s=65
+[2026-03-17 15:40:48.092] [SUMMARY] ============================================
+[2026-03-17 15:40:48.093] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 15:55:25.602] [Download] === START === file=test-medium.bin fragment_size=524288 compression=true
+[2026-03-17 15:55:25.604] [Download] All sources from Directory:
+[2026-03-17 15:55:25.609] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 15:55:25.609] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:55:25.610] [Download] Using 2 source(s):
+[2026-03-17 15:55:25.610] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 15:55:25.611] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 15:55:26.081] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 15:55:26.087] [Download] Fragments: 10 x 512KB, sources: 2
+[2026-03-17 16:06:49.098] [Download] === START === file=test-medium.bin fragment_size=524288 compression=true
+[2026-03-17 16:06:49.099] [Download] All sources from Directory:
+[2026-03-17 16:06:49.106] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:06:49.107] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 16:06:49.107] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:06:49.108] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:06:49.108] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 16:06:49.108] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 16:06:49.108] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 16:06:49.109] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 16:06:49.109] [Download] Using 8 source(s):
+[2026-03-17 16:06:49.109] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:06:49.110] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 16:06:49.110] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:06:49.111] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:06:49.111] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 16:06:49.111] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 16:06:49.112] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 16:06:49.112] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 16:06:49.810] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 16:06:49.815] [Download] Fragments: 10 x 512KB, sources: 8
+[2026-03-17 16:06:51.840] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2006 speed_KB/s=255 progress=10%
+[2026-03-17 16:06:53.849] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=2007 speed_KB/s=255 progress=20%
+[2026-03-17 16:06:55.869] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2019 speed_KB/s=253 progress=30%
+[2026-03-17 16:06:56.946] [FRAG] idx=5 offset=2621440 len=524288 source=3.234.226.220:6003 time_ms=7124 speed_KB/s=71 progress=40%
+[2026-03-17 16:06:57.174] [FRAG] idx=6 offset=3145728 len=524288 source=44.220.89.93:6002 time_ms=7351 speed_KB/s=69 progress=50%
+[2026-03-17 16:07:01.564] [FRAG] idx=7 offset=3670016 len=524288 source=13.220.244.217:6002 time_ms=11741 speed_KB/s=43 progress=60%
+[2026-03-17 16:07:03.169] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=13349 speed_KB/s=38 progress=70%
+[2026-03-17 16:07:07.474] [FRAG] idx=4 offset=2097152 len=524288 source=44.192.106.49:6001 time_ms=17652 speed_KB/s=29 progress=80%
+[2026-03-17 16:07:31.218] [FRAG] idx=2 offset=1048576 len=524288 source=100.54.135.117:6005 time_ms=41397 speed_KB/s=12 progress=90%
+[2026-03-17 16:07:37.655] [FRAG] idx=3 offset=1572864 len=524288 source=54.236.243.227:6004 time_ms=47834 speed_KB/s=10 progress=100%
+[2026-03-17 16:07:37.655] [SUMMARY] ============================================
+[2026-03-17 16:07:37.656] [SUMMARY] file=test-medium.bin
+[2026-03-17 16:07:37.658] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 16:07:37.661] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 16:07:37.661] [SUMMARY] total_fragments=10
+[2026-03-17 16:07:37.661] [SUMMARY] sources_used=8
+[2026-03-17 16:07:37.662] [SUMMARY] compression=true
+[2026-03-17 16:07:37.662] [SUMMARY] total_time_ms=47839
+[2026-03-17 16:07:37.662] [SUMMARY] avg_speed_KB/s=107
+[2026-03-17 16:07:37.663] [SUMMARY] failed_fragments=0
+[2026-03-17 16:07:37.663] [SUMMARY] --- Per-source stats ---
+[2026-03-17 16:07:37.669] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=524288 time_ms=13349 speed_KB/s=38
+[2026-03-17 16:07:37.670] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=524288 time_ms=41397 speed_KB/s=12
+[2026-03-17 16:07:37.670] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=524288 time_ms=47834 speed_KB/s=10
+[2026-03-17 16:07:37.670] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=17652 speed_KB/s=29
+[2026-03-17 16:07:37.671] [SUMMARY] source=13.39.21.10:6000 fragments=3 bytes=1572864 time_ms=6032 speed_KB/s=254
+[2026-03-17 16:07:37.671] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=524288 time_ms=7124 speed_KB/s=71
+[2026-03-17 16:07:37.671] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=524288 time_ms=7351 speed_KB/s=69
+[2026-03-17 16:07:37.672] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=11741 speed_KB/s=43
+[2026-03-17 16:07:37.672] [SUMMARY] ============================================
+[2026-03-17 16:07:37.672] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 16:17:35.479] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=true
+[2026-03-17 16:17:35.481] [Download] All sources from Directory:
+[2026-03-17 16:17:35.485] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:17:35.485] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 16:17:35.485] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:17:35.486] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:17:35.486] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:17:35.486] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:17:35.486] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:17:35.487] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:17:35.487] [Download] Using 8 source(s):
+[2026-03-17 16:17:35.488] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:17:35.488] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 16:17:35.488] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:17:35.489] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:17:35.489] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:17:35.489] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:17:35.489] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:17:35.490] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:17:35.966] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 16:17:35.975] [Download] Fragments: 5 x 1024KB, sources: 8
+[2026-03-17 16:17:38.506] [FRAG] idx=3 offset=3145728 len=1048576 source=13.39.21.10:6000 time_ms=2510 speed_KB/s=407 progress=20%
+[2026-03-17 16:17:45.567] [FRAG] idx=4 offset=4194304 len=1048576 source=3.234.226.220:6003 time_ms=9585 speed_KB/s=106 progress=40%
+[2026-03-17 16:17:57.973] [FRAG] idx=0 offset=0 len=1048576 source=32.195.67.201:6001 time_ms=21992 speed_KB/s=46 progress=60%
+[2026-03-17 16:18:06.312] [FRAG] idx=2 offset=2097152 len=1048576 source=44.192.106.49:6001 time_ms=30330 speed_KB/s=33 progress=80%
+[2026-03-17 16:19:03.969] [FRAG] idx=1 offset=1048576 len=1048576 source=54.236.243.227:6004 time_ms=87988 speed_KB/s=11 progress=100%
+[2026-03-17 16:19:03.969] [SUMMARY] ============================================
+[2026-03-17 16:19:03.970] [SUMMARY] file=test-medium.bin
+[2026-03-17 16:19:03.971] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 16:19:03.974] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 16:19:03.974] [SUMMARY] total_fragments=5
+[2026-03-17 16:19:03.975] [SUMMARY] sources_used=8
+[2026-03-17 16:19:03.975] [SUMMARY] compression=true
+[2026-03-17 16:19:03.976] [SUMMARY] total_time_ms=87993
+[2026-03-17 16:19:03.976] [SUMMARY] avg_speed_KB/s=58
+[2026-03-17 16:19:03.976] [SUMMARY] failed_fragments=0
+[2026-03-17 16:19:03.977] [SUMMARY] --- Per-source stats ---
+[2026-03-17 16:19:03.983] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1048576 time_ms=21992 speed_KB/s=46
+[2026-03-17 16:19:03.983] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=1048576 time_ms=87988 speed_KB/s=11
+[2026-03-17 16:19:03.983] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=30330 speed_KB/s=33
+[2026-03-17 16:19:03.984] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2510 speed_KB/s=407
+[2026-03-17 16:19:03.984] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=1048576 time_ms=9585 speed_KB/s=106
+[2026-03-17 16:19:03.984] [SUMMARY] ============================================
+[2026-03-17 16:19:03.985] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 16:27:17.744] [Download] === START === file=test-medium.bin fragment_size=2097152 compression=true
+[2026-03-17 16:27:17.745] [Download] All sources from Directory:
+[2026-03-17 16:27:17.749] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 16:27:17.750] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:27:17.750] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:27:17.750] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:27:17.751] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:27:17.751] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:27:17.751] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 16:27:17.752] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:27:17.752] [Download] Using 8 source(s):
+[2026-03-17 16:27:17.754] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 16:27:17.754] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:27:17.755] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:27:17.755] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:27:17.755] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:27:17.755] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:27:17.756] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 16:27:17.756] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:27:18.235] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 16:27:18.240] [Download] Fragments: 3 x 2048KB, sources: 8
+[2026-03-17 16:27:20.749] [FRAG] idx=2 offset=4194304 len=1048576 source=13.39.21.10:6000 time_ms=2484 speed_KB/s=412 progress=20%
+[2026-03-17 16:28:08.909] [FRAG] idx=1 offset=2097152 len=2097152 source=44.192.106.49:6001 time_ms=50661 speed_KB/s=40 progress=60%
+[2026-03-17 16:28:45.128] [FRAG] idx=0 offset=0 len=2097152 source=100.54.135.117:6005 time_ms=86881 speed_KB/s=23 progress=100%
+[2026-03-17 16:28:45.128] [SUMMARY] ============================================
+[2026-03-17 16:28:45.129] [SUMMARY] file=test-medium.bin
+[2026-03-17 16:28:45.130] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 16:28:45.133] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 16:28:45.133] [SUMMARY] total_fragments=3
+[2026-03-17 16:28:45.134] [SUMMARY] sources_used=8
+[2026-03-17 16:28:45.134] [SUMMARY] compression=true
+[2026-03-17 16:28:45.135] [SUMMARY] total_time_ms=86887
+[2026-03-17 16:28:45.135] [SUMMARY] avg_speed_KB/s=58
+[2026-03-17 16:28:45.135] [SUMMARY] failed_fragments=0
+[2026-03-17 16:28:45.136] [SUMMARY] --- Per-source stats ---
+[2026-03-17 16:28:45.142] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=2097152 time_ms=86881 speed_KB/s=23
+[2026-03-17 16:28:45.143] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=2097152 time_ms=50661 speed_KB/s=40
+[2026-03-17 16:28:45.143] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2484 speed_KB/s=412
+[2026-03-17 16:28:45.143] [SUMMARY] ============================================
+[2026-03-17 16:28:45.144] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 16:41:14.301] [Download] === START === file=test-medium.bin fragment_size=131072 compression=false
+[2026-03-17 16:41:14.302] [Download] All sources from Directory:
+[2026-03-17 16:41:14.306] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:41:14.307] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 16:41:14.307] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 16:41:14.308] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:41:14.308] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:41:14.308] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:41:14.308] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:41:14.309] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:41:14.309] [Download] Using 8 source(s):
+[2026-03-17 16:41:14.310] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:41:14.310] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 16:41:14.310] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 16:41:14.311] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:41:14.312] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 16:41:14.312] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:41:14.312] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:41:14.313] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 16:41:15.053] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 16:41:15.062] [Download] Fragments: 40 x 128KB, sources: 8
+[2026-03-17 16:41:16.407] [FRAG] idx=3 offset=393216 len=131072 source=13.39.21.10:6000 time_ms=1321 speed_KB/s=96 progress=2%
+[2026-03-17 16:41:17.482] [FRAG] idx=5 offset=655360 len=131072 source=3.234.226.220:6003 time_ms=2410 speed_KB/s=53 progress=5%
+[2026-03-17 16:41:17.488] [FRAG] idx=6 offset=786432 len=131072 source=44.220.89.93:6002 time_ms=2417 speed_KB/s=52 progress=7%
+[2026-03-17 16:41:17.633] [FRAG] idx=8 offset=1048576 len=131072 source=13.39.21.10:6000 time_ms=1226 speed_KB/s=104 progress=10%
+[2026-03-17 16:41:18.527] [FRAG] idx=7 offset=917504 len=131072 source=13.220.244.217:6002 time_ms=3456 speed_KB/s=37 progress=12%
+[2026-03-17 16:41:18.798] [FRAG] idx=0 offset=0 len=131072 source=32.195.67.201:6001 time_ms=3730 speed_KB/s=34 progress=15%
+[2026-03-17 16:41:18.864] [FRAG] idx=11 offset=1441792 len=131072 source=13.39.21.10:6000 time_ms=1231 speed_KB/s=103 progress=17%
+[2026-03-17 16:41:19.845] [FRAG] idx=4 offset=524288 len=131072 source=44.192.106.49:6001 time_ms=4775 speed_KB/s=26 progress=20%
+[2026-03-17 16:41:20.029] [FRAG] idx=9 offset=1179648 len=131072 source=3.234.226.220:6003 time_ms=2547 speed_KB/s=50 progress=22%
+[2026-03-17 16:41:20.181] [FRAG] idx=14 offset=1835008 len=131072 source=13.39.21.10:6000 time_ms=1317 speed_KB/s=97 progress=25%
+[2026-03-17 16:41:20.275] [FRAG] idx=10 offset=1310720 len=131072 source=44.220.89.93:6002 time_ms=2786 speed_KB/s=45 progress=27%
+[2026-03-17 16:41:21.404] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=1223 speed_KB/s=104 progress=30%
+[2026-03-17 16:41:22.032] [FRAG] idx=12 offset=1572864 len=131072 source=13.220.244.217:6002 time_ms=3503 speed_KB/s=36 progress=32%
+[2026-03-17 16:41:22.627] [FRAG] idx=19 offset=2490368 len=131072 source=13.39.21.10:6000 time_ms=1223 speed_KB/s=104 progress=35%
+[2026-03-17 16:41:22.656] [FRAG] idx=16 offset=2097152 len=131072 source=3.234.226.220:6003 time_ms=2626 speed_KB/s=48 progress=37%
+[2026-03-17 16:41:22.980] [FRAG] idx=18 offset=2359296 len=131072 source=44.220.89.93:6002 time_ms=2704 speed_KB/s=47 progress=40%
+[2026-03-17 16:41:22.994] [FRAG] idx=13 offset=1703936 len=131072 source=32.195.67.201:6001 time_ms=4195 speed_KB/s=30 progress=42%
+[2026-03-17 16:41:23.936] [FRAG] idx=21 offset=2752512 len=131072 source=13.39.21.10:6000 time_ms=1308 speed_KB/s=97 progress=45%
+[2026-03-17 16:41:24.255] [FRAG] idx=15 offset=1966080 len=131072 source=44.192.106.49:6001 time_ms=4409 speed_KB/s=29 progress=47%
+[2026-03-17 16:41:25.171] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=1235 speed_KB/s=103 progress=50%
+[2026-03-17 16:41:25.289] [FRAG] idx=22 offset=2883584 len=131072 source=3.234.226.220:6003 time_ms=2633 speed_KB/s=48 progress=52%
+[2026-03-17 16:41:25.538] [FRAG] idx=20 offset=2621440 len=131072 source=13.220.244.217:6002 time_ms=3505 speed_KB/s=36 progress=55%
+[2026-03-17 16:41:25.612] [FRAG] idx=23 offset=3014656 len=131072 source=44.220.89.93:6002 time_ms=2631 speed_KB/s=48 progress=57%
+[2026-03-17 16:41:25.998] [FRAG] idx=1 offset=131072 len=131072 source=100.54.135.117:6005 time_ms=10929 speed_KB/s=11 progress=60%
+[2026-03-17 16:41:26.393] [FRAG] idx=27 offset=3538944 len=131072 source=13.39.21.10:6000 time_ms=1222 speed_KB/s=104 progress=62%
+[2026-03-17 16:41:27.081] [FRAG] idx=24 offset=3145728 len=131072 source=32.195.67.201:6001 time_ms=4086 speed_KB/s=31 progress=65%
+[2026-03-17 16:41:27.453] [FRAG] idx=2 offset=262144 len=131072 source=54.236.243.227:6004 time_ms=12383 speed_KB/s=10 progress=67%
+[2026-03-17 16:41:27.699] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=1306 speed_KB/s=98 progress=70%
+[2026-03-17 16:41:27.831] [FRAG] idx=28 offset=3670016 len=131072 source=3.234.226.220:6003 time_ms=2542 speed_KB/s=50 progress=72%
+[2026-03-17 16:41:28.200] [FRAG] idx=30 offset=3932160 len=131072 source=44.220.89.93:6002 time_ms=2587 speed_KB/s=49 progress=75%
+[2026-03-17 16:41:29.019] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=1320 speed_KB/s=96 progress=77%
+[2026-03-17 16:41:29.149] [FRAG] idx=26 offset=3407872 len=131072 source=44.192.106.49:6001 time_ms=4893 speed_KB/s=26 progress=80%
+[2026-03-17 16:41:29.192] [FRAG] idx=29 offset=3801088 len=131072 source=13.220.244.217:6002 time_ms=3654 speed_KB/s=35 progress=82%
+[2026-03-17 16:41:30.251] [FRAG] idx=38 offset=4980736 len=131072 source=13.39.21.10:6000 time_ms=1230 speed_KB/s=104 progress=85%
+[2026-03-17 16:41:30.393] [FRAG] idx=36 offset=4718592 len=131072 source=3.234.226.220:6003 time_ms=2561 speed_KB/s=49 progress=87%
+[2026-03-17 16:41:30.699] [FRAG] idx=37 offset=4849664 len=131072 source=44.220.89.93:6002 time_ms=2499 speed_KB/s=51 progress=90%
+[2026-03-17 16:41:31.158] [FRAG] idx=33 offset=4325376 len=131072 source=32.195.67.201:6001 time_ms=4077 speed_KB/s=31 progress=92%
+[2026-03-17 16:41:34.047] [FRAG] idx=39 offset=5111808 len=131072 source=44.192.106.49:6001 time_ms=4898 speed_KB/s=26 progress=95%
+[2026-03-17 16:41:36.165] [FRAG] idx=31 offset=4063232 len=131072 source=100.54.135.117:6005 time_ms=10167 speed_KB/s=12 progress=97%
+[2026-03-17 16:41:39.536] [FRAG] idx=34 offset=4456448 len=131072 source=54.236.243.227:6004 time_ms=12082 speed_KB/s=10 progress=100%
+[2026-03-17 16:41:39.536] [SUMMARY] ============================================
+[2026-03-17 16:41:39.536] [SUMMARY] file=test-medium.bin
+[2026-03-17 16:41:39.538] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 16:41:39.541] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 16:41:39.541] [SUMMARY] total_fragments=40
+[2026-03-17 16:41:39.542] [SUMMARY] sources_used=8
+[2026-03-17 16:41:39.542] [SUMMARY] compression=false
+[2026-03-17 16:41:39.542] [SUMMARY] total_time_ms=24471
+[2026-03-17 16:41:39.543] [SUMMARY] avg_speed_KB/s=209
+[2026-03-17 16:41:39.543] [SUMMARY] failed_fragments=0
+[2026-03-17 16:41:39.543] [SUMMARY] --- Per-source stats ---
+[2026-03-17 16:41:39.549] [SUMMARY] source=32.195.67.201:6001 fragments=4 bytes=524288 time_ms=16088 speed_KB/s=31
+[2026-03-17 16:41:39.550] [SUMMARY] source=100.54.135.117:6005 fragments=2 bytes=262144 time_ms=21096 speed_KB/s=12
+[2026-03-17 16:41:39.550] [SUMMARY] source=54.236.243.227:6004 fragments=2 bytes=262144 time_ms=24465 speed_KB/s=10
+[2026-03-17 16:41:39.550] [SUMMARY] source=44.192.106.49:6001 fragments=4 bytes=524288 time_ms=18975 speed_KB/s=26
+[2026-03-17 16:41:39.551] [SUMMARY] source=13.39.21.10:6000 fragments=12 bytes=1572864 time_ms=15162 speed_KB/s=101
+[2026-03-17 16:41:39.551] [SUMMARY] source=3.234.226.220:6003 fragments=6 bytes=786432 time_ms=15319 speed_KB/s=50
+[2026-03-17 16:41:39.551] [SUMMARY] source=44.220.89.93:6002 fragments=6 bytes=786432 time_ms=15624 speed_KB/s=49
+[2026-03-17 16:41:39.551] [SUMMARY] source=13.220.244.217:6002 fragments=4 bytes=524288 time_ms=14118 speed_KB/s=36
+[2026-03-17 16:41:39.551] [SUMMARY] ============================================
+[2026-03-17 16:41:39.552] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 16:55:14.717] [Download] === START === file=test-medium.bin fragment_size=262144 compression=false
+[2026-03-17 16:55:14.718] [Download] All sources from Directory:
+[2026-03-17 16:55:14.722] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:55:14.723] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:55:14.723] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:55:14.724] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:55:14.724] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:55:14.725] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:55:14.725] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 16:55:14.725] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 16:55:14.726] [Download] Using 8 source(s):
+[2026-03-17 16:55:14.728] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 16:55:14.728] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 16:55:14.729] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 16:55:14.729] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 16:55:14.729] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 16:55:14.730] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 16:55:14.730] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 16:55:14.730] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 16:55:15.839] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 16:55:15.847] [Download] Fragments: 20 x 256KB, sources: 8
+[2026-03-17 16:55:17.324] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=1455 speed_KB/s=175 progress=5%
+[2026-03-17 16:55:18.777] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1451 speed_KB/s=176 progress=10%
+[2026-03-17 16:55:20.244] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1466 speed_KB/s=174 progress=15%
+[2026-03-17 16:55:20.582] [FRAG] idx=2 offset=524288 len=262144 source=3.234.226.220:6003 time_ms=4728 speed_KB/s=54 progress=20%
+[2026-03-17 16:55:20.668] [FRAG] idx=3 offset=786432 len=262144 source=44.220.89.93:6002 time_ms=4812 speed_KB/s=53 progress=25%
+[2026-03-17 16:55:21.702] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=1458 speed_KB/s=175 progress=30%
+[2026-03-17 16:55:22.443] [FRAG] idx=7 offset=1835008 len=262144 source=13.220.244.217:6002 time_ms=6586 speed_KB/s=38 progress=35%
+[2026-03-17 16:55:23.249] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=40%
+[2026-03-17 16:55:23.699] [FRAG] idx=0 offset=0 len=262144 source=32.195.67.201:6001 time_ms=7847 speed_KB/s=32 progress=45%
+[2026-03-17 16:55:24.704] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=1455 speed_KB/s=175 progress=50%
+[2026-03-17 16:55:25.287] [FRAG] idx=11 offset=2883584 len=262144 source=3.234.226.220:6003 time_ms=4704 speed_KB/s=54 progress=55%
+[2026-03-17 16:55:25.542] [FRAG] idx=12 offset=3145728 len=262144 source=44.220.89.93:6002 time_ms=4873 speed_KB/s=52 progress=60%
+[2026-03-17 16:55:25.595] [FRAG] idx=1 offset=262144 len=262144 source=44.192.106.49:6001 time_ms=9741 speed_KB/s=26 progress=65%
+[2026-03-17 16:55:26.241] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=1537 speed_KB/s=166 progress=70%
+[2026-03-17 16:55:29.433] [FRAG] idx=14 offset=3670016 len=262144 source=13.220.244.217:6002 time_ms=6989 speed_KB/s=36 progress=75%
+[2026-03-17 16:55:29.999] [FRAG] idx=18 offset=4718592 len=262144 source=3.234.226.220:6003 time_ms=4712 speed_KB/s=54 progress=80%
+[2026-03-17 16:55:30.317] [FRAG] idx=19 offset=4980736 len=262144 source=44.220.89.93:6002 time_ms=4774 speed_KB/s=53 progress=85%
+[2026-03-17 16:55:31.441] [FRAG] idx=16 offset=4194304 len=262144 source=32.195.67.201:6001 time_ms=7740 speed_KB/s=33 progress=90%
+[2026-03-17 16:55:37.772] [FRAG] idx=4 offset=1048576 len=262144 source=100.54.135.117:6005 time_ms=21916 speed_KB/s=11 progress=95%
+[2026-03-17 16:55:40.130] [FRAG] idx=5 offset=1310720 len=262144 source=54.236.243.227:6004 time_ms=24273 speed_KB/s=10 progress=100%
+[2026-03-17 16:55:40.130] [SUMMARY] ============================================
+[2026-03-17 16:55:40.131] [SUMMARY] file=test-medium.bin
+[2026-03-17 16:55:40.133] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 16:55:40.135] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 16:55:40.136] [SUMMARY] total_fragments=20
+[2026-03-17 16:55:40.136] [SUMMARY] sources_used=8
+[2026-03-17 16:55:40.137] [SUMMARY] compression=false
+[2026-03-17 16:55:40.137] [SUMMARY] total_time_ms=24281
+[2026-03-17 16:55:40.137] [SUMMARY] avg_speed_KB/s=210
+[2026-03-17 16:55:40.140] [SUMMARY] failed_fragments=0
+[2026-03-17 16:55:40.140] [SUMMARY] --- Per-source stats ---
+[2026-03-17 16:55:40.146] [SUMMARY] source=32.195.67.201:6001 fragments=2 bytes=524288 time_ms=15587 speed_KB/s=32
+[2026-03-17 16:55:40.147] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=262144 time_ms=21916 speed_KB/s=11
+[2026-03-17 16:55:40.147] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=262144 time_ms=24273 speed_KB/s=10
+[2026-03-17 16:55:40.148] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=262144 time_ms=9741 speed_KB/s=26
+[2026-03-17 16:55:40.148] [SUMMARY] source=13.39.21.10:6000 fragments=7 bytes=1835008 time_ms=10369 speed_KB/s=172
+[2026-03-17 16:55:40.148] [SUMMARY] source=3.234.226.220:6003 fragments=3 bytes=786432 time_ms=14144 speed_KB/s=54
+[2026-03-17 16:55:40.149] [SUMMARY] source=44.220.89.93:6002 fragments=3 bytes=786432 time_ms=14459 speed_KB/s=53
+[2026-03-17 16:55:40.149] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=524288 time_ms=13575 speed_KB/s=37
+[2026-03-17 16:55:40.149] [SUMMARY] ============================================
+[2026-03-17 16:55:40.150] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:06:31.119] [Download] === START === file=test-medium.bin fragment_size=524288 compression=false
+[2026-03-17 17:06:31.121] [Download] All sources from Directory:
+[2026-03-17 17:06:31.124] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 17:06:31.125] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:06:31.125] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:06:31.126] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:06:31.126] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 17:06:31.126] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 17:06:31.127] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:06:31.127] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:06:31.127] [Download] Using 8 source(s):
+[2026-03-17 17:06:31.128] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 17:06:31.128] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:06:31.128] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:06:31.129] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:06:31.129] [Download]   100.54.135.117:6005 [load=1]
+[2026-03-17 17:06:31.130] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 17:06:31.130] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:06:31.130] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:06:31.866] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:06:31.872] [Download] Fragments: 10 x 512KB, sources: 8
+[2026-03-17 17:06:33.896] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2006 speed_KB/s=255 progress=10%
+[2026-03-17 17:06:35.672] [FRAG] idx=8 offset=4194304 len=524288 source=13.39.21.10:6000 time_ms=1775 speed_KB/s=288 progress=20%
+[2026-03-17 17:06:37.607] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1934 speed_KB/s=264 progress=30%
+[2026-03-17 17:06:40.808] [FRAG] idx=2 offset=1048576 len=524288 source=3.234.226.220:6003 time_ms=8928 speed_KB/s=57 progress=40%
+[2026-03-17 17:06:41.296] [FRAG] idx=3 offset=1572864 len=524288 source=44.220.89.93:6002 time_ms=9416 speed_KB/s=54 progress=50%
+[2026-03-17 17:06:45.526] [FRAG] idx=7 offset=3670016 len=524288 source=13.220.244.217:6002 time_ms=13646 speed_KB/s=37 progress=60%
+[2026-03-17 17:06:47.429] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=15550 speed_KB/s=32 progress=70%
+[2026-03-17 17:06:50.874] [FRAG] idx=6 offset=3145728 len=524288 source=44.192.106.49:6001 time_ms=18993 speed_KB/s=26 progress=80%
+[2026-03-17 17:07:20.045] [FRAG] idx=5 offset=2621440 len=524288 source=54.236.243.227:6004 time_ms=48164 speed_KB/s=10 progress=90%
+[2026-03-17 17:07:37.460] [FRAG] idx=4 offset=2097152 len=524288 source=100.54.135.117:6005 time_ms=65580 speed_KB/s=7 progress=100%
+[2026-03-17 17:07:37.460] [SUMMARY] ============================================
+[2026-03-17 17:07:37.461] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:07:37.463] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:07:37.466] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 17:07:37.467] [SUMMARY] total_fragments=10
+[2026-03-17 17:07:37.467] [SUMMARY] sources_used=8
+[2026-03-17 17:07:37.468] [SUMMARY] compression=false
+[2026-03-17 17:07:37.468] [SUMMARY] total_time_ms=65586
+[2026-03-17 17:07:37.469] [SUMMARY] avg_speed_KB/s=78
+[2026-03-17 17:07:37.469] [SUMMARY] failed_fragments=0
+[2026-03-17 17:07:37.470] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:07:37.477] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=524288 time_ms=15550 speed_KB/s=32
+[2026-03-17 17:07:37.478] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=524288 time_ms=65580 speed_KB/s=7
+[2026-03-17 17:07:37.478] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=524288 time_ms=48164 speed_KB/s=10
+[2026-03-17 17:07:37.478] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=18993 speed_KB/s=26
+[2026-03-17 17:07:37.478] [SUMMARY] source=13.39.21.10:6000 fragments=3 bytes=1572864 time_ms=5715 speed_KB/s=268
+[2026-03-17 17:07:37.480] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=524288 time_ms=8928 speed_KB/s=57
+[2026-03-17 17:07:37.480] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=524288 time_ms=9416 speed_KB/s=54
+[2026-03-17 17:07:37.481] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=13646 speed_KB/s=37
+[2026-03-17 17:07:37.483] [SUMMARY] ============================================
+[2026-03-17 17:07:37.483] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:17:08.862] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=false
+[2026-03-17 17:17:08.863] [Download] All sources from Directory:
+[2026-03-17 17:17:08.871] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 17:17:08.871] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 17:17:08.872] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 17:17:08.872] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:17:08.872] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:17:08.873] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:17:08.873] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:17:08.873] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:17:08.874] [Download] Using 8 source(s):
+[2026-03-17 17:17:08.875] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 17:17:08.876] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 17:17:08.876] [Download]   54.236.243.227:6004 [load=1]
+[2026-03-17 17:17:08.876] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:17:08.877] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:17:08.878] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:17:08.878] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:17:08.878] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:17:09.899] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:17:09.909] [Download] Fragments: 5 x 1024KB, sources: 8
+[2026-03-17 17:17:12.308] [FRAG] idx=4 offset=4194304 len=1048576 source=13.39.21.10:6000 time_ms=2379 speed_KB/s=430 progress=20%
+[2026-03-17 17:17:39.531] [FRAG] idx=1 offset=1048576 len=1048576 source=32.195.67.201:6001 time_ms=29617 speed_KB/s=34 progress=40%
+[2026-03-17 17:17:48.818] [FRAG] idx=3 offset=3145728 len=1048576 source=44.192.106.49:6001 time_ms=38903 speed_KB/s=26 progress=60%
+[2026-03-17 17:18:36.406] [FRAG] idx=0 offset=0 len=1048576 source=100.54.135.117:6005 time_ms=86492 speed_KB/s=11 progress=80%
+[2026-03-17 17:18:45.838] [FRAG] idx=2 offset=2097152 len=1048576 source=54.236.243.227:6004 time_ms=95923 speed_KB/s=10 progress=100%
+[2026-03-17 17:18:45.838] [SUMMARY] ============================================
+[2026-03-17 17:18:45.839] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:18:45.841] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:18:45.844] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 17:18:45.846] [SUMMARY] total_fragments=5
+[2026-03-17 17:18:45.846] [SUMMARY] sources_used=8
+[2026-03-17 17:18:45.847] [SUMMARY] compression=false
+[2026-03-17 17:18:45.847] [SUMMARY] total_time_ms=95928
+[2026-03-17 17:18:45.848] [SUMMARY] avg_speed_KB/s=53
+[2026-03-17 17:18:45.848] [SUMMARY] failed_fragments=0
+[2026-03-17 17:18:45.848] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:18:45.855] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1048576 time_ms=29617 speed_KB/s=34
+[2026-03-17 17:18:45.855] [SUMMARY] source=100.54.135.117:6005 fragments=1 bytes=1048576 time_ms=86492 speed_KB/s=11
+[2026-03-17 17:18:45.856] [SUMMARY] source=54.236.243.227:6004 fragments=1 bytes=1048576 time_ms=95923 speed_KB/s=10
+[2026-03-17 17:18:45.856] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=38903 speed_KB/s=26
+[2026-03-17 17:18:45.856] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2379 speed_KB/s=430
+[2026-03-17 17:18:45.857] [SUMMARY] ============================================
+[2026-03-17 17:18:45.857] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:27:22.518] [Download] === START === file=test-medium.bin fragment_size=2097152 compression=false
+[2026-03-17 17:27:22.519] [Download] All sources from Directory:
+[2026-03-17 17:27:22.522] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 17:27:22.523] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 17:27:22.523] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 17:27:22.523] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:27:22.524] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:27:22.524] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:27:22.524] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:27:22.525] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:27:22.525] [Download] Using 8 source(s):
+[2026-03-17 17:27:22.526] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 17:27:22.526] [Download]   100.54.135.117:6005 [load=0]
+[2026-03-17 17:27:22.526] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 17:27:22.527] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:27:22.527] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:27:22.527] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:27:22.528] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:27:22.528] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:27:23.003] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:27:23.011] [Download] Fragments: 3 x 2048KB, sources: 8
+[2026-03-17 17:29:25.143] [Download] === START === file=test-medium.bin fragment_size=131072 compression=true
+[2026-03-17 17:29:25.145] [Download] All sources from Directory:
+[2026-03-17 17:29:25.149] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 17:29:25.149] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:29:25.150] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:29:25.150] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:29:25.150] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:29:25.150] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:29:25.151] [Download] Using 6 source(s):
+[2026-03-17 17:29:25.151] [Download]   54.236.243.227:6004 [load=0]
+[2026-03-17 17:29:25.151] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:29:25.152] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:29:25.152] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:29:25.152] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:29:25.153] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:29:25.639] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:29:25.644] [Download] Fragments: 40 x 128KB, sources: 6
+[2026-03-17 17:29:26.990] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=1322 speed_KB/s=96 progress=2%
+[2026-03-17 17:29:27.111] [FRAG] idx=3 offset=393216 len=131072 source=3.234.226.220:6003 time_ms=1459 speed_KB/s=87 progress=5%
+[2026-03-17 17:29:27.128] [FRAG] idx=5 offset=655360 len=131072 source=44.220.89.93:6002 time_ms=1476 speed_KB/s=86 progress=7%
+[2026-03-17 17:29:27.621] [FRAG] idx=4 offset=524288 len=131072 source=13.220.244.217:6002 time_ms=1970 speed_KB/s=64 progress=10%
+[2026-03-17 17:29:28.307] [FRAG] idx=6 offset=786432 len=131072 source=13.39.21.10:6000 time_ms=1316 speed_KB/s=97 progress=12%
+[2026-03-17 17:29:28.338] [FRAG] idx=2 offset=262144 len=131072 source=44.192.106.49:6001 time_ms=2688 speed_KB/s=47 progress=15%
+[2026-03-17 17:29:28.565] [FRAG] idx=7 offset=917504 len=131072 source=3.234.226.220:6003 time_ms=1454 speed_KB/s=88 progress=17%
+[2026-03-17 17:29:28.597] [FRAG] idx=8 offset=1048576 len=131072 source=44.220.89.93:6002 time_ms=1469 speed_KB/s=87 progress=20%
+[2026-03-17 17:29:29.589] [FRAG] idx=9 offset=1179648 len=131072 source=13.220.244.217:6002 time_ms=1967 speed_KB/s=65 progress=22%
+[2026-03-17 17:29:29.617] [FRAG] idx=10 offset=1310720 len=131072 source=13.39.21.10:6000 time_ms=1310 speed_KB/s=97 progress=25%
+[2026-03-17 17:29:30.030] [FRAG] idx=12 offset=1572864 len=131072 source=3.234.226.220:6003 time_ms=1465 speed_KB/s=87 progress=27%
+[2026-03-17 17:29:30.065] [FRAG] idx=13 offset=1703936 len=131072 source=44.220.89.93:6002 time_ms=1467 speed_KB/s=87 progress=30%
+[2026-03-17 17:29:30.931] [FRAG] idx=15 offset=1966080 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=32%
+[2026-03-17 17:29:31.041] [FRAG] idx=11 offset=1441792 len=131072 source=44.192.106.49:6001 time_ms=2702 speed_KB/s=47 progress=35%
+[2026-03-17 17:29:31.482] [FRAG] idx=16 offset=2097152 len=131072 source=3.234.226.220:6003 time_ms=1452 speed_KB/s=88 progress=37%
+[2026-03-17 17:29:31.521] [FRAG] idx=17 offset=2228224 len=131072 source=44.220.89.93:6002 time_ms=1456 speed_KB/s=87 progress=40%
+[2026-03-17 17:29:31.558] [FRAG] idx=14 offset=1835008 len=131072 source=13.220.244.217:6002 time_ms=1969 speed_KB/s=65 progress=42%
+[2026-03-17 17:29:31.864] [FRAG] idx=0 offset=0 len=131072 source=54.236.243.227:6004 time_ms=6215 speed_KB/s=20 progress=45%
+[2026-03-17 17:29:32.249] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=1318 speed_KB/s=97 progress=47%
+[2026-03-17 17:29:32.933] [FRAG] idx=20 offset=2621440 len=131072 source=3.234.226.220:6003 time_ms=1451 speed_KB/s=88 progress=50%
+[2026-03-17 17:29:32.999] [FRAG] idx=21 offset=2752512 len=131072 source=44.220.89.93:6002 time_ms=1477 speed_KB/s=86 progress=52%
+[2026-03-17 17:29:33.525] [FRAG] idx=22 offset=2883584 len=131072 source=13.220.244.217:6002 time_ms=1966 speed_KB/s=65 progress=55%
+[2026-03-17 17:29:33.563] [FRAG] idx=24 offset=3145728 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=57%
+[2026-03-17 17:29:33.736] [FRAG] idx=19 offset=2490368 len=131072 source=44.192.106.49:6001 time_ms=2694 speed_KB/s=47 progress=60%
+[2026-03-17 17:29:34.396] [FRAG] idx=25 offset=3276800 len=131072 source=3.234.226.220:6003 time_ms=1462 speed_KB/s=87 progress=62%
+[2026-03-17 17:29:34.476] [FRAG] idx=26 offset=3407872 len=131072 source=44.220.89.93:6002 time_ms=1476 speed_KB/s=86 progress=65%
+[2026-03-17 17:29:34.877] [FRAG] idx=28 offset=3670016 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=67%
+[2026-03-17 17:29:35.497] [FRAG] idx=27 offset=3538944 len=131072 source=13.220.244.217:6002 time_ms=1971 speed_KB/s=64 progress=70%
+[2026-03-17 17:29:35.851] [FRAG] idx=30 offset=3932160 len=131072 source=3.234.226.220:6003 time_ms=1455 speed_KB/s=87 progress=72%
+[2026-03-17 17:29:35.950] [FRAG] idx=31 offset=4063232 len=131072 source=44.220.89.93:6002 time_ms=1473 speed_KB/s=86 progress=75%
+[2026-03-17 17:29:36.181] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=1304 speed_KB/s=98 progress=77%
+[2026-03-17 17:29:36.432] [FRAG] idx=29 offset=3801088 len=131072 source=44.192.106.49:6001 time_ms=2695 speed_KB/s=47 progress=80%
+[2026-03-17 17:29:37.302] [FRAG] idx=34 offset=4456448 len=131072 source=3.234.226.220:6003 time_ms=1451 speed_KB/s=88 progress=82%
+[2026-03-17 17:29:37.420] [FRAG] idx=35 offset=4587520 len=131072 source=44.220.89.93:6002 time_ms=1470 speed_KB/s=87 progress=85%
+[2026-03-17 17:29:37.467] [FRAG] idx=33 offset=4325376 len=131072 source=13.220.244.217:6002 time_ms=1969 speed_KB/s=65 progress=87%
+[2026-03-17 17:29:37.489] [FRAG] idx=36 offset=4718592 len=131072 source=13.39.21.10:6000 time_ms=1308 speed_KB/s=97 progress=90%
+[2026-03-17 17:29:38.054] [FRAG] idx=23 offset=3014656 len=131072 source=54.236.243.227:6004 time_ms=6190 speed_KB/s=20 progress=92%
+[2026-03-17 17:29:38.766] [FRAG] idx=38 offset=4980736 len=131072 source=3.234.226.220:6003 time_ms=1464 speed_KB/s=87 progress=95%
+[2026-03-17 17:29:38.897] [FRAG] idx=39 offset=5111808 len=131072 source=44.220.89.93:6002 time_ms=1476 speed_KB/s=86 progress=97%
+[2026-03-17 17:29:39.120] [FRAG] idx=37 offset=4849664 len=131072 source=44.192.106.49:6001 time_ms=2688 speed_KB/s=47 progress=100%
+[2026-03-17 17:29:39.121] [SUMMARY] ============================================
+[2026-03-17 17:29:39.121] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:29:39.122] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:29:39.125] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 17:29:39.125] [SUMMARY] total_fragments=40
+[2026-03-17 17:29:39.126] [SUMMARY] sources_used=6
+[2026-03-17 17:29:39.126] [SUMMARY] compression=true
+[2026-03-17 17:29:39.126] [SUMMARY] total_time_ms=13474
+[2026-03-17 17:29:39.127] [SUMMARY] avg_speed_KB/s=379
+[2026-03-17 17:29:39.127] [SUMMARY] failed_fragments=0
+[2026-03-17 17:29:39.127] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:29:39.138] [SUMMARY] source=54.236.243.227:6004 fragments=2 bytes=262144 time_ms=12405 speed_KB/s=20
+[2026-03-17 17:29:39.138] [SUMMARY] source=44.192.106.49:6001 fragments=5 bytes=655360 time_ms=13467 speed_KB/s=47
+[2026-03-17 17:29:39.139] [SUMMARY] source=13.39.21.10:6000 fragments=9 bytes=1179648 time_ms=11820 speed_KB/s=97
+[2026-03-17 17:29:39.141] [SUMMARY] source=3.234.226.220:6003 fragments=9 bytes=1179648 time_ms=13113 speed_KB/s=87
+[2026-03-17 17:29:39.141] [SUMMARY] source=44.220.89.93:6002 fragments=9 bytes=1179648 time_ms=13240 speed_KB/s=87
+[2026-03-17 17:29:39.141] [SUMMARY] source=13.220.244.217:6002 fragments=6 bytes=786432 time_ms=11812 speed_KB/s=65
+[2026-03-17 17:29:39.141] [SUMMARY] ============================================
+[2026-03-17 17:29:39.142] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:29:54.990] [Download] === START === file=test-medium.bin fragment_size=131072 compression=true
+[2026-03-17 17:29:54.992] [Download] All sources from Directory:
+[2026-03-17 17:29:54.996] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:29:54.996] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:29:54.997] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:29:54.997] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:29:54.997] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:29:54.998] [Download] Using 5 source(s):
+[2026-03-17 17:29:54.999] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:29:54.999] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:29:54.999] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:29:55.000] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:29:55.000] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:29:55.487] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:29:55.492] [Download] Fragments: 40 x 128KB, sources: 5
+[2026-03-17 17:29:56.833] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=1323 speed_KB/s=96 progress=2%
+[2026-03-17 17:29:56.954] [FRAG] idx=2 offset=262144 len=131072 source=3.234.226.220:6003 time_ms=1454 speed_KB/s=88 progress=5%
+[2026-03-17 17:29:56.965] [FRAG] idx=3 offset=393216 len=131072 source=44.220.89.93:6002 time_ms=1466 speed_KB/s=87 progress=7%
+[2026-03-17 17:29:57.469] [FRAG] idx=4 offset=524288 len=131072 source=13.220.244.217:6002 time_ms=1969 speed_KB/s=65 progress=10%
+[2026-03-17 17:29:58.148] [FRAG] idx=5 offset=655360 len=131072 source=13.39.21.10:6000 time_ms=1314 speed_KB/s=97 progress=12%
+[2026-03-17 17:29:58.184] [FRAG] idx=0 offset=0 len=131072 source=44.192.106.49:6001 time_ms=2686 speed_KB/s=47 progress=15%
+[2026-03-17 17:29:58.416] [FRAG] idx=6 offset=786432 len=131072 source=3.234.226.220:6003 time_ms=1461 speed_KB/s=87 progress=17%
+[2026-03-17 17:29:58.432] [FRAG] idx=7 offset=917504 len=131072 source=44.220.89.93:6002 time_ms=1466 speed_KB/s=87 progress=20%
+[2026-03-17 17:29:59.441] [FRAG] idx=8 offset=1048576 len=131072 source=13.220.244.217:6002 time_ms=1971 speed_KB/s=64 progress=22%
+[2026-03-17 17:29:59.468] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=1319 speed_KB/s=97 progress=25%
+[2026-03-17 17:29:59.873] [FRAG] idx=11 offset=1441792 len=131072 source=3.234.226.220:6003 time_ms=1457 speed_KB/s=87 progress=27%
+[2026-03-17 17:29:59.901] [FRAG] idx=12 offset=1572864 len=131072 source=44.220.89.93:6002 time_ms=1468 speed_KB/s=87 progress=30%
+[2026-03-17 17:30:00.782] [FRAG] idx=14 offset=1835008 len=131072 source=13.39.21.10:6000 time_ms=1313 speed_KB/s=97 progress=32%
+[2026-03-17 17:30:00.877] [FRAG] idx=10 offset=1310720 len=131072 source=44.192.106.49:6001 time_ms=2693 speed_KB/s=47 progress=35%
+[2026-03-17 17:30:01.326] [FRAG] idx=15 offset=1966080 len=131072 source=3.234.226.220:6003 time_ms=1452 speed_KB/s=88 progress=37%
+[2026-03-17 17:30:01.369] [FRAG] idx=16 offset=2097152 len=131072 source=44.220.89.93:6002 time_ms=1468 speed_KB/s=87 progress=40%
+[2026-03-17 17:30:01.405] [FRAG] idx=13 offset=1703936 len=131072 source=13.220.244.217:6002 time_ms=1963 speed_KB/s=65 progress=42%
+[2026-03-17 17:30:02.111] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=1328 speed_KB/s=96 progress=45%
+[2026-03-17 17:30:02.787] [FRAG] idx=19 offset=2490368 len=131072 source=3.234.226.220:6003 time_ms=1461 speed_KB/s=87 progress=47%
+[2026-03-17 17:30:02.844] [FRAG] idx=20 offset=2621440 len=131072 source=44.220.89.93:6002 time_ms=1474 speed_KB/s=86 progress=50%
+[2026-03-17 17:30:03.382] [FRAG] idx=21 offset=2752512 len=131072 source=13.220.244.217:6002 time_ms=1976 speed_KB/s=64 progress=52%
+[2026-03-17 17:30:03.439] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=1328 speed_KB/s=96 progress=55%
+[2026-03-17 17:30:03.695] [FRAG] idx=18 offset=2359296 len=131072 source=44.192.106.49:6001 time_ms=2818 speed_KB/s=45 progress=57%
+[2026-03-17 17:30:04.261] [FRAG] idx=23 offset=3014656 len=131072 source=3.234.226.220:6003 time_ms=1473 speed_KB/s=86 progress=60%
+[2026-03-17 17:30:04.324] [FRAG] idx=24 offset=3145728 len=131072 source=44.220.89.93:6002 time_ms=1480 speed_KB/s=86 progress=62%
+[2026-03-17 17:30:04.760] [FRAG] idx=26 offset=3407872 len=131072 source=13.39.21.10:6000 time_ms=1319 speed_KB/s=97 progress=65%
+[2026-03-17 17:30:05.351] [FRAG] idx=25 offset=3276800 len=131072 source=13.220.244.217:6002 time_ms=1969 speed_KB/s=65 progress=67%
+[2026-03-17 17:30:05.729] [FRAG] idx=28 offset=3670016 len=131072 source=3.234.226.220:6003 time_ms=1467 speed_KB/s=87 progress=70%
+[2026-03-17 17:30:05.799] [FRAG] idx=29 offset=3801088 len=131072 source=44.220.89.93:6002 time_ms=1475 speed_KB/s=86 progress=72%
+[2026-03-17 17:30:06.083] [FRAG] idx=30 offset=3932160 len=131072 source=13.39.21.10:6000 time_ms=1323 speed_KB/s=96 progress=75%
+[2026-03-17 17:30:06.631] [FRAG] idx=27 offset=3538944 len=131072 source=44.192.106.49:6001 time_ms=2935 speed_KB/s=43 progress=77%
+[2026-03-17 17:30:07.178] [FRAG] idx=32 offset=4194304 len=131072 source=3.234.226.220:6003 time_ms=1448 speed_KB/s=88 progress=80%
+[2026-03-17 17:30:07.272] [FRAG] idx=33 offset=4325376 len=131072 source=44.220.89.93:6002 time_ms=1473 speed_KB/s=86 progress=82%
+[2026-03-17 17:30:07.318] [FRAG] idx=31 offset=4063232 len=131072 source=13.220.244.217:6002 time_ms=1967 speed_KB/s=65 progress=85%
+[2026-03-17 17:30:07.396] [FRAG] idx=34 offset=4456448 len=131072 source=13.39.21.10:6000 time_ms=1313 speed_KB/s=97 progress=87%
+[2026-03-17 17:30:08.638] [FRAG] idx=36 offset=4718592 len=131072 source=3.234.226.220:6003 time_ms=1460 speed_KB/s=87 progress=90%
+[2026-03-17 17:30:08.706] [FRAG] idx=39 offset=5111808 len=131072 source=13.39.21.10:6000 time_ms=1310 speed_KB/s=97 progress=92%
+[2026-03-17 17:30:08.732] [FRAG] idx=37 offset=4849664 len=131072 source=44.220.89.93:6002 time_ms=1460 speed_KB/s=87 progress=95%
+[2026-03-17 17:30:09.286] [FRAG] idx=38 offset=4980736 len=131072 source=13.220.244.217:6002 time_ms=1967 speed_KB/s=65 progress=97%
+[2026-03-17 17:30:09.680] [FRAG] idx=35 offset=4587520 len=131072 source=44.192.106.49:6001 time_ms=3048 speed_KB/s=41 progress=100%
+[2026-03-17 17:30:09.680] [SUMMARY] ============================================
+[2026-03-17 17:30:09.680] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:30:09.683] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:30:09.685] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 17:30:09.685] [SUMMARY] total_fragments=40
+[2026-03-17 17:30:09.686] [SUMMARY] sources_used=5
+[2026-03-17 17:30:09.686] [SUMMARY] compression=true
+[2026-03-17 17:30:09.687] [SUMMARY] total_time_ms=14187
+[2026-03-17 17:30:09.687] [SUMMARY] avg_speed_KB/s=360
+[2026-03-17 17:30:09.687] [SUMMARY] failed_fragments=0
+[2026-03-17 17:30:09.688] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:30:09.701] [SUMMARY] source=44.192.106.49:6001 fragments=5 bytes=655360 time_ms=14180 speed_KB/s=45
+[2026-03-17 17:30:09.702] [SUMMARY] source=13.39.21.10:6000 fragments=10 bytes=1310720 time_ms=13190 speed_KB/s=97
+[2026-03-17 17:30:09.704] [SUMMARY] source=3.234.226.220:6003 fragments=9 bytes=1179648 time_ms=13133 speed_KB/s=87
+[2026-03-17 17:30:09.704] [SUMMARY] source=44.220.89.93:6002 fragments=9 bytes=1179648 time_ms=13230 speed_KB/s=87
+[2026-03-17 17:30:09.704] [SUMMARY] source=13.220.244.217:6002 fragments=7 bytes=917504 time_ms=13782 speed_KB/s=65
+[2026-03-17 17:30:09.704] [SUMMARY] ============================================
+[2026-03-17 17:30:09.705] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:30:15.059] [Download] === START === file=test-medium.bin fragment_size=262144 compression=true
+[2026-03-17 17:30:15.061] [Download] All sources from Directory:
+[2026-03-17 17:30:15.065] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:15.065] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:15.065] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:15.066] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:15.066] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:15.067] [Download] Using 5 source(s):
+[2026-03-17 17:30:15.067] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:15.068] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:15.068] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:15.068] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:15.069] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:15.556] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:30:15.562] [Download] Fragments: 20 x 256KB, sources: 5
+[2026-03-17 17:30:17.132] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=5%
+[2026-03-17 17:30:18.134] [FRAG] idx=2 offset=524288 len=262144 source=3.234.226.220:6003 time_ms=2566 speed_KB/s=99 progress=10%
+[2026-03-17 17:30:18.171] [FRAG] idx=3 offset=786432 len=262144 source=44.220.89.93:6002 time_ms=2602 speed_KB/s=98 progress=15%
+[2026-03-17 17:30:18.684] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=20%
+[2026-03-17 17:30:19.236] [FRAG] idx=4 offset=1048576 len=262144 source=13.220.244.217:6002 time_ms=3667 speed_KB/s=69 progress=25%
+[2026-03-17 17:30:20.235] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=30%
+[2026-03-17 17:30:20.722] [FRAG] idx=6 offset=1572864 len=262144 source=3.234.226.220:6003 time_ms=2587 speed_KB/s=98 progress=35%
+[2026-03-17 17:30:20.769] [FRAG] idx=7 offset=1835008 len=262144 source=44.220.89.93:6002 time_ms=2597 speed_KB/s=98 progress=40%
+[2026-03-17 17:30:21.262] [FRAG] idx=0 offset=0 len=262144 source=44.192.106.49:6001 time_ms=5694 speed_KB/s=44 progress=45%
+[2026-03-17 17:30:21.786] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=50%
+[2026-03-17 17:30:22.900] [FRAG] idx=9 offset=2359296 len=262144 source=13.220.244.217:6002 time_ms=3663 speed_KB/s=69 progress=55%
+[2026-03-17 17:30:23.302] [FRAG] idx=11 offset=2883584 len=262144 source=3.234.226.220:6003 time_ms=2579 speed_KB/s=99 progress=60%
+[2026-03-17 17:30:23.338] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=65%
+[2026-03-17 17:30:23.377] [FRAG] idx=12 offset=3145728 len=262144 source=44.220.89.93:6002 time_ms=2608 speed_KB/s=98 progress=70%
+[2026-03-17 17:30:24.883] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=1545 speed_KB/s=165 progress=75%
+[2026-03-17 17:30:26.364] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=1480 speed_KB/s=172 progress=80%
+[2026-03-17 17:30:26.490] [FRAG] idx=16 offset=4194304 len=262144 source=3.234.226.220:6003 time_ms=3188 speed_KB/s=80 progress=85%
+[2026-03-17 17:30:26.663] [FRAG] idx=18 offset=4718592 len=262144 source=44.220.89.93:6002 time_ms=3286 speed_KB/s=77 progress=90%
+[2026-03-17 17:30:27.682] [FRAG] idx=13 offset=3407872 len=262144 source=44.192.106.49:6001 time_ms=6420 speed_KB/s=39 progress=95%
+[2026-03-17 17:30:27.814] [FRAG] idx=15 offset=3932160 len=262144 source=13.220.244.217:6002 time_ms=4912 speed_KB/s=52 progress=100%
+[2026-03-17 17:30:27.815] [SUMMARY] ============================================
+[2026-03-17 17:30:27.815] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:30:27.817] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:30:27.820] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 17:30:27.821] [SUMMARY] total_fragments=20
+[2026-03-17 17:30:27.821] [SUMMARY] sources_used=5
+[2026-03-17 17:30:27.822] [SUMMARY] compression=true
+[2026-03-17 17:30:27.822] [SUMMARY] total_time_ms=12250
+[2026-03-17 17:30:27.823] [SUMMARY] avg_speed_KB/s=417
+[2026-03-17 17:30:27.823] [SUMMARY] failed_fragments=0
+[2026-03-17 17:30:27.824] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:30:27.832] [SUMMARY] source=44.192.106.49:6001 fragments=2 bytes=524288 time_ms=12114 speed_KB/s=42
+[2026-03-17 17:30:27.832] [SUMMARY] source=13.39.21.10:6000 fragments=7 bytes=1835008 time_ms=10780 speed_KB/s=166
+[2026-03-17 17:30:27.832] [SUMMARY] source=3.234.226.220:6003 fragments=4 bytes=1048576 time_ms=10920 speed_KB/s=93
+[2026-03-17 17:30:27.835] [SUMMARY] source=44.220.89.93:6002 fragments=4 bytes=1048576 time_ms=11093 speed_KB/s=92
+[2026-03-17 17:30:27.835] [SUMMARY] source=13.220.244.217:6002 fragments=3 bytes=786432 time_ms=12242 speed_KB/s=62
+[2026-03-17 17:30:27.835] [SUMMARY] ============================================
+[2026-03-17 17:30:27.836] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:30:29.518] [Download] === START === file=test-medium.bin fragment_size=524288 compression=true
+[2026-03-17 17:30:29.521] [Download] All sources from Directory:
+[2026-03-17 17:30:29.526] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:29.527] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:29.527] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:29.527] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:29.527] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:29.528] [Download] Using 5 source(s):
+[2026-03-17 17:30:29.528] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:29.529] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:29.529] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:29.529] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:29.529] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:30.107] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:30:30.114] [Download] Fragments: 10 x 512KB, sources: 5
+[2026-03-17 17:30:31.835] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=1696 speed_KB/s=301 progress=10%
+[2026-03-17 17:30:33.845] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=2009 speed_KB/s=254 progress=20%
+[2026-03-17 17:30:34.946] [FRAG] idx=1 offset=524288 len=524288 source=3.234.226.220:6003 time_ms=4825 speed_KB/s=106 progress=30%
+[2026-03-17 17:30:35.018] [FRAG] idx=2 offset=1048576 len=524288 source=44.220.89.93:6002 time_ms=4896 speed_KB/s=104 progress=40%
+[2026-03-17 17:30:35.868] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=2022 speed_KB/s=253 progress=50%
+[2026-03-17 17:30:37.407] [FRAG] idx=4 offset=2097152 len=524288 source=13.220.244.217:6002 time_ms=7285 speed_KB/s=70 progress=60%
+[2026-03-17 17:30:37.869] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2001 speed_KB/s=255 progress=70%
+[2026-03-17 17:30:39.785] [FRAG] idx=7 offset=3670016 len=524288 source=3.234.226.220:6003 time_ms=4838 speed_KB/s=105 progress=80%
+[2026-03-17 17:30:39.918] [FRAG] idx=8 offset=4194304 len=524288 source=44.220.89.93:6002 time_ms=4900 speed_KB/s=104 progress=90%
+[2026-03-17 17:30:40.681] [FRAG] idx=0 offset=0 len=524288 source=44.192.106.49:6001 time_ms=10559 speed_KB/s=48 progress=100%
+[2026-03-17 17:30:40.682] [SUMMARY] ============================================
+[2026-03-17 17:30:40.682] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:30:40.684] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:30:40.686] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 17:30:40.687] [SUMMARY] total_fragments=10
+[2026-03-17 17:30:40.687] [SUMMARY] sources_used=5
+[2026-03-17 17:30:40.688] [SUMMARY] compression=true
+[2026-03-17 17:30:40.688] [SUMMARY] total_time_ms=10566
+[2026-03-17 17:30:40.688] [SUMMARY] avg_speed_KB/s=484
+[2026-03-17 17:30:40.689] [SUMMARY] failed_fragments=0
+[2026-03-17 17:30:40.689] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:30:40.702] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=10559 speed_KB/s=48
+[2026-03-17 17:30:40.703] [SUMMARY] source=13.39.21.10:6000 fragments=4 bytes=2097152 time_ms=7728 speed_KB/s=265
+[2026-03-17 17:30:40.703] [SUMMARY] source=3.234.226.220:6003 fragments=2 bytes=1048576 time_ms=9663 speed_KB/s=105
+[2026-03-17 17:30:40.703] [SUMMARY] source=44.220.89.93:6002 fragments=2 bytes=1048576 time_ms=9796 speed_KB/s=104
+[2026-03-17 17:30:40.703] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=7285 speed_KB/s=70
+[2026-03-17 17:30:40.704] [SUMMARY] ============================================
+[2026-03-17 17:30:40.705] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:30:42.418] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=true
+[2026-03-17 17:30:42.420] [Download] All sources from Directory:
+[2026-03-17 17:30:42.424] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:42.424] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:42.425] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:42.425] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:42.425] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:42.426] [Download] Using 5 source(s):
+[2026-03-17 17:30:42.427] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:30:42.427] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:30:42.427] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:30:42.428] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:30:42.428] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:30:42.906] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:30:42.913] [Download] Fragments: 5 x 1024KB, sources: 5
+[2026-03-17 17:30:45.430] [FRAG] idx=1 offset=1048576 len=1048576 source=13.39.21.10:6000 time_ms=2500 speed_KB/s=409 progress=20%
+[2026-03-17 17:30:58.895] [FRAG] idx=2 offset=2097152 len=1048576 source=3.234.226.220:6003 time_ms=15975 speed_KB/s=64 progress=40%
+[2026-03-17 17:30:59.144] [FRAG] idx=3 offset=3145728 len=1048576 source=44.220.89.93:6002 time_ms=16223 speed_KB/s=63 progress=60%
+[2026-03-17 17:31:07.043] [FRAG] idx=4 offset=4194304 len=1048576 source=13.220.244.217:6002 time_ms=24121 speed_KB/s=42 progress=80%
+[2026-03-17 17:31:17.940] [FRAG] idx=0 offset=0 len=1048576 source=44.192.106.49:6001 time_ms=35021 speed_KB/s=29 progress=100%
+[2026-03-17 17:31:17.941] [SUMMARY] ============================================
+[2026-03-17 17:31:17.941] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:31:17.943] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:31:17.945] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 17:31:17.946] [SUMMARY] total_fragments=5
+[2026-03-17 17:31:17.946] [SUMMARY] sources_used=5
+[2026-03-17 17:31:17.947] [SUMMARY] compression=true
+[2026-03-17 17:31:17.947] [SUMMARY] total_time_ms=35026
+[2026-03-17 17:31:17.947] [SUMMARY] avg_speed_KB/s=146
+[2026-03-17 17:31:17.948] [SUMMARY] failed_fragments=0
+[2026-03-17 17:31:17.948] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:31:17.954] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=35021 speed_KB/s=29
+[2026-03-17 17:31:17.955] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2500 speed_KB/s=409
+[2026-03-17 17:31:17.955] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=1048576 time_ms=15975 speed_KB/s=64
+[2026-03-17 17:31:17.956] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=1048576 time_ms=16223 speed_KB/s=63
+[2026-03-17 17:31:17.956] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=1048576 time_ms=24121 speed_KB/s=42
+[2026-03-17 17:31:17.956] [SUMMARY] ============================================
+[2026-03-17 17:31:17.957] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:31:19.670] [Download] === START === file=test-medium.bin fragment_size=2097152 compression=true
+[2026-03-17 17:31:19.671] [Download] All sources from Directory:
+[2026-03-17 17:31:19.675] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:31:19.675] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:31:19.675] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:31:19.676] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:31:19.676] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:31:19.677] [Download] Using 5 source(s):
+[2026-03-17 17:31:19.677] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:31:19.677] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:31:19.678] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:31:19.678] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:31:19.678] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:31:20.369] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:31:20.375] [Download] Fragments: 3 x 2048KB, sources: 5
+[2026-03-17 17:32:09.475] [Download] === START === file=test-medium.bin fragment_size=131072 compression=true
+[2026-03-17 17:32:09.477] [Download] All sources from Directory:
+[2026-03-17 17:32:09.481] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:32:09.481] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:32:09.481] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:32:09.483] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:32:09.484] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:32:09.484] [Download] Using 5 source(s):
+[2026-03-17 17:32:09.485] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:32:09.485] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:32:09.485] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:32:09.485] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:32:09.486] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:32:10.175] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:32:10.183] [Download] Fragments: 40 x 128KB, sources: 5
+[2026-03-17 17:32:11.511] [FRAG] idx=0 offset=0 len=131072 source=13.39.21.10:6000 time_ms=1311 speed_KB/s=97 progress=2%
+[2026-03-17 17:32:12.823] [FRAG] idx=5 offset=655360 len=131072 source=13.39.21.10:6000 time_ms=1310 speed_KB/s=97 progress=5%
+[2026-03-17 17:32:12.987] [FRAG] idx=3 offset=393216 len=131072 source=44.220.89.93:6002 time_ms=2796 speed_KB/s=45 progress=7%
+[2026-03-17 17:32:13.885] [FRAG] idx=2 offset=262144 len=131072 source=3.234.226.220:6003 time_ms=3694 speed_KB/s=34 progress=10%
+[2026-03-17 17:32:14.061] [FRAG] idx=6 offset=786432 len=131072 source=13.39.21.10:6000 time_ms=1238 speed_KB/s=103 progress=12%
+[2026-03-17 17:32:14.115] [FRAG] idx=4 offset=524288 len=131072 source=13.220.244.217:6002 time_ms=3924 speed_KB/s=32 progress=15%
+[2026-03-17 17:32:15.369] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=1308 speed_KB/s=97 progress=17%
+[2026-03-17 17:32:16.345] [FRAG] idx=7 offset=917504 len=131072 source=44.220.89.93:6002 time_ms=3357 speed_KB/s=38 progress=20%
+[2026-03-17 17:32:16.679] [FRAG] idx=11 offset=1441792 len=131072 source=13.39.21.10:6000 time_ms=1309 speed_KB/s=97 progress=22%
+[2026-03-17 17:32:17.065] [FRAG] idx=8 offset=1048576 len=131072 source=3.234.226.220:6003 time_ms=3180 speed_KB/s=40 progress=25%
+[2026-03-17 17:32:17.158] [FRAG] idx=1 offset=131072 len=131072 source=44.192.106.49:6001 time_ms=6968 speed_KB/s=18 progress=27%
+[2026-03-17 17:32:17.987] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=1308 speed_KB/s=97 progress=30%
+[2026-03-17 17:32:18.046] [FRAG] idx=10 offset=1310720 len=131072 source=13.220.244.217:6002 time_ms=3930 speed_KB/s=32 progress=32%
+[2026-03-17 17:32:19.221] [FRAG] idx=16 offset=2097152 len=131072 source=13.39.21.10:6000 time_ms=1232 speed_KB/s=103 progress=35%
+[2026-03-17 17:32:19.881] [FRAG] idx=12 offset=1572864 len=131072 source=44.220.89.93:6002 time_ms=3536 speed_KB/s=36 progress=37%
+[2026-03-17 17:32:20.479] [FRAG] idx=14 offset=1835008 len=131072 source=3.234.226.220:6003 time_ms=3414 speed_KB/s=37 progress=40%
+[2026-03-17 17:32:20.530] [FRAG] idx=18 offset=2359296 len=131072 source=13.39.21.10:6000 time_ms=1309 speed_KB/s=97 progress=42%
+[2026-03-17 17:32:21.841] [FRAG] idx=21 offset=2752512 len=131072 source=13.39.21.10:6000 time_ms=1309 speed_KB/s=97 progress=45%
+[2026-03-17 17:32:21.941] [FRAG] idx=17 offset=2228224 len=131072 source=13.220.244.217:6002 time_ms=3894 speed_KB/s=32 progress=47%
+[2026-03-17 17:32:22.934] [FRAG] idx=15 offset=1966080 len=131072 source=44.192.106.49:6001 time_ms=5775 speed_KB/s=22 progress=50%
+[2026-03-17 17:32:23.167] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=1326 speed_KB/s=96 progress=52%
+[2026-03-17 17:32:23.342] [FRAG] idx=19 offset=2490368 len=131072 source=44.220.89.93:6002 time_ms=3461 speed_KB/s=36 progress=55%
+[2026-03-17 17:32:23.860] [FRAG] idx=20 offset=2621440 len=131072 source=3.234.226.220:6003 time_ms=3380 speed_KB/s=37 progress=57%
+[2026-03-17 17:32:24.406] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=1239 speed_KB/s=103 progress=60%
+[2026-03-17 17:32:25.725] [FRAG] idx=28 offset=3670016 len=131072 source=13.39.21.10:6000 time_ms=1318 speed_KB/s=97 progress=62%
+[2026-03-17 17:32:25.876] [FRAG] idx=23 offset=3014656 len=131072 source=13.220.244.217:6002 time_ms=3935 speed_KB/s=32 progress=65%
+[2026-03-17 17:32:26.979] [FRAG] idx=26 offset=3407872 len=131072 source=44.220.89.93:6002 time_ms=3636 speed_KB/s=35 progress=67%
+[2026-03-17 17:32:27.036] [FRAG] idx=29 offset=3801088 len=131072 source=13.39.21.10:6000 time_ms=1311 speed_KB/s=97 progress=70%
+[2026-03-17 17:32:27.754] [FRAG] idx=27 offset=3538944 len=131072 source=3.234.226.220:6003 time_ms=3893 speed_KB/s=32 progress=72%
+[2026-03-17 17:32:28.233] [FRAG] idx=30 offset=3932160 len=131072 source=13.220.244.217:6002 time_ms=2355 speed_KB/s=54 progress=75%
+[2026-03-17 17:32:28.359] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=1322 speed_KB/s=96 progress=77%
+[2026-03-17 17:32:29.351] [FRAG] idx=31 offset=4063232 len=131072 source=44.220.89.93:6002 time_ms=2370 speed_KB/s=54 progress=80%
+[2026-03-17 17:32:29.552] [FRAG] idx=24 offset=3145728 len=131072 source=44.192.106.49:6001 time_ms=6616 speed_KB/s=19 progress=82%
+[2026-03-17 17:32:29.589] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=104 progress=85%
+[2026-03-17 17:32:30.651] [FRAG] idx=33 offset=4325376 len=131072 source=3.234.226.220:6003 time_ms=2897 speed_KB/s=44 progress=87%
+[2026-03-17 17:32:30.759] [FRAG] idx=34 offset=4456448 len=131072 source=13.220.244.217:6002 time_ms=2526 speed_KB/s=50 progress=90%
+[2026-03-17 17:32:30.899] [FRAG] idx=38 offset=4980736 len=131072 source=13.39.21.10:6000 time_ms=1310 speed_KB/s=97 progress=92%
+[2026-03-17 17:32:31.760] [FRAG] idx=36 offset=4718592 len=131072 source=44.220.89.93:6002 time_ms=2408 speed_KB/s=53 progress=95%
+[2026-03-17 17:32:33.408] [FRAG] idx=39 offset=5111808 len=131072 source=3.234.226.220:6003 time_ms=2757 speed_KB/s=46 progress=97%
+[2026-03-17 17:32:35.404] [FRAG] idx=37 offset=4849664 len=131072 source=44.192.106.49:6001 time_ms=5852 speed_KB/s=21 progress=100%
+[2026-03-17 17:32:35.405] [SUMMARY] ============================================
+[2026-03-17 17:32:35.405] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:32:35.408] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:32:35.410] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 17:32:35.411] [SUMMARY] total_fragments=40
+[2026-03-17 17:32:35.411] [SUMMARY] sources_used=5
+[2026-03-17 17:32:35.412] [SUMMARY] compression=true
+[2026-03-17 17:32:35.412] [SUMMARY] total_time_ms=25220
+[2026-03-17 17:32:35.413] [SUMMARY] avg_speed_KB/s=203
+[2026-03-17 17:32:35.413] [SUMMARY] failed_fragments=0
+[2026-03-17 17:32:35.414] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:32:35.420] [SUMMARY] source=44.192.106.49:6001 fragments=4 bytes=524288 time_ms=25211 speed_KB/s=20
+[2026-03-17 17:32:35.420] [SUMMARY] source=13.39.21.10:6000 fragments=16 bytes=2097152 time_ms=20689 speed_KB/s=98
+[2026-03-17 17:32:35.421] [SUMMARY] source=3.234.226.220:6003 fragments=7 bytes=917504 time_ms=23215 speed_KB/s=38
+[2026-03-17 17:32:35.421] [SUMMARY] source=44.220.89.93:6002 fragments=7 bytes=917504 time_ms=21564 speed_KB/s=41
+[2026-03-17 17:32:35.421] [SUMMARY] source=13.220.244.217:6002 fragments=6 bytes=786432 time_ms=20564 speed_KB/s=37
+[2026-03-17 17:32:35.421] [SUMMARY] ============================================
+[2026-03-17 17:32:35.422] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:32:37.118] [Download] === START === file=test-medium.bin fragment_size=262144 compression=true
+[2026-03-17 17:32:37.119] [Download] All sources from Directory:
+[2026-03-17 17:32:37.123] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:32:37.124] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:32:37.124] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:32:37.124] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:32:37.125] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:32:37.125] [Download] Using 5 source(s):
+[2026-03-17 17:32:37.126] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:32:37.126] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:32:37.126] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:32:37.126] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:32:37.127] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:32:37.817] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:32:37.825] [Download] Fragments: 20 x 256KB, sources: 5
+[2026-03-17 17:32:39.400] [FRAG] idx=0 offset=0 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=5%
+[2026-03-17 17:32:40.951] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=10%
+[2026-03-17 17:32:42.302] [FRAG] idx=2 offset=524288 len=262144 source=44.220.89.93:6002 time_ms=4469 speed_KB/s=57 progress=15%
+[2026-03-17 17:32:42.504] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=1552 speed_KB/s=164 progress=20%
+[2026-03-17 17:32:42.529] [FRAG] idx=1 offset=262144 len=262144 source=3.234.226.220:6003 time_ms=4697 speed_KB/s=54 progress=25%
+[2026-03-17 17:32:44.060] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1556 speed_KB/s=164 progress=30%
+[2026-03-17 17:32:44.686] [FRAG] idx=4 offset=1048576 len=262144 source=13.220.244.217:6002 time_ms=6852 speed_KB/s=37 progress=35%
+[2026-03-17 17:32:45.106] [FRAG] idx=9 offset=2359296 len=262144 source=3.234.226.220:6003 time_ms=2576 speed_KB/s=99 progress=40%
+[2026-03-17 17:32:45.605] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=1543 speed_KB/s=165 progress=45%
+[2026-03-17 17:32:47.030] [FRAG] idx=7 offset=1835008 len=262144 source=44.220.89.93:6002 time_ms=4727 speed_KB/s=54 progress=50%
+[2026-03-17 17:32:47.153] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=55%
+[2026-03-17 17:32:47.691] [FRAG] idx=12 offset=3145728 len=262144 source=3.234.226.220:6003 time_ms=2584 speed_KB/s=99 progress=60%
+[2026-03-17 17:32:48.300] [FRAG] idx=3 offset=786432 len=262144 source=44.192.106.49:6001 time_ms=10466 speed_KB/s=24 progress=65%
+[2026-03-17 17:32:48.697] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=1544 speed_KB/s=165 progress=70%
+[2026-03-17 17:32:50.248] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=75%
+[2026-03-17 17:32:50.271] [FRAG] idx=16 offset=4194304 len=262144 source=3.234.226.220:6003 time_ms=2580 speed_KB/s=99 progress=80%
+[2026-03-17 17:32:50.809] [FRAG] idx=11 offset=2883584 len=262144 source=13.220.244.217:6002 time_ms=6122 speed_KB/s=41 progress=85%
+[2026-03-17 17:32:51.076] [FRAG] idx=14 offset=3670016 len=262144 source=44.220.89.93:6002 time_ms=4045 speed_KB/s=63 progress=90%
+[2026-03-17 17:32:51.809] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=1561 speed_KB/s=163 progress=95%
+[2026-03-17 17:32:58.756] [FRAG] idx=17 offset=4456448 len=262144 source=44.192.106.49:6001 time_ms=10456 speed_KB/s=24 progress=100%
+[2026-03-17 17:32:58.757] [SUMMARY] ============================================
+[2026-03-17 17:32:58.758] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:32:58.760] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:32:58.762] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 17:32:58.763] [SUMMARY] total_fragments=20
+[2026-03-17 17:32:58.763] [SUMMARY] sources_used=5
+[2026-03-17 17:32:58.763] [SUMMARY] compression=true
+[2026-03-17 17:32:58.764] [SUMMARY] total_time_ms=20928
+[2026-03-17 17:32:58.764] [SUMMARY] avg_speed_KB/s=244
+[2026-03-17 17:32:58.765] [SUMMARY] failed_fragments=0
+[2026-03-17 17:32:58.765] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:32:58.772] [SUMMARY] source=44.192.106.49:6001 fragments=2 bytes=524288 time_ms=20922 speed_KB/s=24
+[2026-03-17 17:32:58.774] [SUMMARY] source=13.39.21.10:6000 fragments=9 bytes=2359296 time_ms=13953 speed_KB/s=165
+[2026-03-17 17:32:58.774] [SUMMARY] source=3.234.226.220:6003 fragments=4 bytes=1048576 time_ms=12437 speed_KB/s=82
+[2026-03-17 17:32:58.774] [SUMMARY] source=44.220.89.93:6002 fragments=3 bytes=786432 time_ms=13241 speed_KB/s=58
+[2026-03-17 17:32:58.775] [SUMMARY] source=13.220.244.217:6002 fragments=2 bytes=524288 time_ms=12974 speed_KB/s=39
+[2026-03-17 17:32:58.775] [SUMMARY] ============================================
+[2026-03-17 17:32:58.775] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:33:00.482] [Download] === START === file=test-medium.bin fragment_size=524288 compression=true
+[2026-03-17 17:33:00.483] [Download] All sources from Directory:
+[2026-03-17 17:33:00.489] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:33:00.489] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:33:00.490] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:00.490] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:00.490] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:33:00.491] [Download] Using 5 source(s):
+[2026-03-17 17:33:00.491] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:33:00.492] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:33:00.492] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:00.492] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:00.492] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:33:01.023] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:33:01.031] [Download] Fragments: 10 x 512KB, sources: 5
+[2026-03-17 17:33:03.083] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2024 speed_KB/s=252 progress=10%
+[2026-03-17 17:33:05.028] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1944 speed_KB/s=263 progress=20%
+[2026-03-17 17:33:07.048] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=2020 speed_KB/s=253 progress=30%
+[2026-03-17 17:33:08.009] [FRAG] idx=2 offset=1048576 len=524288 source=3.234.226.220:6003 time_ms=6970 speed_KB/s=73 progress=40%
+[2026-03-17 17:33:08.423] [FRAG] idx=3 offset=1572864 len=524288 source=44.220.89.93:6002 time_ms=7384 speed_KB/s=69 progress=50%
+[2026-03-17 17:33:09.053] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=2004 speed_KB/s=255 progress=60%
+[2026-03-17 17:33:12.393] [FRAG] idx=4 offset=2097152 len=524288 source=13.220.244.217:6002 time_ms=11355 speed_KB/s=45 progress=70%
+[2026-03-17 17:33:15.424] [FRAG] idx=8 offset=4194304 len=524288 source=3.234.226.220:6003 time_ms=7414 speed_KB/s=69 progress=80%
+[2026-03-17 17:33:15.663] [FRAG] idx=9 offset=4718592 len=524288 source=44.220.89.93:6002 time_ms=7238 speed_KB/s=70 progress=90%
+[2026-03-17 17:33:16.882] [FRAG] idx=0 offset=0 len=524288 source=44.192.106.49:6001 time_ms=15844 speed_KB/s=32 progress=100%
+[2026-03-17 17:33:16.882] [SUMMARY] ============================================
+[2026-03-17 17:33:16.882] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:33:16.884] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:33:16.887] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 17:33:16.887] [SUMMARY] total_fragments=10
+[2026-03-17 17:33:16.888] [SUMMARY] sources_used=5
+[2026-03-17 17:33:16.888] [SUMMARY] compression=true
+[2026-03-17 17:33:16.889] [SUMMARY] total_time_ms=15848
+[2026-03-17 17:33:16.890] [SUMMARY] avg_speed_KB/s=323
+[2026-03-17 17:33:16.890] [SUMMARY] failed_fragments=0
+[2026-03-17 17:33:16.891] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:33:16.904] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=15844 speed_KB/s=32
+[2026-03-17 17:33:16.904] [SUMMARY] source=13.39.21.10:6000 fragments=4 bytes=2097152 time_ms=7992 speed_KB/s=256
+[2026-03-17 17:33:16.905] [SUMMARY] source=3.234.226.220:6003 fragments=2 bytes=1048576 time_ms=14384 speed_KB/s=71
+[2026-03-17 17:33:16.907] [SUMMARY] source=44.220.89.93:6002 fragments=2 bytes=1048576 time_ms=14622 speed_KB/s=70
+[2026-03-17 17:33:16.907] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=11355 speed_KB/s=45
+[2026-03-17 17:33:16.907] [SUMMARY] ============================================
+[2026-03-17 17:33:16.908] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:33:18.620] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=true
+[2026-03-17 17:33:18.621] [Download] All sources from Directory:
+[2026-03-17 17:33:18.625] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:33:18.626] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:33:18.626] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:18.630] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:18.630] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:33:18.631] [Download] Using 5 source(s):
+[2026-03-17 17:33:18.631] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:33:18.631] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:33:18.632] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:18.632] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:18.632] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:33:19.116] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:33:19.125] [Download] Fragments: 5 x 1024KB, sources: 5
+[2026-03-17 17:33:21.638] [FRAG] idx=1 offset=1048576 len=1048576 source=13.39.21.10:6000 time_ms=2494 speed_KB/s=410 progress=20%
+[2026-03-17 17:33:31.351] [FRAG] idx=2 offset=2097152 len=1048576 source=3.234.226.220:6003 time_ms=12219 speed_KB/s=83 progress=40%
+[2026-03-17 17:33:31.555] [FRAG] idx=3 offset=3145728 len=1048576 source=44.220.89.93:6002 time_ms=12421 speed_KB/s=82 progress=60%
+[2026-03-17 17:33:39.852] [FRAG] idx=4 offset=4194304 len=1048576 source=13.220.244.217:6002 time_ms=20718 speed_KB/s=49 progress=80%
+[2026-03-17 17:33:49.301] [FRAG] idx=0 offset=0 len=1048576 source=44.192.106.49:6001 time_ms=30168 speed_KB/s=33 progress=100%
+[2026-03-17 17:33:49.301] [SUMMARY] ============================================
+[2026-03-17 17:33:49.302] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:33:49.304] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:33:49.307] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 17:33:49.308] [SUMMARY] total_fragments=5
+[2026-03-17 17:33:49.308] [SUMMARY] sources_used=5
+[2026-03-17 17:33:49.308] [SUMMARY] compression=true
+[2026-03-17 17:33:49.309] [SUMMARY] total_time_ms=30174
+[2026-03-17 17:33:49.309] [SUMMARY] avg_speed_KB/s=169
+[2026-03-17 17:33:49.310] [SUMMARY] failed_fragments=0
+[2026-03-17 17:33:49.310] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:33:49.318] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=30168 speed_KB/s=33
+[2026-03-17 17:33:49.321] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2494 speed_KB/s=410
+[2026-03-17 17:33:49.321] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=1048576 time_ms=12219 speed_KB/s=83
+[2026-03-17 17:33:49.322] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=1048576 time_ms=12421 speed_KB/s=82
+[2026-03-17 17:33:49.322] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=1048576 time_ms=20718 speed_KB/s=49
+[2026-03-17 17:33:49.322] [SUMMARY] ============================================
+[2026-03-17 17:33:49.323] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:33:51.040] [Download] === START === file=test-medium.bin fragment_size=2097152 compression=true
+[2026-03-17 17:33:51.042] [Download] All sources from Directory:
+[2026-03-17 17:33:51.046] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:51.046] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:51.047] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:33:51.047] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:33:51.047] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:33:51.048] [Download] Using 5 source(s):
+[2026-03-17 17:33:51.048] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:33:51.049] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:33:51.049] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:33:51.049] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:33:51.050] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:33:52.003] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:33:52.008] [Download] Fragments: 3 x 2048KB, sources: 5
+[2026-03-17 17:34:07.955] [FRAG] idx=2 offset=4194304 len=1048576 source=44.220.89.93:6002 time_ms=15925 speed_KB/s=64 progress=20%
+[2026-03-17 17:34:17.895] [FRAG] idx=0 offset=0 len=2097152 source=3.234.226.220:6003 time_ms=25877 speed_KB/s=79 progress=60%
+[2026-03-17 17:35:06.064] [FRAG] idx=1 offset=2097152 len=2097152 source=44.192.106.49:6001 time_ms=74046 speed_KB/s=27 progress=100%
+[2026-03-17 17:35:06.065] [SUMMARY] ============================================
+[2026-03-17 17:35:06.065] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:35:06.067] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:35:06.070] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 17:35:06.070] [SUMMARY] total_fragments=3
+[2026-03-17 17:35:06.071] [SUMMARY] sources_used=5
+[2026-03-17 17:35:06.071] [SUMMARY] compression=true
+[2026-03-17 17:35:06.072] [SUMMARY] total_time_ms=74056
+[2026-03-17 17:35:06.072] [SUMMARY] avg_speed_KB/s=69
+[2026-03-17 17:35:06.073] [SUMMARY] failed_fragments=0
+[2026-03-17 17:35:06.073] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:35:06.085] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=2097152 time_ms=74046 speed_KB/s=27
+[2026-03-17 17:35:06.085] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=2097152 time_ms=25877 speed_KB/s=79
+[2026-03-17 17:35:06.089] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=1048576 time_ms=15925 speed_KB/s=64
+[2026-03-17 17:35:06.089] [SUMMARY] ============================================
+[2026-03-17 17:35:06.089] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:35:07.800] [Download] === START === file=test-medium.bin fragment_size=131072 compression=false
+[2026-03-17 17:35:07.801] [Download] All sources from Directory:
+[2026-03-17 17:35:07.807] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:07.808] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:07.809] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:07.809] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:35:07.809] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:35:07.810] [Download] Using 5 source(s):
+[2026-03-17 17:35:07.810] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:07.811] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:07.811] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:07.811] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:35:07.811] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:35:08.441] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:35:08.446] [Download] Fragments: 40 x 128KB, sources: 5
+[2026-03-17 17:35:09.770] [FRAG] idx=1 offset=131072 len=131072 source=13.39.21.10:6000 time_ms=1307 speed_KB/s=97 progress=2%
+[2026-03-17 17:35:09.895] [FRAG] idx=2 offset=262144 len=131072 source=3.234.226.220:6003 time_ms=1443 speed_KB/s=88 progress=5%
+[2026-03-17 17:35:09.912] [FRAG] idx=3 offset=393216 len=131072 source=44.220.89.93:6002 time_ms=1459 speed_KB/s=87 progress=7%
+[2026-03-17 17:35:10.421] [FRAG] idx=4 offset=524288 len=131072 source=13.220.244.217:6002 time_ms=1967 speed_KB/s=65 progress=10%
+[2026-03-17 17:35:11.087] [FRAG] idx=5 offset=655360 len=131072 source=13.39.21.10:6000 time_ms=1317 speed_KB/s=97 progress=12%
+[2026-03-17 17:35:11.347] [FRAG] idx=6 offset=786432 len=131072 source=3.234.226.220:6003 time_ms=1451 speed_KB/s=88 progress=15%
+[2026-03-17 17:35:11.374] [FRAG] idx=7 offset=917504 len=131072 source=44.220.89.93:6002 time_ms=1461 speed_KB/s=87 progress=17%
+[2026-03-17 17:35:12.387] [FRAG] idx=8 offset=1048576 len=131072 source=13.220.244.217:6002 time_ms=1966 speed_KB/s=65 progress=20%
+[2026-03-17 17:35:12.397] [FRAG] idx=9 offset=1179648 len=131072 source=13.39.21.10:6000 time_ms=1309 speed_KB/s=97 progress=22%
+[2026-03-17 17:35:12.802] [FRAG] idx=10 offset=1310720 len=131072 source=3.234.226.220:6003 time_ms=1455 speed_KB/s=87 progress=25%
+[2026-03-17 17:35:12.832] [FRAG] idx=11 offset=1441792 len=131072 source=44.220.89.93:6002 time_ms=1458 speed_KB/s=87 progress=27%
+[2026-03-17 17:35:13.639] [FRAG] idx=0 offset=0 len=131072 source=44.192.106.49:6001 time_ms=5188 speed_KB/s=24 progress=30%
+[2026-03-17 17:35:13.705] [FRAG] idx=13 offset=1703936 len=131072 source=13.39.21.10:6000 time_ms=1307 speed_KB/s=97 progress=32%
+[2026-03-17 17:35:14.476] [FRAG] idx=14 offset=1835008 len=131072 source=3.234.226.220:6003 time_ms=1673 speed_KB/s=76 progress=35%
+[2026-03-17 17:35:14.526] [FRAG] idx=15 offset=1966080 len=131072 source=44.220.89.93:6002 time_ms=1694 speed_KB/s=75 progress=37%
+[2026-03-17 17:35:14.580] [FRAG] idx=12 offset=1572864 len=131072 source=13.220.244.217:6002 time_ms=2193 speed_KB/s=58 progress=40%
+[2026-03-17 17:35:14.934] [FRAG] idx=17 offset=2228224 len=131072 source=13.39.21.10:6000 time_ms=1229 speed_KB/s=104 progress=42%
+[2026-03-17 17:35:16.242] [FRAG] idx=21 offset=2752512 len=131072 source=13.39.21.10:6000 time_ms=1308 speed_KB/s=97 progress=45%
+[2026-03-17 17:35:16.967] [FRAG] idx=18 offset=2359296 len=131072 source=3.234.226.220:6003 time_ms=2491 speed_KB/s=51 progress=47%
+[2026-03-17 17:35:17.303] [FRAG] idx=19 offset=2490368 len=131072 source=44.220.89.93:6002 time_ms=2776 speed_KB/s=46 progress=50%
+[2026-03-17 17:35:17.471] [FRAG] idx=22 offset=2883584 len=131072 source=13.39.21.10:6000 time_ms=1228 speed_KB/s=104 progress=52%
+[2026-03-17 17:35:18.267] [FRAG] idx=20 offset=2621440 len=131072 source=13.220.244.217:6002 time_ms=3687 speed_KB/s=34 progress=55%
+[2026-03-17 17:35:18.777] [FRAG] idx=25 offset=3276800 len=131072 source=13.39.21.10:6000 time_ms=1305 speed_KB/s=98 progress=57%
+[2026-03-17 17:35:19.192] [FRAG] idx=16 offset=2097152 len=131072 source=44.192.106.49:6001 time_ms=5552 speed_KB/s=23 progress=60%
+[2026-03-17 17:35:19.643] [FRAG] idx=23 offset=3014656 len=131072 source=3.234.226.220:6003 time_ms=2676 speed_KB/s=47 progress=62%
+[2026-03-17 17:35:20.009] [FRAG] idx=24 offset=3145728 len=131072 source=44.220.89.93:6002 time_ms=2706 speed_KB/s=47 progress=65%
+[2026-03-17 17:35:20.080] [FRAG] idx=27 offset=3538944 len=131072 source=13.39.21.10:6000 time_ms=1303 speed_KB/s=98 progress=67%
+[2026-03-17 17:35:21.385] [FRAG] idx=31 offset=4063232 len=131072 source=13.39.21.10:6000 time_ms=1305 speed_KB/s=98 progress=70%
+[2026-03-17 17:35:22.203] [FRAG] idx=26 offset=3407872 len=131072 source=13.220.244.217:6002 time_ms=3935 speed_KB/s=32 progress=72%
+[2026-03-17 17:35:22.372] [FRAG] idx=29 offset=3801088 len=131072 source=3.234.226.220:6003 time_ms=2728 speed_KB/s=46 progress=75%
+[2026-03-17 17:35:22.697] [FRAG] idx=32 offset=4194304 len=131072 source=13.39.21.10:6000 time_ms=1311 speed_KB/s=97 progress=77%
+[2026-03-17 17:35:22.772] [FRAG] idx=30 offset=3932160 len=131072 source=44.220.89.93:6002 time_ms=2763 speed_KB/s=46 progress=80%
+[2026-03-17 17:35:24.000] [FRAG] idx=35 offset=4587520 len=131072 source=13.39.21.10:6000 time_ms=1303 speed_KB/s=98 progress=82%
+[2026-03-17 17:35:25.109] [FRAG] idx=34 offset=4456448 len=131072 source=3.234.226.220:6003 time_ms=2736 speed_KB/s=46 progress=85%
+[2026-03-17 17:35:25.154] [FRAG] idx=28 offset=3670016 len=131072 source=44.192.106.49:6001 time_ms=5962 speed_KB/s=21 progress=87%
+[2026-03-17 17:35:25.319] [FRAG] idx=37 offset=4849664 len=131072 source=13.39.21.10:6000 time_ms=1317 speed_KB/s=97 progress=90%
+[2026-03-17 17:35:25.484] [FRAG] idx=36 offset=4718592 len=131072 source=44.220.89.93:6002 time_ms=2712 speed_KB/s=47 progress=92%
+[2026-03-17 17:35:26.122] [FRAG] idx=33 offset=4325376 len=131072 source=13.220.244.217:6002 time_ms=3919 speed_KB/s=32 progress=95%
+[2026-03-17 17:35:27.856] [FRAG] idx=38 offset=4980736 len=131072 source=3.234.226.220:6003 time_ms=2746 speed_KB/s=46 progress=97%
+[2026-03-17 17:35:31.776] [FRAG] idx=39 offset=5111808 len=131072 source=44.192.106.49:6001 time_ms=6622 speed_KB/s=19 progress=100%
+[2026-03-17 17:35:31.777] [SUMMARY] ============================================
+[2026-03-17 17:35:31.777] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:35:31.779] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:35:31.782] [SUMMARY] fragment_size=131072 bytes (128 KB)
+[2026-03-17 17:35:31.782] [SUMMARY] total_fragments=40
+[2026-03-17 17:35:31.782] [SUMMARY] sources_used=5
+[2026-03-17 17:35:31.783] [SUMMARY] compression=false
+[2026-03-17 17:35:31.783] [SUMMARY] total_time_ms=23329
+[2026-03-17 17:35:31.784] [SUMMARY] avg_speed_KB/s=219
+[2026-03-17 17:35:31.784] [SUMMARY] failed_fragments=0
+[2026-03-17 17:35:31.784] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:35:31.797] [SUMMARY] source=44.192.106.49:6001 fragments=4 bytes=524288 time_ms=23324 speed_KB/s=21
+[2026-03-17 17:35:31.797] [SUMMARY] source=13.39.21.10:6000 fragments=13 bytes=1703936 time_ms=16849 speed_KB/s=98
+[2026-03-17 17:35:31.798] [SUMMARY] source=3.234.226.220:6003 fragments=9 bytes=1179648 time_ms=19399 speed_KB/s=59
+[2026-03-17 17:35:31.798] [SUMMARY] source=44.220.89.93:6002 fragments=8 bytes=1048576 time_ms=17029 speed_KB/s=60
+[2026-03-17 17:35:31.798] [SUMMARY] source=13.220.244.217:6002 fragments=6 bytes=786432 time_ms=17667 speed_KB/s=43
+[2026-03-17 17:35:31.798] [SUMMARY] ============================================
+[2026-03-17 17:35:31.798] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:35:33.498] [Download] === START === file=test-medium.bin fragment_size=262144 compression=false
+[2026-03-17 17:35:33.499] [Download] All sources from Directory:
+[2026-03-17 17:35:33.503] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:33.504] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:33.504] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:33.505] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:35:33.505] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:35:33.505] [Download] Using 5 source(s):
+[2026-03-17 17:35:33.506] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:33.506] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:33.506] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:33.506] [Download]   44.220.89.93:6002 [load=1]
+[2026-03-17 17:35:33.507] [Download]   13.220.244.217:6002 [load=1]
+[2026-03-17 17:35:36.158] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:35:36.167] [Download] Fragments: 20 x 256KB, sources: 5
+[2026-03-17 17:35:37.732] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=1543 speed_KB/s=165 progress=5%
+[2026-03-17 17:35:39.271] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=1538 speed_KB/s=166 progress=10%
+[2026-03-17 17:35:39.292] [FRAG] idx=3 offset=786432 len=262144 source=44.220.89.93:6002 time_ms=3119 speed_KB/s=82 progress=15%
+[2026-03-17 17:35:39.974] [FRAG] idx=2 offset=524288 len=262144 source=3.234.226.220:6003 time_ms=3802 speed_KB/s=67 progress=20%
+[2026-03-17 17:35:40.803] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=1532 speed_KB/s=167 progress=25%
+[2026-03-17 17:35:41.885] [FRAG] idx=7 offset=1835008 len=262144 source=44.220.89.93:6002 time_ms=2593 speed_KB/s=98 progress=30%
+[2026-03-17 17:35:42.335] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1532 speed_KB/s=167 progress=35%
+[2026-03-17 17:35:42.540] [FRAG] idx=8 offset=2097152 len=262144 source=3.234.226.220:6003 time_ms=2566 speed_KB/s=99 progress=40%
+[2026-03-17 17:35:42.802] [FRAG] idx=4 offset=1048576 len=262144 source=13.220.244.217:6002 time_ms=6628 speed_KB/s=38 progress=45%
+[2026-03-17 17:35:43.885] [FRAG] idx=11 offset=2883584 len=262144 source=13.39.21.10:6000 time_ms=1548 speed_KB/s=165 progress=50%
+[2026-03-17 17:35:44.486] [FRAG] idx=10 offset=2621440 len=262144 source=44.220.89.93:6002 time_ms=2599 speed_KB/s=98 progress=55%
+[2026-03-17 17:35:45.114] [FRAG] idx=12 offset=3145728 len=262144 source=3.234.226.220:6003 time_ms=2573 speed_KB/s=99 progress=60%
+[2026-03-17 17:35:45.515] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=1630 speed_KB/s=157 progress=65%
+[2026-03-17 17:35:46.464] [FRAG] idx=13 offset=3407872 len=262144 source=13.220.244.217:6002 time_ms=3662 speed_KB/s=69 progress=70%
+[2026-03-17 17:35:47.060] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=1544 speed_KB/s=165 progress=75%
+[2026-03-17 17:35:47.094] [FRAG] idx=15 offset=3932160 len=262144 source=44.220.89.93:6002 time_ms=2606 speed_KB/s=98 progress=80%
+[2026-03-17 17:35:47.690] [FRAG] idx=16 offset=4194304 len=262144 source=3.234.226.220:6003 time_ms=2576 speed_KB/s=99 progress=85%
+[2026-03-17 17:35:47.813] [FRAG] idx=0 offset=0 len=262144 source=44.192.106.49:6001 time_ms=11641 speed_KB/s=21 progress=90%
+[2026-03-17 17:35:48.607] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=95%
+[2026-03-17 17:35:50.122] [FRAG] idx=18 offset=4718592 len=262144 source=13.220.244.217:6002 time_ms=3658 speed_KB/s=69 progress=100%
+[2026-03-17 17:35:50.124] [SUMMARY] ============================================
+[2026-03-17 17:35:50.124] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:35:50.126] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:35:50.129] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 17:35:50.129] [SUMMARY] total_fragments=20
+[2026-03-17 17:35:50.130] [SUMMARY] sources_used=5
+[2026-03-17 17:35:50.130] [SUMMARY] compression=false
+[2026-03-17 17:35:50.131] [SUMMARY] total_time_ms=13954
+[2026-03-17 17:35:50.131] [SUMMARY] avg_speed_KB/s=366
+[2026-03-17 17:35:50.132] [SUMMARY] failed_fragments=0
+[2026-03-17 17:35:50.132] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:35:50.140] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=262144 time_ms=11641 speed_KB/s=21
+[2026-03-17 17:35:50.140] [SUMMARY] source=13.39.21.10:6000 fragments=8 bytes=2097152 time_ms=12414 speed_KB/s=164
+[2026-03-17 17:35:50.141] [SUMMARY] source=3.234.226.220:6003 fragments=4 bytes=1048576 time_ms=11517 speed_KB/s=88
+[2026-03-17 17:35:50.143] [SUMMARY] source=44.220.89.93:6002 fragments=4 bytes=1048576 time_ms=10917 speed_KB/s=93
+[2026-03-17 17:35:50.143] [SUMMARY] source=13.220.244.217:6002 fragments=3 bytes=786432 time_ms=13948 speed_KB/s=55
+[2026-03-17 17:35:50.145] [SUMMARY] ============================================
+[2026-03-17 17:35:50.145] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:35:51.889] [Download] === START === file=test-medium.bin fragment_size=524288 compression=false
+[2026-03-17 17:35:51.890] [Download] All sources from Directory:
+[2026-03-17 17:35:51.894] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:51.894] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:51.895] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:51.895] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:35:51.895] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:35:51.896] [Download] Using 5 source(s):
+[2026-03-17 17:35:51.896] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:35:51.896] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 17:35:51.896] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:35:51.897] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:35:51.897] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:35:55.098] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:35:55.103] [Download] Fragments: 10 x 512KB, sources: 5
+[2026-03-17 17:35:57.126] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2005 speed_KB/s=255 progress=10%
+[2026-03-17 17:35:59.118] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1992 speed_KB/s=257 progress=20%
+[2026-03-17 17:35:59.925] [FRAG] idx=2 offset=1048576 len=524288 source=3.234.226.220:6003 time_ms=4815 speed_KB/s=106 progress=30%
+[2026-03-17 17:35:59.968] [FRAG] idx=3 offset=1572864 len=524288 source=44.220.89.93:6002 time_ms=4858 speed_KB/s=105 progress=40%
+[2026-03-17 17:36:01.115] [FRAG] idx=6 offset=3145728 len=524288 source=13.39.21.10:6000 time_ms=1995 speed_KB/s=256 progress=50%
+[2026-03-17 17:36:02.163] [FRAG] idx=4 offset=2097152 len=524288 source=13.220.244.217:6002 time_ms=7052 speed_KB/s=72 progress=60%
+[2026-03-17 17:36:03.118] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=2002 speed_KB/s=255 progress=70%
+[2026-03-17 17:36:04.840] [FRAG] idx=7 offset=3670016 len=524288 source=3.234.226.220:6003 time_ms=4914 speed_KB/s=104 progress=80%
+[2026-03-17 17:36:04.843] [FRAG] idx=8 offset=4194304 len=524288 source=44.220.89.93:6002 time_ms=4875 speed_KB/s=105 progress=90%
+[2026-03-17 17:36:14.978] [FRAG] idx=0 offset=0 len=524288 source=44.192.106.49:6001 time_ms=19869 speed_KB/s=25 progress=100%
+[2026-03-17 17:36:14.979] [SUMMARY] ============================================
+[2026-03-17 17:36:14.979] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:36:14.981] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:36:14.983] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 17:36:14.984] [SUMMARY] total_fragments=10
+[2026-03-17 17:36:14.984] [SUMMARY] sources_used=5
+[2026-03-17 17:36:14.985] [SUMMARY] compression=false
+[2026-03-17 17:36:14.987] [SUMMARY] total_time_ms=19874
+[2026-03-17 17:36:14.988] [SUMMARY] avg_speed_KB/s=257
+[2026-03-17 17:36:14.988] [SUMMARY] failed_fragments=0
+[2026-03-17 17:36:14.990] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:36:15.000] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=524288 time_ms=19869 speed_KB/s=25
+[2026-03-17 17:36:15.001] [SUMMARY] source=13.39.21.10:6000 fragments=4 bytes=2097152 time_ms=7994 speed_KB/s=256
+[2026-03-17 17:36:15.001] [SUMMARY] source=3.234.226.220:6003 fragments=2 bytes=1048576 time_ms=9729 speed_KB/s=105
+[2026-03-17 17:36:15.001] [SUMMARY] source=44.220.89.93:6002 fragments=2 bytes=1048576 time_ms=9733 speed_KB/s=105
+[2026-03-17 17:36:15.002] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=524288 time_ms=7052 speed_KB/s=72
+[2026-03-17 17:36:15.002] [SUMMARY] ============================================
+[2026-03-17 17:36:15.002] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:36:16.725] [Download] === START === file=test-medium.bin fragment_size=1048576 compression=false
+[2026-03-17 17:36:16.727] [Download] All sources from Directory:
+[2026-03-17 17:36:16.731] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:36:16.731] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:36:16.732] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:36:16.732] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:36:16.732] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:36:16.733] [Download] Using 5 source(s):
+[2026-03-17 17:36:16.733] [Download]   44.192.106.49:6001 [load=0]
+[2026-03-17 17:36:16.734] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:36:16.734] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:36:16.734] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:36:16.735] [Download]   3.234.226.220:6003 [load=1]
+[2026-03-17 17:36:17.433] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:36:17.437] [Download] Fragments: 5 x 1024KB, sources: 5
+[2026-03-17 17:36:19.687] [FRAG] idx=3 offset=3145728 len=1048576 source=13.39.21.10:6000 time_ms=2226 speed_KB/s=460 progress=20%
+[2026-03-17 17:36:34.364] [FRAG] idx=4 offset=4194304 len=1048576 source=3.234.226.220:6003 time_ms=16919 speed_KB/s=60 progress=40%
+[2026-03-17 17:36:34.685] [FRAG] idx=1 offset=1048576 len=1048576 source=44.220.89.93:6002 time_ms=17242 speed_KB/s=59 progress=60%
+[2026-03-17 17:36:41.265] [FRAG] idx=2 offset=2097152 len=1048576 source=13.220.244.217:6002 time_ms=23822 speed_KB/s=42 progress=80%
+[2026-03-17 17:36:53.790] [FRAG] idx=0 offset=0 len=1048576 source=44.192.106.49:6001 time_ms=36348 speed_KB/s=28 progress=100%
+[2026-03-17 17:36:53.791] [SUMMARY] ============================================
+[2026-03-17 17:36:53.791] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:36:53.793] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:36:53.795] [SUMMARY] fragment_size=1048576 bytes (1024 KB)
+[2026-03-17 17:36:53.796] [SUMMARY] total_fragments=5
+[2026-03-17 17:36:53.796] [SUMMARY] sources_used=5
+[2026-03-17 17:36:53.797] [SUMMARY] compression=false
+[2026-03-17 17:36:53.797] [SUMMARY] total_time_ms=36352
+[2026-03-17 17:36:53.798] [SUMMARY] avg_speed_KB/s=140
+[2026-03-17 17:36:53.798] [SUMMARY] failed_fragments=0
+[2026-03-17 17:36:53.798] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:36:53.811] [SUMMARY] source=44.192.106.49:6001 fragments=1 bytes=1048576 time_ms=36348 speed_KB/s=28
+[2026-03-17 17:36:53.814] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1048576 time_ms=2226 speed_KB/s=460
+[2026-03-17 17:36:53.814] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=1048576 time_ms=16919 speed_KB/s=60
+[2026-03-17 17:36:53.815] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=1048576 time_ms=17242 speed_KB/s=59
+[2026-03-17 17:36:53.815] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=1048576 time_ms=23822 speed_KB/s=42
+[2026-03-17 17:36:53.815] [SUMMARY] ============================================
+[2026-03-17 17:36:53.815] [Download] Output: /home/ubuntu/./output/test-medium.bin
+[2026-03-17 17:36:55.507] [Download] === START === file=test-medium.bin fragment_size=2097152 compression=false
+[2026-03-17 17:36:55.509] [Download] All sources from Directory:
+[2026-03-17 17:36:55.513] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:36:55.513] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:36:55.514] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:36:55.514] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:36:55.515] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:36:55.515] [Download] Using 5 source(s):
+[2026-03-17 17:36:55.516] [Download]   3.234.226.220:6003 [load=0]
+[2026-03-17 17:36:55.516] [Download]   44.220.89.93:6002 [load=0]
+[2026-03-17 17:36:55.516] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 17:36:55.517] [Download]   44.192.106.49:6001 [load=1]
+[2026-03-17 17:36:55.517] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 17:36:56.153] [Download] File size: 5242880 bytes (5120 KB)
+[2026-03-17 17:36:56.162] [Download] Fragments: 3 x 2048KB, sources: 5
+[2026-03-17 17:37:21.786] [FRAG] idx=2 offset=4194304 len=1048576 source=13.220.244.217:6002 time_ms=25594 speed_KB/s=40 progress=20%
+[2026-03-17 17:37:25.669] [FRAG] idx=0 offset=0 len=2097152 source=3.234.226.220:6003 time_ms=29499 speed_KB/s=69 progress=60%
+[2026-03-17 17:37:26.342] [FRAG] idx=1 offset=2097152 len=2097152 source=44.220.89.93:6002 time_ms=30171 speed_KB/s=67 progress=100%
+[2026-03-17 17:37:26.342] [SUMMARY] ============================================
+[2026-03-17 17:37:26.343] [SUMMARY] file=test-medium.bin
+[2026-03-17 17:37:26.345] [SUMMARY] file_size=5242880 bytes
+[2026-03-17 17:37:26.347] [SUMMARY] fragment_size=2097152 bytes (2048 KB)
+[2026-03-17 17:37:26.348] [SUMMARY] total_fragments=3
+[2026-03-17 17:37:26.350] [SUMMARY] sources_used=5
+[2026-03-17 17:37:26.350] [SUMMARY] compression=false
+[2026-03-17 17:37:26.351] [SUMMARY] total_time_ms=30179
+[2026-03-17 17:37:26.353] [SUMMARY] avg_speed_KB/s=169
+[2026-03-17 17:37:26.353] [SUMMARY] failed_fragments=0
+[2026-03-17 17:37:26.353] [SUMMARY] --- Per-source stats ---
+[2026-03-17 17:37:26.364] [SUMMARY] source=3.234.226.220:6003 fragments=1 bytes=2097152 time_ms=29499 speed_KB/s=69
+[2026-03-17 17:37:26.366] [SUMMARY] source=44.220.89.93:6002 fragments=1 bytes=2097152 time_ms=30171 speed_KB/s=67
+[2026-03-17 17:37:26.367] [SUMMARY] source=13.220.244.217:6002 fragments=1 bytes=1048576 time_ms=25594 speed_KB/s=40
+[2026-03-17 17:37:26.368] [SUMMARY] ============================================
+[2026-03-17 17:37:26.368] [Download] Output: /home/ubuntu/./output/test-medium.bin

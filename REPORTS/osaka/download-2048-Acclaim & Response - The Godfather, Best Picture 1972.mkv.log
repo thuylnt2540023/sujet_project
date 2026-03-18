@@ -1,0 +1,46 @@
+[2026-03-17 05:55:50.828] [Download] === START === file=Acclaim & Response - The Godfather, Best Picture 1972.mkv fragment_size=524288 compression=false
+[2026-03-17 05:55:50.829] [Download] All sources from Directory:
+[2026-03-17 05:55:50.834] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:55:50.834] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:55:50.834] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:55:50.835] [Download] Using 3 source(s):
+[2026-03-17 05:55:50.835] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:55:50.836] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:55:50.836] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:55:51.317] [Download] File size: 9959701 bytes (9726 KB)
+[2026-03-17 05:55:51.323] [Download] Fragments: 19 x 512KB, sources: 3
+[2026-03-17 05:55:53.357] [FRAG] idx=1 offset=524288 len=524288 source=13.39.21.10:6000 time_ms=2014 speed_KB/s=254 progress=5%
+[2026-03-17 05:55:55.362] [FRAG] idx=3 offset=1572864 len=524288 source=13.39.21.10:6000 time_ms=2003 speed_KB/s=255 progress=10%
+[2026-03-17 05:55:57.362] [FRAG] idx=4 offset=2097152 len=524288 source=13.39.21.10:6000 time_ms=1999 speed_KB/s=256 progress=15%
+[2026-03-17 05:55:58.435] [FRAG] idx=2 offset=1048576 len=524288 source=13.220.244.217:6002 time_ms=7106 speed_KB/s=72 progress=21%
+[2026-03-17 05:55:59.130] [FRAG] idx=5 offset=2621440 len=524288 source=13.39.21.10:6000 time_ms=1767 speed_KB/s=289 progress=26%
+[2026-03-17 05:55:59.305] [FRAG] idx=0 offset=0 len=524288 source=32.195.67.201:6001 time_ms=7977 speed_KB/s=64 progress=31%
+[2026-03-17 05:56:01.141] [FRAG] idx=7 offset=3670016 len=524288 source=13.39.21.10:6000 time_ms=2010 speed_KB/s=254 progress=36%
+[2026-03-17 05:56:03.138] [FRAG] idx=9 offset=4718592 len=524288 source=13.39.21.10:6000 time_ms=1996 speed_KB/s=256 progress=42%
+[2026-03-17 05:56:05.137] [FRAG] idx=10 offset=5242880 len=524288 source=13.39.21.10:6000 time_ms=1998 speed_KB/s=256 progress=47%
+[2026-03-17 05:56:05.488] [FRAG] idx=6 offset=3145728 len=524288 source=13.220.244.217:6002 time_ms=7052 speed_KB/s=72 progress=52%
+[2026-03-17 05:56:07.134] [FRAG] idx=11 offset=5767168 len=524288 source=13.39.21.10:6000 time_ms=1997 speed_KB/s=256 progress=57%
+[2026-03-17 05:56:07.186] [FRAG] idx=8 offset=4194304 len=524288 source=32.195.67.201:6001 time_ms=7879 speed_KB/s=64 progress=63%
+[2026-03-17 05:56:09.064] [FRAG] idx=13 offset=6815744 len=524288 source=13.39.21.10:6000 time_ms=1928 speed_KB/s=265 progress=68%
+[2026-03-17 05:56:10.834] [FRAG] idx=15 offset=7864320 len=524288 source=13.39.21.10:6000 time_ms=1769 speed_KB/s=289 progress=73%
+[2026-03-17 05:56:12.536] [FRAG] idx=12 offset=6291456 len=524288 source=13.220.244.217:6002 time_ms=7047 speed_KB/s=72 progress=78%
+[2026-03-17 05:56:12.827] [FRAG] idx=16 offset=8388608 len=524288 source=13.39.21.10:6000 time_ms=1992 speed_KB/s=257 progress=84%
+[2026-03-17 05:56:14.604] [FRAG] idx=18 offset=9437184 len=522517 source=13.39.21.10:6000 time_ms=1776 speed_KB/s=287 progress=89%
+[2026-03-17 05:56:15.075] [FRAG] idx=14 offset=7340032 len=524288 source=32.195.67.201:6001 time_ms=7888 speed_KB/s=64 progress=94%
+[2026-03-17 05:56:19.590] [FRAG] idx=17 offset=8912896 len=524288 source=13.220.244.217:6002 time_ms=7053 speed_KB/s=72 progress=100%
+[2026-03-17 05:56:19.590] [SUMMARY] ============================================
+[2026-03-17 05:56:19.591] [SUMMARY] file=Acclaim & Response - The Godfather, Best Picture 1972.mkv
+[2026-03-17 05:56:19.593] [SUMMARY] file_size=9959701 bytes
+[2026-03-17 05:56:19.596] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:56:19.596] [SUMMARY] total_fragments=19
+[2026-03-17 05:56:19.597] [SUMMARY] sources_used=3
+[2026-03-17 05:56:19.597] [SUMMARY] compression=false
+[2026-03-17 05:56:19.597] [SUMMARY] total_time_ms=28266
+[2026-03-17 05:56:19.598] [SUMMARY] avg_speed_KB/s=344
+[2026-03-17 05:56:19.598] [SUMMARY] failed_fragments=0
+[2026-03-17 05:56:19.598] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:56:19.605] [SUMMARY] source=32.195.67.201:6001 fragments=3 bytes=1572864 time_ms=23744 speed_KB/s=64
+[2026-03-17 05:56:19.605] [SUMMARY] source=13.39.21.10:6000 fragments=12 bytes=6289685 time_ms=23249 speed_KB/s=264
+[2026-03-17 05:56:19.606] [SUMMARY] source=13.220.244.217:6002 fragments=4 bytes=2097152 time_ms=28258 speed_KB/s=72
+[2026-03-17 05:56:19.606] [SUMMARY] ============================================
+[2026-03-17 05:56:19.606] [Download] Output: /home/ubuntu/./outptrue/Acclaim & Response - The Godfather, Best Picture 1972.mkv
