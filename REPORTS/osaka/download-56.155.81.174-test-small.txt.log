@@ -1,0 +1,72 @@
+[2026-03-17 05:10:01.632] [Download] === START === file=test-small.txt fragment_size=524288 compression=false
+[2026-03-17 05:10:01.634] [Download] All sources from Directory:
+[2026-03-17 05:10:01.646] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:10:01.647] [Download] Using 1 source(s):
+[2026-03-17 05:10:01.647] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:10:02.340] [Download] File size: 1051 bytes (1 KB)
+[2026-03-17 05:10:02.345] [Download] Fragments: 1 x 512KB, sources: 1
+[2026-03-17 05:10:03.072] [FRAG] idx=0 offset=0 len=1051 source=13.39.21.10:6000 time_ms=711 speed_KB/s=1 progress=100%
+[2026-03-17 05:10:03.073] [SUMMARY] ============================================
+[2026-03-17 05:10:03.073] [SUMMARY] file=test-small.txt
+[2026-03-17 05:10:03.075] [SUMMARY] file_size=1051 bytes
+[2026-03-17 05:10:03.078] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:10:03.078] [SUMMARY] total_fragments=1
+[2026-03-17 05:10:03.079] [SUMMARY] sources_used=1
+[2026-03-17 05:10:03.080] [SUMMARY] compression=false
+[2026-03-17 05:10:03.080] [SUMMARY] total_time_ms=727
+[2026-03-17 05:10:03.080] [SUMMARY] avg_speed_KB/s=1
+[2026-03-17 05:10:03.081] [SUMMARY] failed_fragments=0
+[2026-03-17 05:10:03.081] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:10:03.090] [SUMMARY] source=13.39.21.10:6000 fragments=1 bytes=1051 time_ms=711 speed_KB/s=1
+[2026-03-17 05:10:03.090] [SUMMARY] ============================================
+[2026-03-17 05:10:03.090] [Download] Output: /home/ubuntu/./output/test-small.txt
+[2026-03-17 05:37:31.600] [Download] === START === file=test-small.txt fragment_size=524288 compression=false
+[2026-03-17 05:37:31.601] [Download] All sources from Directory:
+[2026-03-17 05:37:31.606] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:37:31.606] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:37:31.607] [Download] Using 2 source(s):
+[2026-03-17 05:37:31.607] [Download]   32.195.67.201:6001 [load=1]
+[2026-03-17 05:37:31.608] [Download]   13.39.21.10:6000 [load=1]
+[2026-03-17 05:37:32.328] [Download] File size: 1051 bytes (1 KB)
+[2026-03-17 05:37:32.334] [Download] Fragments: 1 x 512KB, sources: 2
+[2026-03-17 05:37:32.856] [FRAG] idx=0 offset=0 len=1051 source=32.195.67.201:6001 time_ms=507 speed_KB/s=2 progress=100%
+[2026-03-17 05:37:32.858] [SUMMARY] ============================================
+[2026-03-17 05:37:32.858] [SUMMARY] file=test-small.txt
+[2026-03-17 05:37:32.862] [SUMMARY] file_size=1051 bytes
+[2026-03-17 05:37:32.864] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:37:32.865] [SUMMARY] total_fragments=1
+[2026-03-17 05:37:32.866] [SUMMARY] sources_used=2
+[2026-03-17 05:37:32.866] [SUMMARY] compression=false
+[2026-03-17 05:37:32.867] [SUMMARY] total_time_ms=523
+[2026-03-17 05:37:32.867] [SUMMARY] avg_speed_KB/s=1
+[2026-03-17 05:37:32.868] [SUMMARY] failed_fragments=0
+[2026-03-17 05:37:32.868] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:37:32.875] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1051 time_ms=507 speed_KB/s=2
+[2026-03-17 05:37:32.875] [SUMMARY] ============================================
+[2026-03-17 05:37:32.876] [Download] Output: /home/ubuntu/./output/test-small.txt
+[2026-03-17 05:41:09.025] [Download] === START === file=test-small.txt fragment_size=524288 compression=false
+[2026-03-17 05:41:09.026] [Download] All sources from Directory:
+[2026-03-17 05:41:09.030] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:41:09.031] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:41:09.031] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:41:09.032] [Download] Using 3 source(s):
+[2026-03-17 05:41:09.032] [Download]   32.195.67.201:6001 [load=0]
+[2026-03-17 05:41:09.032] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 05:41:09.033] [Download]   13.220.244.217:6002 [load=0]
+[2026-03-17 05:41:09.510] [Download] File size: 1051 bytes (1 KB)
+[2026-03-17 05:41:09.516] [Download] Fragments: 1 x 512KB, sources: 3
+[2026-03-17 05:41:09.852] [FRAG] idx=0 offset=0 len=1051 source=32.195.67.201:6001 time_ms=317 speed_KB/s=3 progress=100%
+[2026-03-17 05:41:09.853] [SUMMARY] ============================================
+[2026-03-17 05:41:09.853] [SUMMARY] file=test-small.txt
+[2026-03-17 05:41:09.855] [SUMMARY] file_size=1051 bytes
+[2026-03-17 05:41:09.858] [SUMMARY] fragment_size=524288 bytes (512 KB)
+[2026-03-17 05:41:09.859] [SUMMARY] total_fragments=1
+[2026-03-17 05:41:09.859] [SUMMARY] sources_used=3
+[2026-03-17 05:41:09.860] [SUMMARY] compression=false
+[2026-03-17 05:41:09.860] [SUMMARY] total_time_ms=336
+[2026-03-17 05:41:09.861] [SUMMARY] avg_speed_KB/s=3
+[2026-03-17 05:41:09.862] [SUMMARY] failed_fragments=0
+[2026-03-17 05:41:09.862] [SUMMARY] --- Per-source stats ---
+[2026-03-17 05:41:09.876] [SUMMARY] source=32.195.67.201:6001 fragments=1 bytes=1051 time_ms=317 speed_KB/s=3
+[2026-03-17 05:41:09.876] [SUMMARY] ============================================
+[2026-03-17 05:41:09.877] [Download] Output: /home/ubuntu/./output/test-small.txt

@@ -177,6 +177,26 @@ def main():
         all_sources.extend(s)
         print(f"  {lf.relative_to(REPORTS_DIR)}  →  {len(m)} run(s)")
 
+    # deduplicate
+    def dedup(rows: list[dict]) -> list[dict]:
+        seen: set[tuple] = set()
+        out: list[dict] = []
+        for row in rows:
+            key = tuple(row.values())
+            if key not in seen:
+                seen.add(key)
+                out.append(row)
+        return out
+
+    before_main = len(all_main)
+    before_src  = len(all_sources)
+    all_main    = dedup(all_main)
+    all_sources = dedup(all_sources)
+    if (removed := before_main - len(all_main)):
+        print(f"  removed {removed} duplicate main row(s)")
+    if (removed := before_src - len(all_sources)):
+        print(f"  removed {removed} duplicate source row(s)")
+
     # write summary.csv
     out_main = REPORTS_DIR / "summary.csv"
     main_fields = [

@@ -1,0 +1,95 @@
+[2026-03-17 01:56:51.008] [Download] === START === file=Before.Sunset.2004.720p.BrRip.x264.YIFY.mp4 fragment_size=262144 compression=true
+[2026-03-17 01:56:51.010] [Download] All sources from Directory:
+[2026-03-17 01:56:51.013] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 01:56:51.014] [Download] Using 1 source(s):
+[2026-03-17 01:56:51.014] [Download]   13.39.21.10:6000 [load=0]
+[2026-03-17 01:56:51.703] [Download] File size: 629293661 bytes (614544 KB)
+[2026-03-17 01:56:51.709] [Download] Fragments: 2401 x 256KB, sources: 1
+[2026-03-17 01:56:52.372] [FRAG] idx=0 offset=0 len=262144 source=13.39.21.10:6000 time_ms=637 speed_KB/s=401 progress=0%
+[2026-03-17 01:56:53.003] [FRAG] idx=1 offset=262144 len=262144 source=13.39.21.10:6000 time_ms=629 speed_KB/s=406 progress=0%
+[2026-03-17 01:56:53.638] [FRAG] idx=2 offset=524288 len=262144 source=13.39.21.10:6000 time_ms=635 speed_KB/s=403 progress=0%
+[2026-03-17 01:56:54.753] [FRAG] idx=3 offset=786432 len=262144 source=13.39.21.10:6000 time_ms=1114 speed_KB/s=229 progress=0%
+[2026-03-17 01:56:56.121] [FRAG] idx=4 offset=1048576 len=262144 source=13.39.21.10:6000 time_ms=1367 speed_KB/s=187 progress=0%
+[2026-03-17 01:56:57.464] [FRAG] idx=5 offset=1310720 len=262144 source=13.39.21.10:6000 time_ms=1342 speed_KB/s=190 progress=0%
+[2026-03-17 01:56:58.574] [FRAG] idx=6 offset=1572864 len=262144 source=13.39.21.10:6000 time_ms=1110 speed_KB/s=230 progress=0%
+[2026-03-17 01:56:59.690] [FRAG] idx=7 offset=1835008 len=262144 source=13.39.21.10:6000 time_ms=1116 speed_KB/s=229 progress=0%
+[2026-03-17 01:57:00.802] [FRAG] idx=8 offset=2097152 len=262144 source=13.39.21.10:6000 time_ms=1110 speed_KB/s=230 progress=0%
+[2026-03-17 01:57:02.147] [FRAG] idx=9 offset=2359296 len=262144 source=13.39.21.10:6000 time_ms=1345 speed_KB/s=190 progress=0%
+[2026-03-17 01:57:03.488] [FRAG] idx=10 offset=2621440 len=262144 source=13.39.21.10:6000 time_ms=1340 speed_KB/s=191 progress=0%
+[2026-03-17 01:57:05.036] [FRAG] idx=11 offset=2883584 len=262144 source=13.39.21.10:6000 time_ms=1548 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:06.585] [FRAG] idx=12 offset=3145728 len=262144 source=13.39.21.10:6000 time_ms=1548 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:08.130] [FRAG] idx=13 offset=3407872 len=262144 source=13.39.21.10:6000 time_ms=1545 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:09.689] [FRAG] idx=14 offset=3670016 len=262144 source=13.39.21.10:6000 time_ms=1558 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:11.234] [FRAG] idx=15 offset=3932160 len=262144 source=13.39.21.10:6000 time_ms=1544 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:12.790] [FRAG] idx=16 offset=4194304 len=262144 source=13.39.21.10:6000 time_ms=1556 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:14.343] [FRAG] idx=17 offset=4456448 len=262144 source=13.39.21.10:6000 time_ms=1552 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:15.895] [FRAG] idx=18 offset=4718592 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:17.454] [FRAG] idx=19 offset=4980736 len=262144 source=13.39.21.10:6000 time_ms=1558 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:19.020] [FRAG] idx=20 offset=5242880 len=262144 source=13.39.21.10:6000 time_ms=1565 speed_KB/s=163 progress=0%
+[2026-03-17 01:57:20.574] [FRAG] idx=21 offset=5505024 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:22.130] [FRAG] idx=22 offset=5767168 len=262144 source=13.39.21.10:6000 time_ms=1556 speed_KB/s=164 progress=0%
+[2026-03-17 01:57:23.679] [FRAG] idx=23 offset=6029312 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=0%
+[2026-03-17 01:57:25.222] [FRAG] idx=24 offset=6291456 len=262144 source=13.39.21.10:6000 time_ms=1542 speed_KB/s=166 progress=1%
+[2026-03-17 01:57:26.778] [FRAG] idx=25 offset=6553600 len=262144 source=13.39.21.10:6000 time_ms=1556 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:28.335] [FRAG] idx=26 offset=6815744 len=262144 source=13.39.21.10:6000 time_ms=1555 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:29.886] [FRAG] idx=27 offset=7077888 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:31.434] [FRAG] idx=28 offset=7340032 len=262144 source=13.39.21.10:6000 time_ms=1548 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:32.895] [FRAG] idx=29 offset=7602176 len=262144 source=13.39.21.10:6000 time_ms=1459 speed_KB/s=175 progress=1%
+[2026-03-17 01:57:34.452] [FRAG] idx=30 offset=7864320 len=262144 source=13.39.21.10:6000 time_ms=1556 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:36.003] [FRAG] idx=31 offset=8126464 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:37.544] [FRAG] idx=32 offset=8388608 len=262144 source=13.39.21.10:6000 time_ms=1541 speed_KB/s=166 progress=1%
+[2026-03-17 01:57:39.098] [FRAG] idx=33 offset=8650752 len=262144 source=13.39.21.10:6000 time_ms=1553 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:40.652] [FRAG] idx=34 offset=8912896 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:42.204] [FRAG] idx=35 offset=9175040 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:43.752] [FRAG] idx=36 offset=9437184 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:45.292] [FRAG] idx=37 offset=9699328 len=262144 source=13.39.21.10:6000 time_ms=1539 speed_KB/s=166 progress=1%
+[2026-03-17 01:57:46.850] [FRAG] idx=38 offset=9961472 len=262144 source=13.39.21.10:6000 time_ms=1558 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:48.307] [FRAG] idx=39 offset=10223616 len=262144 source=13.39.21.10:6000 time_ms=1457 speed_KB/s=175 progress=1%
+[2026-03-17 01:57:49.857] [FRAG] idx=40 offset=10485760 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=1%
+[2026-03-17 01:57:51.412] [FRAG] idx=41 offset=10747904 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:52.966] [FRAG] idx=42 offset=11010048 len=262144 source=13.39.21.10:6000 time_ms=1553 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:54.508] [FRAG] idx=43 offset=11272192 len=262144 source=13.39.21.10:6000 time_ms=1541 speed_KB/s=166 progress=1%
+[2026-03-17 01:57:56.064] [FRAG] idx=44 offset=11534336 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:57.623] [FRAG] idx=45 offset=11796480 len=262144 source=13.39.21.10:6000 time_ms=1559 speed_KB/s=164 progress=1%
+[2026-03-17 01:57:59.184] [FRAG] idx=46 offset=12058624 len=262144 source=13.39.21.10:6000 time_ms=1560 speed_KB/s=164 progress=1%
+[2026-03-17 01:58:00.739] [FRAG] idx=47 offset=12320768 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=1%
+[2026-03-17 01:58:02.293] [FRAG] idx=48 offset=12582912 len=262144 source=13.39.21.10:6000 time_ms=1554 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:03.762] [FRAG] idx=49 offset=12845056 len=262144 source=13.39.21.10:6000 time_ms=1469 speed_KB/s=174 progress=2%
+[2026-03-17 01:58:05.315] [FRAG] idx=50 offset=13107200 len=262144 source=13.39.21.10:6000 time_ms=1551 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:06.857] [FRAG] idx=51 offset=13369344 len=262144 source=13.39.21.10:6000 time_ms=1542 speed_KB/s=166 progress=2%
+[2026-03-17 01:58:08.415] [FRAG] idx=52 offset=13631488 len=262144 source=13.39.21.10:6000 time_ms=1558 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:09.969] [FRAG] idx=53 offset=13893632 len=262144 source=13.39.21.10:6000 time_ms=1553 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:11.533] [FRAG] idx=54 offset=14155776 len=262144 source=13.39.21.10:6000 time_ms=1563 speed_KB/s=163 progress=2%
+[2026-03-17 01:58:13.077] [FRAG] idx=55 offset=14417920 len=262144 source=13.39.21.10:6000 time_ms=1544 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:14.628] [FRAG] idx=56 offset=14680064 len=262144 source=13.39.21.10:6000 time_ms=1549 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:16.186] [FRAG] idx=57 offset=14942208 len=262144 source=13.39.21.10:6000 time_ms=1557 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:17.749] [FRAG] idx=58 offset=15204352 len=262144 source=13.39.21.10:6000 time_ms=1562 speed_KB/s=163 progress=2%
+[2026-03-17 01:58:19.207] [FRAG] idx=59 offset=15466496 len=262144 source=13.39.21.10:6000 time_ms=1458 speed_KB/s=175 progress=2%
+[2026-03-17 01:58:20.755] [FRAG] idx=60 offset=15728640 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:22.321] [FRAG] idx=61 offset=15990784 len=262144 source=13.39.21.10:6000 time_ms=1566 speed_KB/s=163 progress=2%
+[2026-03-17 01:58:23.872] [FRAG] idx=62 offset=16252928 len=262144 source=13.39.21.10:6000 time_ms=1550 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:25.417] [FRAG] idx=63 offset=16515072 len=262144 source=13.39.21.10:6000 time_ms=1544 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:26.963] [FRAG] idx=64 offset=16777216 len=262144 source=13.39.21.10:6000 time_ms=1545 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:28.506] [FRAG] idx=65 offset=17039360 len=262144 source=13.39.21.10:6000 time_ms=1542 speed_KB/s=166 progress=2%
+[2026-03-17 01:58:30.061] [FRAG] idx=66 offset=17301504 len=262144 source=13.39.21.10:6000 time_ms=1555 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:31.610] [FRAG] idx=67 offset=17563648 len=262144 source=13.39.21.10:6000 time_ms=1548 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:33.163] [FRAG] idx=68 offset=17825792 len=262144 source=13.39.21.10:6000 time_ms=1552 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:34.644] [FRAG] idx=69 offset=18087936 len=262144 source=13.39.21.10:6000 time_ms=1481 speed_KB/s=172 progress=2%
+[2026-03-17 01:58:36.191] [FRAG] idx=70 offset=18350080 len=262144 source=13.39.21.10:6000 time_ms=1547 speed_KB/s=165 progress=2%
+[2026-03-17 01:58:37.747] [FRAG] idx=71 offset=18612224 len=262144 source=13.39.21.10:6000 time_ms=1555 speed_KB/s=164 progress=2%
+[2026-03-17 01:58:37.981] [FRAG] idx=72 ERROR source=13.39.21.10:6000 error=Connection refused
+[2026-03-17 01:58:37.982] [Download] 2329 fragments left, fetching fresh sources...
+[2026-03-17 01:58:38.459] [SUMMARY] ============================================
+[2026-03-17 01:58:38.459] [SUMMARY] file=Before.Sunset.2004.720p.BrRip.x264.YIFY.mp4
+[2026-03-17 01:58:38.461] [SUMMARY] file_size=629293661 bytes
+[2026-03-17 01:58:38.464] [SUMMARY] fragment_size=262144 bytes (256 KB)
+[2026-03-17 01:58:38.465] [SUMMARY] total_fragments=2401
+[2026-03-17 01:58:38.465] [SUMMARY] sources_used=1
+[2026-03-17 01:58:38.466] [SUMMARY] compression=true
+[2026-03-17 01:58:38.466] [SUMMARY] total_time_ms=106738
+[2026-03-17 01:58:38.467] [SUMMARY] avg_speed_KB/s=5757
+[2026-03-17 01:58:38.467] [SUMMARY] failed_fragments=0
+[2026-03-17 01:58:38.468] [SUMMARY] --- Per-source stats ---
+[2026-03-17 01:58:38.481] [SUMMARY] source=13.39.21.10:6000 fragments=72 bytes=18874368 time_ms=105961 speed_KB/s=173
+[2026-03-17 01:58:38.482] [SUMMARY] ============================================
+[2026-03-17 01:58:38.482] [Download] Output: /home/ubuntu/./output/Before.Sunset.2004.720p.BrRip.x264.YIFY.mp4
